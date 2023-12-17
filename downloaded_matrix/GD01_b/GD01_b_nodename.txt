@@ -1,0 +1,18 @@
++90 pos
+turn right
+turn right equalizer
+0 pos
+turn left equalizer
++22 pos
+turn left
++22 - +90 intermediate
+0 - +22 intermediate
+turn right equalizer
+-22 pos
+turn right
+-90 pos
+turn left
+-60 pos
+turn left equalizer
+0 - -22 intermediate
+-22 - -90 intermediate

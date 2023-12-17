@@ -1,0 +1,12 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Oberwolfach/filter2D
+% name: Oberwolfach/filter2D : C matrix
+%-------------------------------------------------------------------------------
+5 1668 5
+5 550
+4 668
+2 802
+3 841
+1 857

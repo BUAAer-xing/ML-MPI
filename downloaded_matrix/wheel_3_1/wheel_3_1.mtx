@@ -1,0 +1,124 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/JGD_Margulies/wheel_3_1
+% name: JGD_Margulies/wheel_3_1
+% [Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis]
+% id: 2166
+% date: 2008
+% author: S. Margulies
+% ed: J.-G. Dumas
+% fields: name title A id date author ed kind notes
+% kind: combinatorial problem
+%-------------------------------------------------------------------------------
+% notes:
+% Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis
+% From Jean-Guillaume Dumas' Sparse Integer Matrix Collection,            
+% http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/simc.html               
+%                                                                         
+% http://arxiv.org/abs/0706.0578                                          
+%                                                                         
+% Expressing Combinatorial Optimization Problems by Systems of Polynomial 
+% Equations and the Nullstellensatz                                       
+%                                                                         
+% Authors: J.A. De Loera, J. Lee, Susan Margulies, S. Onn                 
+%                                                                         
+% (Submitted on 5 Jun 2007)                                               
+%                                                                         
+% Abstract: Systems of polynomial equations over the complex or real      
+% numbers can be used to model combinatorial problems. In this way, a     
+% combinatorial problem is feasible (e.g. a graph is 3-colorable,         
+% hamiltonian, etc.) if and only if a related system of polynomial        
+% equations has a solution. In the first part of this paper, we construct 
+% new polynomial encodings for the problems of finding in a graph its     
+% longest cycle, the largest planar subgraph, the edge-chromatic number,  
+% or the largest k-colorable subgraph.  For an infeasible polynomial      
+% system, the (complex) Hilbert Nullstellensatz gives a certificate that  
+% the associated combinatorial problem is infeasible. Thus, unless P =    
+% NP, there must exist an infinite sequence of infeasible instances of    
+% each hard combinatorial problem for which the minimum degree of a       
+% Hilbert Nullstellensatz certificate of the associated polynomial system 
+% grows.  We show that the minimum-degree of a Nullstellensatz            
+% certificate for the non-existence of a stable set of size greater than  
+% the stability number of the graph is the stability number of the graph. 
+% Moreover, such a certificate contains at least one term per stable set  
+% of G. In contrast, for non-3- colorability, we found only graphs with   
+% Nullstellensatz certificates of degree four.                            
+%                                                                         
+% Filename in JGD collection: Margulies/wheel_3_1.sms                     
+%-------------------------------------------------------------------------------
+21 25 74
+1 1
+2 1
+1 2
+3 2
+4 2
+3 3
+4 3
+12 3
+5 4
+7 4
+13 4
+8 5
+10 5
+16 5
+4 6
+5 6
+6 6
+12 7
+13 7
+14 7
+13 8
+14 8
+18 8
+16 9
+17 9
+20 9
+1 10
+6 10
+7 10
+3 11
+5 11
+14 11
+6 12
+7 12
+18 12
+8 13
+11 13
+20 13
+1 14
+8 14
+9 14
+3 15
+10 15
+15 15
+7 16
+11 16
+19 16
+8 17
+9 17
+21 17
+4 18
+9 18
+10 18
+12 19
+15 19
+16 19
+13 20
+17 20
+19 20
+15 21
+16 21
+21 21
+6 22
+9 22
+11 22
+14 23
+15 23
+17 23
+18 24
+19 24
+20 24
+19 25
+20 25
+21 25

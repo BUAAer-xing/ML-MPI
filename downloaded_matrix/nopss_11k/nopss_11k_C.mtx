@@ -1,0 +1,12 @@
+%%MatrixMarket matrix coordinate real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/nopss_11k
+% name: Rommes/nopss_11k : C matrix
+%-------------------------------------------------------------------------------
+1 11685 5
+1 1281 .03616849585933146
+1 1282 .609997459246238
+1 1283 .7282877807994177
+1 7358 .5049086860051838
+1 7359 .1533786991088333

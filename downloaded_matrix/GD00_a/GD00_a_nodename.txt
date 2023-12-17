@@ -1,0 +1,352 @@
+BrokenRelationException
+ConcretePrimitiveQuery
+DummyRelation
+Element
+EntitiesByTypeQuery
+Entity
+EntryNotFoundException
+FileException
+FileNotInProject
+ParallelQuery
+ParentScopeNotFoundException
+PrimitiveQuery
+Query
+RecursiveQuery
+Relation
+RelationsByTypeQuery
+Scope
+SectionNotFound
+SerialQuery
+UnimportantOperationException
+UnimportantStatementException
+VariableNotFound
+__non_rtti_object
+bad_alloc
+bad_cast
+bad_exception
+bad_typeid
+basic_filebuf<char, char_traits<char>>
+basic_fstream<char, char_traits<char>>
+basic_ios<char, char_traits<char>>
+basic_ios<wchar_t, char_traits<wchar_t>>
+basic_iostream<char, char_traits<char>>
+basic_istream<char, char_traits<char>>
+basic_istream<wchar_t, char_traits<wchar_t>>
+basic_ostream<char, char_traits<char>>
+basic_ostream<wchar_t, char_traits<wchar_t>>
+codecvt<wchar_t, char, mbstate_t>
+codecvt<char, char, state_type>
+codecvt_base
+domain_error
+invalid_argument
+length_error
+logic_error
+num_put<char, _Iter>
+numpunct<char>
+out_of_range
+overflow_error
+range_error
+runtime_error
+underflow_error
+_Locimp
+failure
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+Accessor
+Array
+Block
+Builtin
+Call
+Class
+ClassTemplate
+Constant
+CppModel
+CppModelFactory
+Field
+FieldAccess
+Friend
+Function
+FunctionTemplate
+HasType
+InNamespace
+InRecordScope
+InScope
+Inheritance
+LocalVariableOfType
+LocallyUsedType
+Member
+Method
+NameSpace
+Parameter
+Pointer
+PointerToMember
+QualifiedType
+Record
+ReturnType
+Routine
+RoutineType
+StaticDataMemberTemplate
+Struct
+Template
+TemplateInstance
+TemplateParameter
+Type
+TypeDef
+TypeRef
+TypeUsedInTypeRef
+Union
+Variable
+BuildException
+ElementType
+ILManager
+Log
+Measurement
+Model
+Project
+ProjectFile
+Property
+_Tree<int, value_type, _Kfn, less<int>, allocator<string>>
+_Tree<int, value_type, _Kfn, less<int>, allocator<string>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<int>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<int>>
+_Tree<TypeRefHack, value_type, _Kfn, LessByReferencedType, allocator<TypeRefHack>>
+_Tree<TypeRefHack, value_type, _Kfn, LessByReferencedType, allocator<TypeRefHack>>
+_Tree<RoutineTypeHack, value_type, _Kfn, LessByParamTypes, allocator<RoutineTypeHack>>
+_Tree<STD_Ptr<Scope>, value_type, _Kfn, less<STD_Ptr<Scope>>, allocator<STD_Ptr<Scope>>>
+_Tree<STD_Ptr<Entity>, value_type, _Kfn, LessByName, allocator<STD_Ptr<Entity>>>
+_Tree<PropertyName, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<PropertyName, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<ElementType*, value_type, _Kfn, less<ElementType*>, allocator<ElementType*>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<ElementType*>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<ElementType*>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<ILInstanceKey>, allocator<ILInstance>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<ILInstanceKey>, allocator<ILInstance>>
+_Tree<string, value_type, _Kfn, less<ILInstanceKey>, allocator<int>>
+_Tree<string, value_type, _Kfn, less<ILInstanceKey>, allocator<int>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<string>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<SectionContents>>
+_Tree<string, value_type, _Kfn, less<string>, allocator<SourceFile>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<string>, allocator<ILInstance>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<string>, allocator<ILInstance>>
+_Tree<STD_Ptr<Cell>, value_type, _Kfn, CellLessByElementID, allocator<STD_Ptr<Cell>>>
+_Tree<STD_Ptr<Cell>, value_type, _Kfn, CellLessByElementID, allocator<STD_Ptr<Cell>>>
+_Tree<Cell*, value_type, _Kfn, less<Cell*>, allocator<Cell*>>
+_Tree<Cell*, value_type, _Kfn, less<Cell*>, allocator<Cell*>>
+_Tree<PropertyName, value_type, _Kfn, less<PropertyName>, allocator<PropertyName>>
+_Tree<PropertyName, value_type, _Kfn, less<PropertyName>, allocator<PropertyName>>
+_Tree<int, value_type, _Kfn, less<int>, allocator<PropertyName>>
+_Tree<int, value_type, _Kfn, less<int>, allocator<PropertyName>>
+_Tree<string, value_type, _Kfn, less<PropertyName>, allocator<int>>
+_Tree<string, value_type, _Kfn, less<PropertyName>, allocator<int>>
+_Tree<void*, value_type, _Kfn, less<void*>, allocator<Entity*>>
+_Tree<void*, value_type, _Kfn, less<void*>, allocator<Entity*>>
+_Tree<PropertyName, value_type, _Kfn, less<PropertyName>, allocator<Property>>
+_Tree<PropertyName, value_type, _Kfn, less<PropertyName>, allocator<Property>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<PropertyName>, allocator<ILInstance>>
+_Tree<ILInstanceKey, value_type, _Kfn, less<PropertyName>, allocator<ILInstance>>
+_Tree<PropertyName, value_type, _Kfn, less<string>, allocator<PropertyName>>
+_Tree<PropertyName, value_type, _Kfn, less<string>, allocator<PropertyName>>
+basic_streambuf<char, char_traits<char>>
+basic_streambuf<wchar_t, char_traits<wchar_t>>
+basic_string<char, char_traits<char>, allocator<char>>
+deque<Block*, allocator<Block*>>
+ios_base
+list<PropertyValue, allocator<PropertyValue>>
+list<Entity*, allocator<Entity*>>
+list<Relation*, allocator<Relation*>>
+list<Element*, allocator<Element*>>
+list<Cell*, allocator<Cell*>>
+list<string, allocator<string>>
+list<ColumnDef, allocator<ColumnDef>>
+list<Query*, allocator<Query*>>
+list<TempResult, allocator<TempResult>>
+list<string, allocator<PropertyName>>
+list<STD_Ptr<TemplateParameter>, allocator<STD_Ptr<TemplateParameter>>>
+list<STD_Ptr<Block>, allocator<STD_Ptr<Block>>>
+list<BaseClass*, allocator<BaseClass*>>
+list<Constant*, allocator<Constant*>>
+list<Actual, allocator<Actual>>
+reverse_iterator<const_iterator, value_type, const_reference, const_reference*, difference_type>
+reverse_iterator<iterator, value_type, reference, reference*, difference_type>
+stack<Block*, deque<Block*, allocator<Block*>>>
+map<int, string, less<int>, allocator<string>>
+map<string, int, less<string>, allocator<int>>
+map<string, ElementType*, less<string>, allocator<ElementType*>>
+map<ILInstanceKey, ILInstance, less<ILInstanceKey>, allocator<ILInstance>>
+map<string, int, less<ILInstanceKey>, allocator<int>>
+map<string, string, less<string>, allocator<string>>
+map<string, SectionContents, less<string>, allocator<SectionContents>>
+map<string, SourceFile, less<string>, allocator<SourceFile>>
+map<ILInstanceKey, ILInstance, less<string>, allocator<ILInstance>>
+map<Cell*, Cell*, less<Cell*>, allocator<Cell*>>
+map<int, string, less<int>, allocator<PropertyName>>
+map<string, int, less<PropertyName>, allocator<int>>
+map<void*, Entity*, less<void*>, allocator<Entity*>>
+map<PropertyName, Property, less<PropertyName>, allocator<Property>>
+map<ILInstanceKey, ILInstance, less<PropertyName>, allocator<ILInstance>>
+multiset<TypeRefHack, LessByReferencedType, allocator<TypeRefHack>>
+multiset<RoutineTypeHack, LessByParamTypes, allocator<RoutineTypeHack>>
+multiset<STD_Ptr<Entity>, LessByName, allocator<STD_Ptr<Entity>>>
+set<STD_Ptr<Scope>, less<STD_Ptr<Scope>>, allocator<STD_Ptr<Scope>>>
+set<PropertyName, less<string>, allocator<string>>
+set<ElementType*, less<ElementType*>, allocator<ElementType*>>
+set<string, less<string>, allocator<string>>
+set<STD_Ptr<Cell>, CellLessByElementID, allocator<STD_Ptr<Cell>>>
+set<PropertyName, less<PropertyName>, allocator<PropertyName>>
+set<PropertyName, less<string>, allocator<PropertyName>>
+vector<_Bool, _Bool_allocator>
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+const_iterator
+Object
+Exception
+exception
+facet
+ModelFactory
+SCPos
+allocator<string>
+allocator<int>
+allocator<TypeRefHack>
+allocator<RoutineTypeHack>
+allocator<STD_Ptr<Scope>>
+allocator<STD_Ptr<Entity>>
+allocator<ElementType*>
+allocator<ILInstance>
+allocator<SectionContents>
+allocator<SourceFile>
+allocator<STD_Ptr<Cell>>
+allocator<Cell*>
+allocator<PropertyName>
+allocator<Entity*>
+allocator<Property>
+locale
+allocator<char>
+allocator<Block*>
+allocator<PropertyValue>
+allocator<Relation*>
+allocator<Element*>
+allocator<ColumnDef>
+allocator<Query*>
+allocator<TempResult>
+allocator<STD_Ptr<TemplateParameter>>
+allocator<STD_Ptr<Block>>
+allocator<BaseClass*>
+allocator<Constant*>
+allocator<Actual>
+iterator
+iterator
+iterator
+iterator
+iterator
+allocator<ElementType*>
+iterator
+iterator
+allocator<SourceFile>
+iterator
+iterator
+iterator
+iterator
+iterator
+iterator
+allocator<Entity*>
+allocator<STD_Ptr<Block>>
+allocator<BaseClass*>
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+value_compare
+reference
+PropertyValue
+ColumnDef
+TempResult
+STD_Ptr<TemplateParameter>
+STD_Ptr<Block>
+STD_Ptr<Block>

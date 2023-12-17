@@ -1,0 +1,10 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/M80PI_n1
+% name: Rommes/M80PI_n1 : C matrix
+%-------------------------------------------------------------------------------
+3 4028 3
+1 2733
+2 2894
+3 3214

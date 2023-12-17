@@ -1,0 +1,2909 @@
+AACR
+AACR2
+AACR2e
+AAHSL
+AALL
+AAP
+AASL
+AB Bookman's Weekly
+ABA
+ABAA
+abbreviation
+abecedarium
+Abridged Decimal Classification (ADC)
+abridgment
+abstract
+abstracting service
+academic library
+academic press
+academic status
+acceptable use policy
+access
+access code
+access point
+access services
+access time
+accession
+accession number
+accession order
+accession record
+accompanying material
+accreditation
+accredited library school
+acid paper
+acid-free paper
+acknowledgments
+acquisition number
+acquisitions
+ACRL
+Acrobat
+acronym
+ad loc.
+ADA
+adaptation
+ADC
+added copy
+added edition
+added entry
+added title page
+addendum
+address
+adhesive binding
+adjacency
+adjustable shelving
+Adobe Acrobat
+adult learner
+adult services
+advance copy
+advance on royalty
+advance order
+advance sheet
+adverts
+aerial map
+affiliated library
+against the grain
+agent
+AI
+AIIP
+AILA
+aisle
+AJL
+ALA
+ALA Editions
+album
+alcove
+ALCTS
+Alexandrian Library
+alias
+Alibris
+alignment
+ALISE
+all published
+all rights reserved
+allegory
+allonym
+allusion
+almanac
+alpha test
+alphabet
+alphabet book
+alphabetical
+alphameric
+alphanumeric
+ALSC
+ALTA
+alternative press
+alternative title
+American Association of Law Libraries (AALL)
+American Association of School Librarians (AASL)
+American Booksellers Association (ABA)
+American Indian Library Association (AILA)
+American Libraries
+American Library Association (ALA)
+American Library Directory
+American National Standards Institute (ANSI)
+American Printing History Association (APHA)
+American Society for Information Science (ASIS)
+American Society of Indexers (ASI)
+American Theological Library Association (ATLA)
+Americana
+americanize
+Americans with Disabilities Act (ADA)
+-ana or -iana
+analects
+analog
+analytical bibliography
+analytical entry
+analytical note
+analytics
+Anglo-American Cataloging Rules (AACR)
+animated graphics
+annals
+annotated bibliography
+annotated edition
+annotation
+annual
+annual report
+annual review
+anonymous
+anonymous FTP
+ANSI
+anthology
+antiquarian book
+antiquarian bookseller
+Antiquarian Booksellers Association of America (ABAA)
+antique
+antonym
+APA style
+APALA
+APHA
+aphorism
+apocryphal
+appendix
+applet
+application
+approval plan
+approval shelf
+approvals
+approved library school
+archetypal novel
+architectural binding
+architectural rendering
+archival copy
+archival journal
+archive
+archives
+archivist
+area
+argot
+aristonym
+ARL
+ARLIS/NA
+ARMA
+armarian
+armarium
+ARPAnet
+arrangement
+arranger
+ARSC
+art book
+Art Libraries Society/North America (ARLIS/NA)
+art library
+art original
+art print
+article
+artifact
+artificial intelligence (AI)
+artwork
+ASCII text
+ASCLA
+ASI
+Asian/Pacific American Librarians Association (APALA)
+ASIS
+association
+association copy
+Association for Library and Information Science Education (ALISE)
+Association for Library Collections and Technical Services (ALCTS)
+Association for Library Service to Children (ALSC)
+Association for Library Trustees and Advocates (ALTA)
+Association for Recorded Sound Collections (ARSC)
+Association of Academic Health Sciences Libraries (AAHSL)
+Association of American Publishers (AAP)
+Association of College and Research Libraries (ACRL)
+Association of Independent Information Professionals (AIIP)
+Association of Jewish Libraries
+Association of Records Managers and Administrators (ARMA)
+Association of Research Libraries (ARL)
+Association of Specialized and Cooperative Library Agencies (ASCLA)
+asynchronous
+athenaeum
+ATLA
+atlas
+atlas case
+atlas folio
+attachment
+audiobook
+audiocassette
+audiorecording
+audiotape
+audiovisual
+authentication
+author
+author abstract
+author bibliography
+author index
+author interview
+author mark
+authority control
+authority file
+authority record
+authority work
+authorization
+authorized edition
+author's contract
+author's edition
+author's editor
+author's proof
+authorship
+authorware
+autobiography
+autograph
+autographed edition
+automatic checkout
+autonym
+back
+back file
+back issue
+back matter
+back number
+back order (BO)
+backbone
+backlist
+backstrip
+backup
+Baker & Taylor
+ballad
+bandwidth
+banned book
+banner
+barcode
+bastard title
+battledore
+BBS
+BCALA
+beast epic
+beginning reader
+Bell & Howell Information and Learning
+belles lettres
+Berne Convention
+best-seller
+bestiary
+bestseller
+Beta Phi Mu
+beta test
+BI
+biannual
+bibelot
+bible paper
+biblioclast
+bibliographee
+bibliographer
+bibliographic control
+bibliographic database
+bibliographic description
+bibliographic essay
+bibliographic instruction (BI)
+bibliographic item
+bibliographic record
+bibliographic retrieval
+bibliographic service center
+bibliographic utility
+Bibliographical Society of America (BSA)
+bibliography
+biblioholism
+biblioklept
+bibliolatry
+bibliology
+bibliomancy
+bibliomania
+bibliometrics
+bibliopegy
+bibliophile
+bibliophobia
+bibliopole
+bibliotaph
+bibliotheca
+Bibliotheque nationale de France (BnF)
+bibliotherapy
+biennial
+Bildungsroman
+bilingual edition
+bimonthly
+binary
+binder's title
+bindery
+binding
+binding copy
+binding edge
+biobibliography
+biographical dictionary
+biography
+BIP
+birth and death dates
+birthday book
+bit
+biweekly
+Black Caucus of the American Library Association (BCALA)
+black letter
+Blackwell
+blank
+blanket order
+blanking
+bleed
+blind
+blind page
+blind reference
+block book
+block letter
+block quotation
+blocking
+blue book
+blue pencil
+blurb
+BnF
+BO
+board
+board book
+Bodleian Library
+body matter
+body type
+boldface
+bolt
+book
+book announcement
+book auction
+book award
+book band
+book block
+book catalog
+book cloth
+book club
+book club edition
+book collecting
+book cover
+book cradle
+book drop
+book fair
+book hand
+book history
+book jacket
+book label
+book lease plan
+book lift
+book light
+book list
+Book of Hours
+book-on-tape
+book post
+book press
+book prize
+book rate
+book return
+book review
+book sale
+book scout
+book signing
+book size
+book stamp
+book stock
+book stop
+book talk
+book trade
+book trade journal
+book truck
+Book Week
+bookbin
+bookbinding
+bookcase
+bookend
+booklet
+Booklist
+booklover
+bookmark
+bookmobile
+bookplate
+bookrest
+books-by-mail
+Books in Print (BIP)
+bookseller
+bookstall
+bookworm
+Boolean
+boot
+border
+borrower
+borrowing period
+boss
+bowdlerize
+Bowker
+box
+box-in
+braille
+branch library
+breviary
+brief
+briticize
+British Library
+broad classification
+broadcast
+broader term (BT or B)
+broadsheet
+broadside
+brochure
+Brodart
+broken link
+broken up
+browsability
+browse
+browser
+browser cache
+browsing
+BSA
+BT (or B)
+buckram
+budget
+buffer
+bug
+bulk
+bulk lending
+bull
+bulletin
+bulletin board
+bulletin board system (BBS)
+burlesque
+byline
+byte
+cache
+CALA
+Caldecott Medal
+calendar
+calender
+call number
+call slip
+calligraphy
+cameo binding
+camera-ready copy
+Canadian Library Association (CLA)
+cancel
+cancelled
+canon
+capital expenditure
+capital letter
+capsa
+caption
+caption title
+card catalog
+caricature
+CARL
+Carnegie library
+Carnegie Medal
+carousel
+carrel
+cartobibliography
+cartogram
+cartographic material
+cartography
+cartoon
+cartouche
+case
+case binding
+case sensitive
+case study
+casebook
+cased
+casing-in
+catalog
+catalog card
+cataloger
+cataloging
+cataloging-in-publication (CIP)
+catch letters
+catch title
+catchword
+catchword title
+Catholic Library Association (CLA)
+CatME
+caucus
+CBA
+CBC
+CBIP
+CCC
+CD
+CD-ROM
+CD-ROM changer
+CD-ROM drive
+CD-ROM LAN
+CD-ROM network
+CD-ROM tower
+ceased publication
+cell
+censorship
+Center for Research Libraries (CRL)
+Center for the Book
+Center for Book Arts (CBA)
+centerpiece
+central library
+central processing unit (CPU)
+centralized cataloging
+centralized processing
+certificate of issue
+certification
+CGI
+changed title
+chapbook
+chapter
+chapter heading
+character
+character set
+charge
+chart
+charter
+chat
+check digit
+check-in record
+checklist
+checkout period
+chef-d'oeuvre
+chief source of information
+children's book
+children's book award
+Children's Book Council (CBC)
+Children's Books in Print
+children's collection
+Chinese American Librarians Association (CALA)
+chip
+chipped
+CHOICE
+chronicle
+chronicle play
+chronology
+CIP
+cipher
+circa
+circulating collection
+circulating library
+circulation
+circulation desk
+circulation record
+circulation statistics
+circulation system
+citation
+citation chasing
+citation index
+CLA
+claim
+clasp
+class
+classic
+classics
+classification schedule
+classification scheme
+Classification Society of North American (CSNA)
+classification system
+classified catalog
+classified index
+clay tablet
+clearinghouse
+cliche
+click and drag
+client
+client-server
+clipboard
+clipping
+clipping service
+CLIR
+cloisonne
+close classification
+close out
+closed entry
+closed file
+closed reserve
+closed stacks
+closet drama
+cloth
+cloth book
+cloth joint
+clothbound
+CLR
+co-publishing
+coauthor
+cocked spine
+coda
+codex
+codicology
+coffee table book
+coil binding
+cold boot
+collaborator
+collate
+collating mark
+collation
+collected edition
+collected work
+collected works
+collection
+collection development
+collection development policy
+collection maintenance
+collection management
+collective biography
+collective name
+collective title
+college library
+collocation
+colloquy
+Colon Classification
+colophon
+color plate
+colporteur
+column
+column inch
+columnist
+comb binding
+comedy
+comic book
+command-driven
+commentary
+commercial journal
+commercial publisher
+Common Gateway Interface (CGI)
+commonplace book
+communications
+compact disc (CD)
+compact shelving
+compact storage
+company file
+company library
+compendium
+compilation
+compiler
+complete works
+complimentary copy
+composer
+composite author
+composite volume
+composite work
+composition
+compound surname
+compound subject heading
+computer file
+computer literacy
+computer program
+concordance
+condensation
+condensed book
+condition
+conference proceedings
+configuration
+conjugate leaves
+connect time
+CONSER
+conservation
+conservation binding
+consolidated shipment
+consortium
+conspectus
+consultant
+container
+conte
+content
+content analysis
+contents
+contents note
+context
+continuation
+continuation order
+continuing education
+continuous pagination
+continuous revision
+contour map
+contraction
+contributor
+controlled access
+controlled vocabulary
+convention discount
+convention issue
+conventional name
+conventional title
+cookbook
+cookie
+Cooperative Online Resource Catalog (CORC)
+copy
+copy card
+copy cataloging
+copy editor
+copy number
+copyist
+copyright
+Copyright Clearance Center (CCC)
+copyright date
+copyright depository
+copyright fee
+copyright piracy
+CORC
+core collection
+core journal
+corner
+cornerpiece
+corpora
+corporate author
+corporate body
+corporate name
+corporation library
+correspondence
+corrigenda
+corrupted text
+Council on Library and Information Resources (CLIR)
+Council on Library Resources (CLR)
+counter
+countermark
+countersunk
+counting book
+country code
+court hand
+cover
+cover story
+cover title
+coverage
+CPU
+cracker
+crawler
+credit
+credit line
+critical abstract
+critical annotation
+critical bibliography
+critical edition
+criticism
+critique
+CRL
+cropped
+cross-index
+cross-reference
+cryptography
+cryptonym
+CSNA
+cumdach
+cumulative index
+cuneiform
+curator
+curiosa
+currency
+current awareness service
+current bibliography
+current contents
+current issue
+curriculum guide
+curriculum room
+cursive
+cursor
+custody
+custom binding
+cut
+cut flush
+cut-in note
+Cutter number
+Cutter-Sanborn Table
+Cutter Table
+cybercafe
+cybernetics
+cyberporn
+cyberspace
+cybrarian
+cyclopedia
+daemon
+DAI
+daily
+dandy roll
+Dartmouth Medal
+dash
+data
+data compression
+data conversion
+data processing
+database
+database management system (DBMS)
+date due slip
+date line
+DBMS
+DBV
+DDC
+DDS
+deacidification
+dealer
+deckle edge
+declassification
+dedicated computer
+dedicated line
+dedication
+dedication copy
+default
+definition
+definitive edition
+delete
+deluxe edition
+demand publishing
+DEMCO
+departmental library
+dependent work
+deposit copy
+depository library
+derivative work
+descriptive bibliography
+descriptive cataloging
+descriptor
+deselection
+desensitization
+desiderata
+desk copy
+desk schedule
+desktop computer
+desktop publishing (DTP)
+detective fiction
+Deutscher Bibliogtheksverband e. V.
+device
+Dewey Decimal Classification (DDC)
+Dewey, Melvil
+diagnostics
+diagram
+DIALOG
+dialog box
+diary
+dictionary
+dictionary catalog
+dictionary stand
+differential pricing
+digest
+digital
+digital library
+digitization
+dime novel
+diorama
+diptych
+direct edition
+direct order
+directional
+director
+directory
+dirty proof
+disaster plan
+disbound
+disc
+discard
+discharge
+discography
+discontinued
+discount
+discussion list
+discourse analysis
+disk
+disk drive
+diskette
+display case
+display copy
+display matter
+display rack
+display type
+dissertation
+distance education
+distance learning
+distinctive title
+distribution rights
+distributor
+divide-like note
+divided catalog
+DNS
+document
+document camera
+document delivery service (DDS)
+documentary
+documentation
+documentation center
+dog-eared
+doggerel
+domain
+domain name
+Domain Name System
+dos-a-dos
+double leaf
+double numeration
+double plate
+double spread
+doublure
+doubtful authorship
+down time
+download
+dramatization
+driver
+drop
+drop-down title
+drop initial
+drop ship
+DTP
+due date
+dues
+dumb terminal
+dummy
+duodecimo (12mo)
+duotone
+duplex
+duplicate
+duplicate paging
+durable paper
+dust cover
+dust jacket
+DVD
+dwarf book
+dynamic map
+e-book
+e-conference
+e-journal
+e-mail
+e-mail address
+e-reserves
+e-zine
+easel
+easy book
+EBSCO
+editing
+edition
+edition binding
+editor
+editorial
+editorialize
+eggshell
+electronic book
+electronic conference
+electronic discussion list
+electronic journal
+electronic magazine
+electronic mail
+electronic publishing
+electronic reserves
+electronic style
+elegy
+element
+elephant folio
+elhi book
+elision
+ellipsis
+emblem book
+embossed
+emendation
+emergency plan
+encapsulation
+enchiridion
+encoding
+encryption
+encumbrance
+encyclopedia
+end matter
+end panel
+end-user
+end-user search
+endnote
+endowment
+endpaper
+enlarged edition
+enlargement
+entry
+entry word
+enumerative classification
+ephemera
+epic
+epigram
+epigraph
+epilogue
+epistle
+epistolary novel
+epithet
+epitome
+eponym
+ERIC
+erotica
+errata
+ERT
+ESL
+esparto
+essay
+et al.
+et seq.
+etc.
+Ethernet
+etymology
+eulogy
+ex-library copy
+ex libris
+exact size
+example
+excerpt
+exchange
+exemplar
+exemplum
+exhibit
+exhibit case
+exhibit catalog
+Exhibits Round Table (ERT)
+exit
+exit interview
+exotics
+expanded edition
+expert system
+explanatory reference
+explicit
+export
+export edition
+expurgated
+extended binding
+extended cover
+extended offer
+extension
+extent
+extent of item
+extra-illustrated
+extract
+extract type
+extranet
+extrapolation
+fable
+fabliau
+face
+face up
+facetiae
+facsimile
+facsimile binding
+facsimile catalog
+facsimile edition
+facsimile reprint
+facsimile transmission (FAX)
+factotum
+faculty status
+fair copy
+fair use
+fairy tale
+false date
+false drop
+false imprint
+family name
+fancy type
+fantasy
+FAQ
+farce
+farrago
+fascicle
+fascicule
+FAX
+FAXON
+feature film
+Federal Librarians Round Table (FLRT)
+federal library
+fee
+fee-based service
+feedback
+Feminist Task Force (FTF)
+Festschrift
+FIAF
+fiber optics
+fiche
+fiction
+fictitious imprint
+figure
+figure initial
+file name
+file server
+file type
+filename
+filigree
+filing title
+filing word
+fillet
+film
+film clip
+film library
+filmstrip
+filmstrip projector
+filter
+filtering
+finding list
+fine copy
+fine edition
+fines
+finis
+finish
+finishing
+firewall
+firm order
+first edition
+first folio
+first impression
+first issue
+first-line index
+first name
+firsts
+FirstSearch
+fixed location
+fixed shelving
+flag
+flame
+flannel board
+flap
+flash card
+flat back
+flexible binding
+flicker book
+floppy
+floppy disk
+flourish
+FLRT
+flush
+flush binding
+flush cover
+fly-title
+flyleaf
+fog index
+FOIA
+FOL
+fold
+folded book
+folder
+Folger Shakespeare Library
+foliate initial
+foliation
+folio
+folklore
+folktale
+FOLUSA
+font
+foot
+footline
+footnote
+fore-edge
+fore-edge painting
+foreign subsidiary
+forename
+forename entry
+foreword
+forgery
+form
+form of entry
+form subheading
+format
+forthcoming
+Forthcoming Books
+foxing
+frame
+Frankfurt Book Fair
+free hand
+free-standing shelving
+free-text searching
+freedom of information
+Freedom to Read Foundation (FTRF)
+Freedom to Read Statement
+freelance
+freeware
+frequency
+Friends of Libraries USA (FOLUSA)
+Friends of the Library (FOL)
+front matter
+front page
+frontis
+frontispiece
+frontlist
+FTF
+FTP
+fugitive material
+fulfillment year
+full binding
+full-color printing
+full-duplex
+full-motion video
+full-page
+full-text
+fumigation
+Gale
+galley proof
+galleys
+game
+gatefold
+gateway
+gathering
+Gay, Lesbian, Bisexual, and Transgendered Round Table (GLBTRT)
+Gaylord
+gazette
+gazetteer
+genealogical table
+genealogy
+general encyclopedia
+general material designation (GMD)
+generalia
+genre
+geographic name
+geographic subdivision
+geological survey
+German Library Association (DBV)
+ghost
+ghost writer
+gift
+giftbook
+gigabyte (GB)
+gilt edges
+given name
+glassine
+GLBTRT
+globe
+gloss
+glossary
+glossy
+GMD
+GODORT
+gone to press
+gothic
+gothic novel
+government documents
+Government Documents Round Table (GODORT)
+GPO
+grace period
+graduate library
+grain
+grangerized
+grant
+grant-in-aid
+graphical user interface (GUI)
+graphics
+gray literature
+green paper
+Greenaway Medal
+grey literature
+groupware
+guard
+GUI
+guidebook
+guillotine
+Gutenberg, Johann, c. 1399-1468
+gutter
+gutting
+H. W. Wilson
+hacker
+hagiography
+half binding
+half cloth
+half-duplex
+half leather
+half-title
+half uncial
+hand-binding
+handbill
+handbook
+hands-on
+hanging indention
+hard copy
+hard disk
+hardcover
+hardware
+head
+headband
+headcap
+heading
+headline
+headnote
+headpiece
+health sciences library
+hearings
+help screen
+Her Majesty's Stationery Office (HMSO)
+heuristic
+hierarchical classification
+hieroglyphics
+hieronym
+high-level domain
+Highsmith Inc.
+hinge
+historiated initial
+historical bibliography
+historical fiction
+historical society
+history
+history of the book
+hit
+hits
+HMSO
+hold
+holdings
+holdings note
+holdings rate
+hollow
+holograph
+homepage
+homily
+homograph
+homonym
+homophone
+honorific title
+horn book
+Horn Book Magazine
+hornbook
+hors texte
+hospital library
+hospitality
+host
+host organization
+hot spot
+house organ
+house style
+how-to-do-it publication
+HTML
+http://
+hybrid journal
+hyperlink
+hypermedia
+hypertext
+Hypertext Markup Language (HTML)
+hyphen
+ibid.
+ICIC
+icon
+iconography
+ideal copy
+ideogram
+ideograph
+idiom
+idyll
+i.e.
+IFCS
+IFLA
+IFLAI
+IFRT
+ILAB
+ILL
+illiteracy
+illuminate
+illuminated
+illuminated initial
+illustration
+illustrator
+imbrication
+imitation binding
+imperfect
+imperfections
+import
+impression
+imprimatur
+imprint
+imprint date
+in-cut note
+in press
+in print
+in process
+in progress
+in quires
+in sheets
+in stock
+incipit
+incunabula
+indent
+indention
+emIndependent Publisher
+index
+Index Expurgatorius
+Index Librorum Prohibitorum
+index map
+India paper
+inedita
+inedited
+informatics
+information
+information and referral
+information broker
+information desk
+information ethics
+information industry
+information law
+information literacy
+information science
+information theory
+infringement
+Ingram
+inhabited initial
+initial letter
+ink ball
+inlay
+Innovative Interfaces Inc. (III)
+input
+inscribed copy
+inscription
+insert
+inset
+inset map
+inspection copy
+installment
+installment sale
+instant book
+Institute for Scientific Information
+instruction lab
+integral
+intellectual freedom
+Intellectual Freedom Round Table (IFRT)
+intellectual property
+interactive
+interface
+interleaving
+interlibrary loan (ILL)
+interlinear
+intermediary
+international copyright
+International Copyright Information Centre
+International Federation of Classification Societies (IFCS)
+International Federation of Film Archives (FIAF)
+International Federation of Library Associations and Institutions (IFLA)
+International League of Antiquarian Booksellers (ILAB)
+International Organization for Standardization (ISO)
+International Relations Round Table (IRRT)
+International Serials Data System (ISDS)
+International Standard Bibliographic Description (ISBD)
+International Standard Book Number (ISBN)
+International Standard Serial Number (ISSN)
+Internet
+Internet address
+Internet Explorer
+Internet service provider (ISP)
+intern
+internship
+interpolation
+intralibrary loan
+intranet
+introduction
+introductory offer
+introductory price
+introductory title
+inventory
+inverted heading
+inverted title
+invoice
+invoice symbol
+IP address
+IRRT
+ISBD
+ISBN
+ISDS
+ISI
+ISO
+ISP
+ISSN
+issue
+issue date
+issue number
+italics
+item
+item record
+jacket
+Java
+jestbook
+job description
+job lot
+jobber
+joint
+joint author
+journal
+journal pagination
+journalism
+JPEG
+JSTOR
+jukebox
+jump page
+justification
+justified
+juvenalia
+juvenile collection
+keep down
+keep up
+keepsake
+key title
+keyboard
+keypad
+keyword index
+keyword(s)
+kilobyte
+kit
+kiosk
+knowledge
+known-item search
+Kunstlerroman
+LA
+lab
+lab manual
+lacuna
+lai
+laid in
+laid paper
+LAMA
+lamination
+lampoon
+LAN
+language dictionary
+laptop
+large print
+laser disk
+law binding
+law library
+lay
+layout
+LC
+LCC
+LCD
+lead-in title
+lead-in vocabulary
+leaf
+leaflet
+learning resources center (LRC)
+leather bound
+lectern
+lectionary
+legend
+legible
+legibility
+legible
+legislative reference service
+letter to the editor
+lettering
+level of description
+lexicography
+lexicology
+lexicon
+LHRT
+libel
+librarian
+Librarian of Congress
+librariana
+librarianship
+library
+library administration
+Library Administration and Management Association (LAMA)
+Library and Information Science Technology Association (LITA)
+library association
+Library Association (LA)
+Library Bill of Rights
+library binding
+library card
+library collection
+library conference
+library consortium
+library director
+library district
+library edition
+library education
+library equipment
+library historian
+Library History Round Table (LHRT)
+library hours
+library instruction
+Library Instruction Round Table (LIRT)
+library journal
+Library Journal
+Library Literature
+library market
+Library of Congress (LC)
+Library of Congress Classification (LCC)
+library rate
+Library of Congress subject heading (LCSH)
+library research
+Library Research Round Table (LRRT)
+library school
+library science
+Library Services and Construction Act (LSCA)
+library staff
+library supplies
+library survey
+library system
+library trustee
+libretto
+Libweb
+license
+licensing agreement
+lifelong learning
+lightface
+lilliput edition
+limited edition
+limp binding
+line-item budget
+link
+link checking
+LIRT
+LIS
+list price
+LISTSERV
+LITA
+literacy
+literal
+literary agent
+literary award
+literary epic
+literary magazine
+literary prize
+literary warrant
+literary work
+literati
+literature
+literature review
+literature search
+litterateur
+little magazine
+loan desk
+loan period
+loc cit.
+local area network (LAN)
+local bibliography
+local collection
+location code
+location symbol
+LOEX
+log off
+log on
+logo
+logoff
+logon
+long-playing record (LP)
+longitudinal study
+loose-leaf
+lost
+lowercase
+LP
+LRC
+LRRT
+LSCA
+lurk
+lyric
+lyricist
+lyrics
+machine-readable
+MAchine-Readable Cataloging (MARC)
+machine-readable data file (MRDF)
+Macintosh
+macro
+macroform
+made-up copy
+magazine
+MAGERT
+magnetic disk
+magnetic strip
+magnum opus
+mailing list
+main entry
+main heading
+main library
+mainframe
+majordomo
+majuscule
+make-up
+manifesto
+manual
+manufacturer
+manuscript
+manuscript book
+map
+Map and Geography Round Table (MAGERT)
+map index
+map library
+map series
+marbling
+MARC
+margin
+marginal note
+marginalia
+masque
+mass-market paperback
+masterpiece
+masthead
+material specific details area
+materials budget
+mathematical data area
+media
+media center
+media specialist
+mediated search
+medical library
+Medical Library Association (MLA)
+medium
+mediumistic writing
+megabyte (MB)
+MegaHertz (MHz)
+melodrama
+memoir
+memoirs
+memorabilia
+memory
+mending
+mentor
+menu
+menu bar
+menu-driven
+meta-index
+metadata
+MHz
+microchip
+microcomputer
+microfiche
+microfilm
+microform
+microopaque
+microprocessor
+migrate
+mildew
+miniature
+miniature edition
+minicomputer
+mint
+minuscule
+miracle play
+mirror
+misbound
+missal
+missing
+missing copy
+mixed notation
+mixed responsibility
+MLA
+MLA style
+M.L.I.S.
+M.L.S.
+mobile library
+mock-up
+model
+modem
+monitor
+monochrome plate
+monograph
+monographic series
+monologue
+monthly
+morality play
+morgue
+morocco
+motion picture
+mouse
+movable type
+MPEG
+MRDF
+multicast
+multimedia
+multimedia item
+multipart volume
+multiple access
+multiple user access
+multitasking
+museum library
+music library
+Music Library Association (MLA)
+music listening room
+musical presentation statement
+musical work
+mutilation
+mystery
+mystery play
+myth
+NAGARA
+NAL
+name authority file
+name index
+name-title added entry
+NARA
+narration
+narrative
+narrower term (NT or N)
+NASIG
+National Agricultural Library (NAL)
+national archives
+National Archives and Records Administration (NARA)
+National Association of Government Archives and Records Administrators (NAGARA)
+national bibliography
+national biography
+National Book Award
+National Commission on Library and Information Science (NCLIS)
+National Federation of Abstracting and Information Services (NFAIS)
+National Film Preservation Board (NFPB)
+National Film Registry (NFR)
+National Genealogical Society (NGS)
+National Information Standards Organization (NISO)
+national library
+National Library of Canada/Bibliotheque nationale du Canada (NLC/BNC)
+National Library of Education (NLE)
+National Library of Medicine
+National Library Service for the Blind and Physically Handicapped (NLS)
+National Library Week
+National Technical Information Service (NTIS)
+natural language
+navigation bar
+NCLIS
+NE
+NEP
+nesting
+net
+net net
+netiquette
+Netscape Navigator
+netspeak
+network
+networking
+new book
+new edition
+new edition pending (NEP)
+New Members Round Table (NMRT)
+New York Public Library (NYPL)
+New York Review of Books
+Newbery Medal
+newbie
+news magazine
+newsgroup
+newsletter
+newspaper
+newspaper index
+newspaper library
+newsprint
+NFAIS
+NFPB
+NFR
+NGS
+niche publishing
+nickname
+NISO
+NLE
+NLM
+NLS
+NMRT
+no date
+Nobel Prize in Literature
+nom de plume
+non-net
+nonbook
+noncirculating
+nonfiction
+nonprint
+nonresident's card
+nontrad
+nontraditional student
+NOP
+North American Serials Interest Group (NASIG)
+nos
+not our publication (NOP)
+not returnable (NR)
+not yet published (NYP)
+notation
+note
+note area
+notebook
+novel
+novelette
+novelization
+novella
+NR
+NT (or N)
+NTIS
+number
+numbered copy
+numeric and/or alphabetic, chronological, or other designation area
+nursery rhyme
+NYP
+NYPL
+Oak Knoll
+obituary
+object
+oblong
+obscenity
+OC
+OCLC
+OCR
+octavo (8vo)
+ode
+off-site storage
+official title
+offline
+offprint
+omnibus book
+omnibus review
+on approval
+on-demand publishing
+on sale or return
+one-act play
+one-person library
+onlay
+online
+online bookstore
+online catalog
+Online Computer Library Center, Inc. (OCLC)
+online services
+online tutorial
+OP
+op. cit.
+OPAC
+opacity
+open entry
+open reserve
+open stacks
+Open Systems Interconnection (OSI)
+opened
+opening
+operating budget
+operating system (OS)
+OPP
+optical character recognition (OCR)
+optical disk
+optical fiber
+optical scanner
+option
+opus number
+oral history
+order cancelled (OC)
+order record
+original
+original binding
+original cataloging
+orthography
+OS
+OSI
+out
+out of print (OP)
+out of print at present (OPP)
+out of series
+out of stock (OS)
+outdated
+outline
+output
+outreach
+outsourcing
+overdue
+overdue notice
+overhead projector
+overhead transparency
+overlay
+overprint
+overs
+oversize
+overstock
+Ovid Technologies
+ownership mark
+packet switching
+page
+page break
+page head
+page proof
+pagination
+paleography
+palimpsest
+pamphlet
+pamphlet binding
+pamphlet file
+panel
+paper
+paper boards
+paperback
+paperbound
+papermark
+papers
+papyrus
+parable
+parallel edition
+parallel publishing
+parallel texts
+parallel title
+patronymic
+paraph
+paraphrase
+paraprofessional
+parchment
+parenthetical qualifier
+Paris Principles
+parody
+part
+partial remainders
+partial title
+parts of a book
+passim
+password
+paste-down
+paste-in
+paste-up
+pasteboard
+patent
+patent and trademark depository library
+Patent and Trademark Depository Library Association (PTDLA)
+patent number
+pathfinder
+patron
+patronymic
+patron record
+PC
+peak use
+peer-reviewed
+pen name
+penny dreadful
+per search
+perfect binding
+performer
+period bibliography
+period division
+period printing
+period subdivision
+periodical
+periodical index
+periodical stand
+peripheral
+permanent paper
+permission
+permissions copy
+permuted index
+personal author
+personal computer (PC)
+personal papers
+personal Web page
+phonograph record
+photocopier
+photocopy
+photograph
+photomontage
+photomosaic
+phylactery
+physical carrier
+physical description
+physical processing
+pictorial
+pictorial dictionary
+pictorial map
+picture
+picture book
+picture file
+picture library
+picture storybook
+piece
+Pierpont Morgan Library
+pigskin
+pilot study
+pipe roll
+piracy
+pirated edition
+pixel
+PLA
+placard
+place name
+plagiarism
+plan
+plaquette
+plate
+platform
+play
+playwright
+plot
+plug
+pochoir
+pocket
+pocket edition
+pocket part
+poet laureate
+poetry
+point
+point of access
+point of service
+point-of-use instruction
+pointille
+polaire
+polemic
+political name
+polyglot
+polyglot dictionary
+pop-up book
+popular edition
+popular fiction
+popular name
+popular press
+pornography
+port
+portability
+portfolio
+portrait
+position description
+position title
+post binding
+post-coordinate indexing
+postdated
+poster
+posthumous
+potboiler
+power down
+practicum
+praeses
+pre-coordinate indexing
+pre-library bound
+pre-order searching
+preamble
+prebound
+precis
+precision
+predominant name
+preface
+preferred term
+prefix
+preliminaries
+preliminary edition
+prepayment
+preprint
+prepub
+prepublication discount
+prepublication price
+presentation copy
+presentation software
+preservation
+presidential library
+press clipping service
+press release
+press run
+pressure group
+primary journal
+primary source
+primer
+princeps edition
+print
+printer
+printing
+printing press
+printout
+prison library
+privacy
+private library
+private press
+privately published
+problem patron
+proceedings
+processing
+processing center
+producer
+production company
+profile
+prolegomenon
+prologue
+prompt
+promptbook
+proof
+proof impression
+proof print
+proofreading
+propaganda
+proprietary library
+prose
+prospectus
+protocol
+provenance
+proverb
+provisional edition
+proximity
+proxy server
+pseudandry
+pseudo-serial
+pseudonym
+psychological novel
+PTDLA
+public domain
+public library
+Public Library Association
+public services
+publication
+publication date
+publication history
+publication schedule
+published price
+publisher
+publishers' agreements
+publisher's binding
+publisher's reader
+Publishers Weekly
+publishing
+puff
+puffery
+pugillaria
+Pulitzer Prize
+pull-case
+pulp fiction
+pulp magazine
+purchase order (PO)
+pure notation
+quantity discount
+quarter binding
+quarter leather
+quarterly
+quarto (4to)
+query
+queue
+quire
+quotation
+R. R. Bowker
+rag paper
+ragged
+RAM
+ramie
+Random Access Memory (RAM)
+range
+ranking
+rare book
+Rare Books and Manuscripts Section (RBMS)
+rarity
+RBMS
+Read Only Memory (ROM)
+readable
+reader
+reader-printer
+readers' adviser
+readership
+reading copy
+reading group
+reading level
+reading list
+Reading Rainbow
+reading room
+ready reference
+real time
+realia
+ream
+rebacked
+rebinding
+reboot
+recall
+recased
+recataloging
+receiving
+recension
+recently returned
+recessed monitor
+reciprocal borrowing privileges
+reclassification
+recon
+record
+record structure
+recruitment
+recto
+recycled paper
+redaction
+refereed
+reference
+Reference and User Services Association (RUSA)
+reference book
+Reference Books Bulletin
+reference collection
+reference desk
+reference interview
+reference librarian
+reference mark
+reference question
+reference source
+reference stacks
+regional library
+register
+reinforced binding
+reissue
+reject
+rejection slip
+related body
+related term (RT or R)
+relevancy
+relief map
+remainder binding
+remainder mark
+remainders
+remake
+remboite
+remote access
+removes
+renew
+renewal
+rental collection
+repairing
+replacement
+replevin
+replica
+report
+repository
+reprint
+reproduction
+reprography
+republication
+requisition
+research
+research collection
+research guide
+Research Libraries Group (RLG)
+Research Libraries Information Network (RLIN)
+research library
+researcher
+reserves
+reshelving
+reshelving cart
+residuum
+resolution
+resource sharing
+respondent
+response time
+restoration
+restricted access
+resume
+retrospective bibliography
+retrospective conversion
+retrospective search
+returns
+review
+review copy
+review publication
+revised edition
+rewrite
+rhyming dictionary
+riddle
+ring binding
+RLG
+RLIN
+road atlas
+roll
+ROM
+roman
+roman a clef
+roman-fleuve
+romance
+romanization
+rotated index
+rough edges
+round table
+rounding
+router
+routine
+routing
+roving
+royalty
+RT (or R)
+rubric
+rule
+rums
+run
+rune
+runners
+running foot
+running head
+running title
+rural library
+RUSA
+rush order
+rush processing
+rustic capital
+SAA
+saga
+same size
+sans-serif
+satire
+save
+scale
+scanner
+scenario
+schematic
+school library
+science fiction
+scope
+scope note (SN)
+score
+screenplay
+scribal copy
+scribe
+scrinium
+script
+scriptorium
+scroll
+SDI
+search engine
+search history
+search service
+search software
+search statement
+search strategy
+search term
+Sears subject heading
+second-hand book
+second-hand bookstore
+secondary binding
+secondary entry
+secondary source
+section
+security
+security system
+
+
+selection
+selective bibliography
+selective dissemination of information (SDI)
+self-cover
+self end
+self-help publication
+self-publishing
+self-service
+self-wrapper
+semantics
+semiannual
+semimonthly
+seminal
+semiotics
+semiweekly
+separately paginated
+sequel
+serendipity
+serial
+serial catalog
+serial number
+serial record
+serial rights
+serials desk
+series
+series area
+series title
+series title page
+serif
+server
+service area
+service point
+set
+sextodecimo (16mo)
+SGML
+shaken
+shared responsibility
+shareware
+sharing violation
+SHARP
+shaved
+sheet
+sheet map
+shelf dummy
+shelf guide
+shelf height
+shelf life
+shelf reading
+shelflist
+shifting
+shipping
+short discount
+short novel
+short short story
+short story
+shouting
+show through
+SIC
+side note
+side title
+signage
+signature
+signed
+signet
+SilverPlatter
+simplex
+simplified edition
+simultaneous user
+sinkage
+sized
+sketch
+s.l.
+SLA
+slander
+slang
+sleeper
+sleeve
+slick
+slide
+slide projector
+slide viewer
+slipcase
+small capital
+smiley
+SMTP
+s.n.
+SN
+sobriquet
+Social Responsibilities Round Table (SRRT)
+society
+Society for the History of Authorship, Reading and Publishing (SHARP)
+Society of American Archivists (SAA)
+softcover
+software
+solander
+soliloquy
+solo librarian
+songster
+sonnet
+sorting
+sound recording
+sound track
+source
+source document
+source field
+spam
+special collections
+special edition
+special issue
+Special Libraries Association (SLA)
+special library
+special order
+specific entry
+specific material designation
+specifications
+specimen case
+spell-checker
+spider
+spine
+spine label
+spine title
+spiral binding
+spoilage
+sponsor
+sprinkled
+spurious work
+squares
+SRRT
+SSIRT
+stack capacity
+stack maintenance
+stacks
+stand-alone
+standard
+Standard Generalized Markup Language (SGML)
+standard list
+standard number
+standard number and terms of availability
+standard subdivision
+standard title
+standard work
+standardization
+standards
+standing committee
+standing order
+state
+state library
+state manual
+statement of responsibility
+stationer
+statistical bibliography
+statutory copy
+steady state
+stop list
+stop word
+storage
+storage area
+story board
+story hour
+storytelling
+stub
+student assistant
+style manual
+style sheet
+stylus
+subdirectory
+subdivision
+subhead
+subheading
+subject
+subject analysis
+subject bibliography
+subject encyclopedia
+subject heading
+subject specialist
+subordinate body
+subplot
+subscription
+subscription agency
+subscription cycle
+subscription library
+subscription terms
+subscription work
+subseries
+subsidiaries
+subsidiary rights
+subtitle
+SuDocs number
+suggestion box
+summary
+summer reading program
+sunned
+supercomputer
+supplement
+supplied title
+supplier
+support staff
+Support Staff Interests Round Table (SSIRT)
+suppressed
+surf
+surname
+surrogate
+survey
+suspense
+SVGA
+syllabus
+syndetic index
+syndetic structure
+synonym
+synopsis
+synoptic journal
+syntax
+systems librarian
+tab
+table book
+table of contents (TOC)
+tabloid
+tactile materials
+tail
+tailcap
+tailpiece
+take down
+take-over
+tale
+talking book
+tape recording
+task force
+tattle-tape
+TCP/IP
+teacher's manual
+tear sheet
+technical journal
+technical library
+technical processing
+technical report
+technical services
+telecommunication
+telecommunications
+teleconference
+Telnet
+temporarily out of print (TOP)
+temporarily out of stock (TOS)
+tenure
+terminal
+tertiary source
+tete-beche
+tetrology
+text
+text block
+text type
+textbook
+textile binding
+textual criticism
+textura
+textus receptus
+Theatre Library Association (TLA)
+thematic index
+thesaurus
+thesis
+thesis play
+thin client
+thread
+three-quarter binding
+throwout
+thumb book
+thumb index
+thumbnail
+tight back
+timeout
+tipped in
+title
+title and statement of responsibility area
+title change
+title frame
+title leaf
+title page
+title proper
+title screen
+titulus
+TLA
+TOC
+tome
+toolbar
+tooling
+TOP
+topic
+topical guide
+TOS
+total circulation
+total publication
+touch screen
+touchpad
+toy book
+toy collection
+tracings
+tract
+trade association
+trade binding
+trade book
+trade catalog
+trade edition
+trade journal
+trade list
+trade paperback
+trade publisher
+trademark
+tragedy
+tragicomedy
+trailer
+transaction log
+transactions
+transcribe
+transcript
+translation
+transliteration
+transparency
+treatise
+trilogy
+trimmed
+trimming
+triptych
+true crime story
+truncation
+trustee
+turnaround time
+tutorial
+type facsimile
+type family
+type page
+type size
+typeface
+typescript
+typesetting
+typo
+typographical error
+typography
+UCC
+UDC
+UF
+ULC
+ultrafiche
+umbilicus
+UMI
+unabridged
+unauthorized edition
+unbacked
+unbound
+uncial
+uncut
+undergraduate library
+underground press
+underrun
+unexpurgated
+unfinished
+uniform edition
+uniform title
+UNIMARC
+union catalog
+union list
+Universal Copyright Convention (UCC)
+Universal Decimal Classification (UDC)
+Universal Machine-Readable Cataloging (UNIMARC)
+university library
+university press
+UNIX
+unlettered
+unopened
+unpaged
+unpaginated
+unpublished
+unsigned
+untouched
+untrimmed
+unzip
+updated version
+upgrade
+upload
+uppercase
+Urban Libraries Council (ULC)
+URL
+usability
+use life
+used book
+used bookstore
+used for (UF)
+user
+user area
+user education
+user-friendly
+user group
+user ID
+user survey
+username
+utility
+utopian literature
+v.p.
+v.y.
+vanity press
+vanity publisher
+variant
+variant edition
+variorum edition
+VDT
+vellum
+vendor
+verbatim
+verbatim et literatim
+verification
+vernacular
+vernacular name
+versal
+version
+verso
+vertical file
+VGA
+video clip
+Video Round Table (VRT)
+videocassette
+videodisc
+videorecording
+videotape
+view
+vignette
+vinyl
+virtual
+virtual library
+virus
+visual dictionary
+visual display terminal (VDT)
+vocabulary
+vocal score
+voice mail
+volume
+volume number
+volume rights
+volumen
+VRT
+VT100
+Vulgate
+w.a.f.
+wall shelving
+wallpaper
+WAN
+warehouse copy
+warm boot
+warping
+watermark
+waterstained
+Web
+Web browser
+Web index
+Web page
+Web server
+Web site
+Web-zine
+WebDewey
+Webmaster
+WebPac
+weeding
+weekly
+weight
+welcome screen
+western
+white letter
+white paper
+wholesaler
+wide area network (WAN)
+widow
+wildcard
+Wilson
+window
+Windows
+wireless
+withdrawal
+witness
+woodcut
+word processing
+work
+work form
+work in progress
+work number
+workbook
+working title
+workmark
+worksheet
+workstation
+World Wide Web (WWW)
+worm
+wove paper
+wrapper
+WWW
+WYSIWYG
+xerography
+XR
+YA
+YA book
+Yahoo!
+YALSA
+yearbook
+yellow press
+yellowback
+yellowing
+young adult book
+Young Adult Library Services Association (YALSA)
+young adult services
+Z39.50
+zip
+Zip disk
+Zip drive

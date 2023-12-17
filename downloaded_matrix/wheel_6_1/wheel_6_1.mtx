@@ -1,0 +1,304 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/JGD_Margulies/wheel_6_1
+% name: JGD_Margulies/wheel_6_1
+% [Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis]
+% id: 2170
+% date: 2008
+% author: S. Margulies
+% ed: J.-G. Dumas
+% fields: name title A id date author ed kind notes
+% kind: combinatorial problem
+%-------------------------------------------------------------------------------
+% notes:
+% Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis
+% From Jean-Guillaume Dumas' Sparse Integer Matrix Collection,            
+% http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/simc.html               
+%                                                                         
+% http://arxiv.org/abs/0706.0578                                          
+%                                                                         
+% Expressing Combinatorial Optimization Problems by Systems of Polynomial 
+% Equations and the Nullstellensatz                                       
+%                                                                         
+% Authors: J.A. De Loera, J. Lee, Susan Margulies, S. Onn                 
+%                                                                         
+% (Submitted on 5 Jun 2007)                                               
+%                                                                         
+% Abstract: Systems of polynomial equations over the complex or real      
+% numbers can be used to model combinatorial problems. In this way, a     
+% combinatorial problem is feasible (e.g. a graph is 3-colorable,         
+% hamiltonian, etc.) if and only if a related system of polynomial        
+% equations has a solution. In the first part of this paper, we construct 
+% new polynomial encodings for the problems of finding in a graph its     
+% longest cycle, the largest planar subgraph, the edge-chromatic number,  
+% or the largest k-colorable subgraph.  For an infeasible polynomial      
+% system, the (complex) Hilbert Nullstellensatz gives a certificate that  
+% the associated combinatorial problem is infeasible. Thus, unless P =    
+% NP, there must exist an infinite sequence of infeasible instances of    
+% each hard combinatorial problem for which the minimum degree of a       
+% Hilbert Nullstellensatz certificate of the associated polynomial system 
+% grows.  We show that the minimum-degree of a Nullstellensatz            
+% certificate for the non-existence of a stable set of size greater than  
+% the stability number of the graph is the stability number of the graph. 
+% Moreover, such a certificate contains at least one term per stable set  
+% of G. In contrast, for non-3- colorability, we found only graphs with   
+% Nullstellensatz certificates of degree four.                            
+%                                                                         
+% Filename in JGD collection: Margulies/wheel_6_1.sms                     
+%-------------------------------------------------------------------------------
+83 85 254
+1 1
+2 1
+1 2
+3 2
+4 2
+3 3
+4 3
+21 3
+5 4
+22 4
+37 4
+51 5
+52 5
+53 5
+64 6
+65 6
+66 6
+13 7
+30 7
+75 7
+14 8
+16 8
+32 8
+4 9
+5 9
+6 9
+21 10
+22 10
+23 10
+22 11
+23 11
+38 11
+24 12
+39 12
+53 12
+66 13
+67 13
+68 13
+75 14
+76 14
+77 14
+32 15
+33 15
+47 15
+6 16
+7 16
+8 16
+23 17
+24 17
+25 17
+38 18
+39 18
+40 18
+39 19
+40 19
+54 19
+41 20
+55 20
+68 20
+77 21
+78 21
+79 21
+47 22
+48 22
+61 22
+8 23
+9 23
+10 23
+25 24
+26 24
+27 24
+40 25
+41 25
+42 25
+54 26
+55 26
+56 26
+55 27
+56 27
+69 27
+57 28
+70 28
+79 28
+61 29
+62 29
+73 29
+10 30
+11 30
+12 30
+27 31
+28 31
+29 31
+42 32
+43 32
+44 32
+56 33
+57 33
+58 33
+69 34
+70 34
+71 34
+70 35
+71 35
+80 35
+73 36
+74 36
+82 36
+1 37
+12 37
+13 37
+3 38
+29 38
+30 38
+37 39
+44 39
+45 39
+51 40
+58 40
+59 40
+11 41
+64 41
+71 41
+12 42
+13 42
+80 42
+14 43
+20 43
+82 43
+1 44
+14 44
+15 44
+3 45
+16 45
+31 45
+17 46
+37 46
+46 46
+18 47
+51 47
+60 47
+19 48
+64 48
+72 48
+13 49
+20 49
+81 49
+14 50
+15 50
+83 50
+4 51
+15 51
+16 51
+21 52
+31 52
+32 52
+22 53
+33 53
+46 53
+34 54
+53 54
+60 54
+35 55
+66 55
+72 55
+36 56
+75 56
+81 56
+31 57
+32 57
+83 57
+6 58
+15 58
+17 58
+23 59
+31 59
+33 59
+38 60
+46 60
+47 60
+39 61
+48 61
+60 61
+49 62
+68 62
+72 62
+50 63
+77 63
+81 63
+46 64
+47 64
+83 64
+8 65
+15 65
+18 65
+25 66
+31 66
+34 66
+40 67
+46 67
+48 67
+54 68
+60 68
+61 68
+55 69
+62 69
+72 69
+63 70
+79 70
+81 70
+60 71
+61 71
+83 71
+10 72
+15 72
+19 72
+27 73
+31 73
+35 73
+42 74
+46 74
+49 74
+56 75
+60 75
+62 75
+69 76
+72 76
+73 76
+70 77
+74 77
+81 77
+72 78
+73 78
+83 78
+12 79
+15 79
+20 79
+29 80
+31 80
+36 80
+44 81
+46 81
+50 81
+58 82
+60 82
+63 82
+71 83
+72 83
+74 83
+80 84
+81 84
+82 84
+81 85
+82 85
+83 85

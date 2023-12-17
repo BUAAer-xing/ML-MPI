@@ -1,0 +1,6 @@
+accountancy
+advertising
+banking/finance
+insurance
+law
+management consultancy

@@ -1,0 +1,73 @@
+graphics.c:GRDisplayPoint
+long1.c:GRDisplayPoint
+long2.c:GRDisplayPoint
+short.c:GRDisplayPoint
+X11/X.h:GCFont
+gremlin.h:dby_to_win
+X11/X.h:GXxor
+X11/X.h:GCFunction
+X11/Xlib.h:XGCValues
+gremlin.h:dbx_to_win
+graphics.c:text_pf
+main.c:pix_gc
+main.c:display
+X11/Xlib.h:XChangeGC
+X11/Xlib.h:XCopyPlane
+/usr/include/strings.h:strlen
+main.c:Artmode
+main.c:SUN_YORIGIN
+main.c:SUN_XORIGIN
+main.c:pix_sw
+X11/Xlib.h:XDrawString
+/usr/include/stdio.h:sprintf
+icons/icon.littlepoint:littlepoint_pm
+X11/Xlib.h:struct Xlib_h_3
+X11/Xlib.h:XFontStruct
+icondata.c:mpr_static
+gremlin.h:PMRec
+X11/Xlib.h:Display
+gremlin.h:FALSE
+X11/X.h:Window
+X11/Xlib.h:GC
+gremlin.h:struct PMRec
+X11/X.h:Font
+X11/Xlib.h:struct _XDisplay
+X11/Xlib.h:Bool
+X11/Xlib.h:struct _XGC
+X11/X.h:Pixmap
+X11/X.h:XID
+X11/Xlib.h:struct Xlib_h_57
+X11/Xlib.h:ScreenFormat
+X11/Xlib.h:struct Xlib_h_22
+X11/Xlib.h:Status
+X11/Xlib.h:struct Xlib_h_21
+X11/Xlib.h:XCharStruct
+X11/Xlib.h:XExtData
+X11/X.h:KeySym
+X11/X.h:GContext
+X11/Xlib.h:Screen
+X11/Xlib.h:XModifierKeymap
+X11/Xlib.h:XFontProp
+<void>:struct _XrmHashBucketRec
+<void>:struct _XKeytrans
+<void>:struct _XIMFilter
+<void>:struct _XExten
+<void>:struct _XContextDB
+<void>:struct _XFreeFuncs
+<void>:struct _XSQEvent
+<void>:struct _XDisplayAtoms
+X11/Xlib.h:struct Xlib_h_20
+X11/Xlib.h:struct Xlib_h_7
+X11/Xlib.h:struct _XExtData
+X11/Xlib.h:XPointer
+X11/Xlib.h:struct Xlib_h_6
+X11/Xlib.h:struct Xlib_h_56
+X11/Xlib.h:struct Xlib_h_55
+X11/X.h:Atom
+X11/Xlib.h:Depth
+X11/X.h:Colormap
+X11/X.h:KeyCode
+X11/Xlib.h:Visual
+X11/Xlib.h:struct Xlib_h_5
+X11/Xlib.h:struct Xlib_h_4
+X11/X.h:VisualID

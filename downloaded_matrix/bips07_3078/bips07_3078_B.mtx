@@ -1,0 +1,11 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/bips07_3078
+% name: Rommes/bips07_3078 : B matrix
+%-------------------------------------------------------------------------------
+21128 4 4
+2071 1
+2411 2
+2122 3
+2632 4

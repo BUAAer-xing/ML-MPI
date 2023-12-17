@@ -1,0 +1,14 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Oberwolfach/t2dal
+% name: Oberwolfach/t2dal : C matrix
+%-------------------------------------------------------------------------------
+7 4257 7
+5 4
+4 56
+3 60
+2 62
+1 1974
+6 3901
+7 4245

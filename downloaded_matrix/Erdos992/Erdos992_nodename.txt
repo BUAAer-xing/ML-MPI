@@ -1,0 +1,6100 @@
+ABBOTT, HARVEY L.
+ACZEL, JANOS D.
+AGOH, TAKASHI
+AHARONI, RON
+AIGNER, MARTIN S.
+AJTAI, MIKLOS
+ALAOGLU, LEONIDAS
+ALAVI, YOUSEF
+ALLADI, KRISHNASWAMI
+ALON, NOGA
+ANDERSON, JAMES MILNE
+ANDRASFAI, BELA
+ANKENY, NESMITH C.
+ANNING, NORMAN H.
+ARKIN, JOSEPH
+ARNEY, DAVID C.
+ARONOV, BORIS
+ASH, J. MARSHALL
+ASHBACHER, CHARLES D.
+AVIS, DAVID M.
+BABAI, LASZLO
+BABU, GUTTI JOGESH
+BAGEMIHL, FREDERICK
+BALOG, ANTAL
+BANKOFF, LEON
+BARAK, AMNON BRACHA
+BATEMAN, PAUL T.
+BAUMGARTNER, JAMES E.
+BEASLEY, LEROY B.
+BECK, ISTVAN
+BEHZAD, MEHDI
+BEJLEGAARD, NIELS
+BENKOSKI, STANLEY J.
+BERGELSON, VITALY
+BERGER, MARC ARON
+BERTRAM, EDWARD A.
+BIALOSTOCKI, ARIE
+BLASS, ANDREAS R.
+BLECKSMITH, RICHARD
+BLEICHER, MICHAEL N.
+BOALS, ALFRED J.
+BOAS, RALPH PHILIP, JR.
+BOES, DUANE C.
+BOLLOBAS, BELA
+BONAR, DANIEL D.
+BONDY, JOHN ADRIAN
+BONNET, ROBERT
+BOROSH, ITSHAK
+BOSAK, JURAJ
+BOVEY, JOHN D.
+BRENNER, JOEL LEE
+BRILLHART, JOHN D.
+BRINDZA, BELA
+BROWN, THOMAS CRAIG
+BROWN, WILLIAM G.
+BUCK, R. CREIGHTON
+BUKOR, JOZEF
+BURR, STEFAN ANDRUS
+BUSOLINI, D. T.
+CACCETTA, LOUIS
+CALKIN, NEIL J.
+CAMERON, PETER J.
+CANFIELD, E. RODNEY
+CARROLL, FRANCIS W.
+CATER, FRANK S.
+CATES, MARSHALL L.
+CATLIN, PAUL A.
+CHALK, JOHN H. H.
+CHARTRAND, GARY
+CHEN, CHUAN CHONG
+CHEN, GUANTAO
+CHEN, HANG
+CHEN, ROBERT W.
+CHINN, PHYLLIS ZWEIG
+CHOI, S. L. G.
+CHOWLA, SARVADAMAN D.
+CHUI, CHARLES KAM-TAI
+CHUNG, FAN RONG K.
+CHUNG, KAI-LAI
+CHVATAL, VACLAV
+CLARK, BRENT N.
+CLARK, LANE HENRY
+CLARKSON, JAMES A.
+CLUNIE, JAMES G.
+COHEN, STEPHEN D.
+COLBOURN, CHARLES J.
+CONWAY, JOHN HORTON
+COPELAND, ARTHUR H., SR.
+CROFT, HALLARD T.
+CSAKI, ENDRE
+CSISZAR, IMRE
+CZIPSZER, JANOS
+DARLING, DONALD A.
+DARST, RICHARD B.
+DAVENPORT, HAROLD
+DAVIES, ROY O.
+DAYKIN, DAVID E.
+DE BRUIJN, NICOLAAS GOVERT
+DE CAEN, DOM
+DE KONINCK, JEAN-MARIE
+DEBOSE, YOLANDA
+DEHEUVELS, PAUL
+DENES, JOZSEF
+DESHOUILLERS, JEAN-MARC
+DEUBER, WALTER A.
+DEZA, MICHEL-MARIE
+DIAMOND, HAROLD GEORGE
+DIRAC, GABRIEL ANDREW
+DIXMIER, JACQUES
+DOWKER, YAEL NAIM
+DRAKE, DAVID A.
+DUDLEY, UNDERWOOD
+DUKE, RICHARD A.
+DVORETZKY, ARYEH
+ECKLUND, EARL F., JR.
+EDREI, ALBERT
+EGGLETON, ROGER B.
+EL-ZAHAR, MOHAMED H.
+ELEKES, GYORGY
+ELLIOTT, PETER D. T. A.
+ENTRINGER, ROGER C.
+ERNE, MARCEL
+EVANS, ANTHONY B.
+FABER, VANCE
+FAJTLOWICZ, SIEMION
+FAUDREE, RALPH J.
+FEJES TOTH, LASZLO
+FELDHEIM, ERVIN
+FELLER, WILLIAM
+FELZENBAUM, ALEXANDER GERSH
+FEW, L.
+FISHBURN, PETER C.
+FODOR, GEZA
+FON-DER-FLAASS, DMITRI G.
+FOWLER, JOEL C.
+FRAENKEL, AVIEZRI S.
+FRANKL, PETER
+FREEDMAN, ALLEN R.
+FREIMAN, GREGORY A.
+FREUD, GEZA
+FREUD, ROBERT
+FRIED, ERVIN
+FRIED, HANS
+FUCHS, WOLFGANG HEINRICH JOHANNES
+FUREDI, ZOLTAN
+GAL, ISTVAN SANDOR
+GALAMBOS, JANOS
+GALLAI, TIBOR
+GALVIN, FRED
+GERENCSER, LASZLO
+GILLIS, JOSEPH E.
+GILLMAN, LEONARD
+GIMBEL, JOHN GORDON
+GINZBURG, ABRAHAM
+GODDARD, WAYNE D.
+GODSIL, CHRISTOPHER DAVID
+GOLDBERG, MARK K.
+GOLOMB, MICHAEL
+GOODMAN, ADOLPH W.
+GORDON, BASIL
+GOULD, RONALD J.
+GRAHAM, RONALD L.
+GRAHAM, SIDNEY W.
+GRANVILLE, ANDREW J.
+GRIESER, DANIEL
+GRILL, KARL
+GRUBER, PETER MANFRED
+GRUNBAUM, BRANKO
+GRUNWALD, GEZA
+GUNDERSON, DAVID S.
+GUPTA, HANSRAJ
+GUY, MICHAEL J. T.
+GUY, RICHARD K.
+GYARFAS, ANDRAS
+GYORI, ERVIN
+GYORY, KALMAN
+HAJNAL, ANDRAS
+HALASZ, GABOR
+HALL, RICHARD ROXBY
+HAMBURGER, PETER
+HAMMER, JOSEPH
+HANANI, HAIM
+HANSON, DENIS
+HARARY, FRANK
+HARDY, GEORGE EUGENE
+HARE, WILLIAM R.
+HARNER, C. C.
+HARTMAN, STANISLAW
+HARTTER, ERICH
+HARZHEIM, EGBERT
+HATTINGH, JOHANNES H.
+HECHLER, STEPHEN H.
+HEDETNIEMI, STEPHEN T.
+HEDRLIN, ZDENEK
+HEGYVARI, NORBERT
+HEILBRONN, HANS ARNOLD
+HELL, PAVOL
+HEMMINGER, ROBERT L.
+HENNING, MICHAEL A.
+HENRIKSEN, MELVIN
+HERZOG, FRITZ
+HERZOG, MARCEL
+HICKERSON, DEAN R.
+HIGGS, DENIS A.
+HILDEBRAND, ADOLF J.
+HINDMAN, NEIL
+HOBBS, ARTHUR M.
+HOFFMAN, ALAN J.
+HOGGATT, VERNER E., JR.
+HOLTON, DEREK ALLAN
+HOLZMAN, RON
+HORAK, PETER
+HORVATH, MIKLOS
+HOWORKA, EDWARD
+HSU, DERBIAU FRANK
+HUNT, G. A.
+HWANG, JUN SHUNG
+INDLEKOFER, KARL-HEINZ
+INGHAM, ALBERT EDWARD
+IVIC, ALEKSANDAR
+JABOTINSKY, ERI
+JACKSON, STEPHEN CRAIG
+JACOBSON, MICHAEL S.
+JAGOTA, ARUN KUMAR
+JANSON, SVANTE
+JARNIK, VOJTECH
+JIN, GUO PING
+JONES, FRED B.
+JOO, ISTVAN
+JOO, MIKLOS ISTVAN
+KAC, MARK
+KAINEN, PAUL C.
+KAKUTANI, SHIZUO
+KAPLANSKY, IRVING
+KARAMATA, JOVAN
+KATAI, IMRE
+KE, ZHAO
+KELLY, PAUL JOSEPH
+KENNEDY, JOHN W.
+KESTELMAN, HYMAN
+KHARE, SATGUR PRASAD
+KIERSTEAD, HENRY A.
+KISS, PETER
+KLAMKIN, MURRAY S.
+KLAWE, MARIA MARGARET
+KLEITMAN, DANIEL J.
+KLUGERMAN, MICHAEL
+KNAPPENBERGER, J.
+KOHAYAKAWA, YOSHIHARU
+KOKSMA, JURJEN FERDINAND
+KOMJATH, PETER
+KOMLOS, JANOS
+KOMORNIK, VILMOS
+KOREN, ISRAEL
+KOSTOCHKA, ALEXANDR V.
+KOVARI, TAMAS
+KRANTZ, STEVEN GEORGE
+KRATSCH, DIETER
+KRIVELEVICH, MICHAEL
+KROO, ANDRAS V.
+KUBICKA, EWA MARIE
+KUBICKI, GRZEGORZ
+KUNEN, KENNETH
+LACAMPAGNE, CAROLE B.
+LAM, PETER CHE BOR
+LARSON, JEAN A.
+LASKAR, RENU C.
+LEFMANN, HANNO
+LEHEL, JENO
+LEHNER, JOSEPH
+LENGYEL, BELA A.
+LEVEQUE, WILLIAM JUDSON
+LEWIN, MORDECHAI
+LI, WEN-CH'ING WINNIE
+LICK, DON R.
+LINIAL, NATHAN
+LIU, JIUQIANG
+LOEBL, MARTIN
+LORENTZ, GEORGE GUNTHER
+LOVASZ, LASZLO
+LOXTON, JOHN H.
+LUCZAK, TOMASZ
+MACINTYRE, ARCHIBALD JAMES
+MAGIDOR, MENACHEM
+MAHLER, KURT
+MAIER, HELMUT
+MAKAI, ENDRE, JR.
+MAKKAI, MICHAEL
+MALDE, PARESH J.
+MARCUS, SOLOMON
+MATE, ATTILA
+MAUDUIT, CHRISTIAN
+MAULDIN, R. DANIEL
+MAXSEIN, THOMAS
+MAYS, MICHAEL E.
+MCCANNA, JOSEPH E.
+MCELIECE, ROBERT J.
+MCKAY, BRENDAN D.
+MEIR, AMRAM
+MEYER, ANJA GABRIELE
+MILLS, GEORGE HARLOW
+MILNER, ERIC CHARLES
+MINC, HENRYK
+MIRSKY, LEONID
+MONTGOMERY, PETER L.
+MOON, JOHN W.
+MORAN, SHLOMO
+MORTON, PATRICK
+MOSER, LEO
+MULLIN, RONALD C.
+MURTY, MARUTI RAM
+MURTY, VIJAYA KUMAR
+NATHANSON, MELVYN B.
+NESETRIL, JAROSLAV
+NETANYAHU, ELISHA
+NEVEU, JACQUES
+NEWMAN, DONALD J.
+NEY, PETER E.
+NICOLAS, JEAN-LOUIS
+NIVEN, IVAN
+NORTON, DONALD A.
+O'NEIL, PATRICK EUGENE
+OBLATH, RICHARD
+ODLYZKO, ANDREW M.
+OELLERMANN, ORTRUD R.
+OFFORD, A. CYRIL
+ORDMAN, EDWARD T.
+OXTOBY, JOHN C.
+PACH, JANOS
+PALFY, PETER PAL
+PALKA, ZBIGNIEW J.
+PALMER, EDGAR M.
+PAPP, ZOLTAN
+PARSONS, TORRENCE DOUGLAS
+PAYAN, CHARLES
+PENNEY, DAVID E.
+PHELPS, KEVIN T.
+PINKUS, ALLAN M.
+PIPPERT, RAYMOND E.
+PIRANIAN, GEORGE
+POLLACK, RICHARD M.
+POLLARD, HARRY
+POMERANCE, CARL
+POSA, LAJOS
+PRACHAR, KARL
+PREISS, DAVID
+PUDAITE, P.
+PULLMAN, NORMAN J.
+PURDY, GEORGE B.
+PYBER, LASZLO
+RADO, RICHARD
+RAMACHANDRA, KANAKANAHALLI
+RAO, SIDDANI BHASKARA
+REDDY, A. R.
+REID, TALMAGE JAMES
+RENYI, ALFRED A.
+REVESZ, PAL
+REZNICK, BRUCE A.
+RICHARDS, J. IAN
+RICHMOND, LAWRENCE BRUCE
+RIEGER, GEORG JOHANN
+RIESEL, HANS
+ROBINSON, ROBERT W.
+RODL, VOJTECH
+ROGERS, CLAUDE AMBROSE
+ROSA, ALEXANDER
+ROSENBLOOM, PAUL CHARLES
+ROSENFELD, MOSHE
+ROTHSCHILD, BRUCE L.
+ROUSSEAU, CECIL CLYDE
+RUBEL, LEE A.
+RUBIN, ARTHUR L.
+RUDIN, MARY ELLEN
+RUZSA, IMRE Z.
+RYAVEC, CHARLES A.
+SACHS, HORST
+SAFFARI, BAHMAN
+SAIAS, ERIC
+SAKS, MICHAEL E.
+SALAMON, PETER
+SALAT, TIBOR
+SARKOZY, ANDRAS
+SARKOZY, GABOR N.
+SAUER, NORBERT W.
+SCHAER, JONATHAN
+SCHELP, RICHARD H.
+SCHERK, PETER
+SCHINZEL, ANDRZEJ
+SCHMUTZ, ERIC
+SCHNITZER, FRANZ JOSEPH
+SCHONHEIM, JOHANAN
+SCHULMAN, LEONARD J.
+SCHUSTER, SEYMOUR
+SCHWENK, ALLEN JOHN
+SEGAL, SANFORD L.
+SEIDEL, WLADIMIR P.
+SELFRIDGE, JOHN L.
+SELKOW, STANLEY M.
+SERESS, AKOS
+SHALLIT, JEFFREY OUTLAW
+SHAPIRO, HAROLD N.
+SHAPIRO, HAROLD S.
+SHARMA, AMBIKESHWAR
+SHELAH, SAHARON
+SHENG, T. K.
+SHIELDS, ALLEN LOWELL
+SHISHA, OVED
+SHOREY, TARLOK N.
+SILBERMAN, GABRIEL M.
+SILVERMAN, RUTH
+SIMMONS, GUSTAVUS J.
+SIMONOVITS, MIKLOS
+SINGHI, NAVIN MADHAVPRASAD
+SIRAN, JOZEF
+SIRAO, TUNEKITI
+SKILTON, DONALD K.
+SMITH, BRENT PENDLETON
+SMITH, PAUL R.
+SOIFER, ALEXANDER
+SOS, VERA T.
+SPECKER, ERNST P.
+SPENCER, JOEL H.
+SPIRO-SILVERMAN, CLAUDIA A.
+STATON, WILLIAM A., III
+STEIN, ALAN H.
+STEIN, SHERMAN K.
+STEWART, CAMERON L.
+STINSON, DOUGLAS ROBERT
+STONE, ARTHUR HAROLD
+STRAIGHT, H. JOSEPH
+STRAUS, ERNST G.
+SUBBARAO, M. V.
+SUEN, W.-C. STEPHEN
+SUN, HUI CHENG
+SURANYI, JANOS
+SWART, HENDA C.
+SZABADOS, JOZSEF
+SZALAY, MICHAEL
+SZEGEDY, MARIO
+SZEGO, GABOR
+SZEKELY, LASZLO A.
+SZEKERES, GEORGE
+SZEMEREDI, ENDRE
+SZUSZ, PETER
+TARSKI, ALFRED
+TAYLOR, ALAN D.
+TAYLOR, HERBERT
+TAYLOR, SAMUEL JAMES
+TENENBAUM, GERALD
+TETALI, PRASAD
+THOMASSEN, CARSTEN
+TIJDEMAN, ROBERT
+TOTH, JANOS T.
+TOTIK, VILMOS
+TOVEY, CRAIG A.
+TROTTER, WILLIAM T., JR.
+TURAN, PAL
+TURK, JOHANNES WILHELMUS MARIA
+TUTTE, WILLIAM THOMAS
+TUZA, ZSOLT
+ULAM, STANISLAW MARCIN
+URBANIK, KAZIMIERZ
+VAALER, JEFFREY D.
+VALTR, PAVEL
+VAN KAMPEN, E. R.
+VAN LINT, JACOBUS HENDRICUS
+VARMA, ARUN KUMAR
+VAUGHAN, ROBERT C.
+VAZSONYI, ENDRE
+VERTESI, PETER O. H.
+VESZTERGOMBI, KATALIN L.
+VIJAYAN, KAIPILLIL
+VINCZE, ISTVAN
+VOLKMANN, BODO
+WAGSTAFF, SAMUEL S., JR.
+WANG, JIAN FANG
+WEAKLEY, WILLIAM DOUGLAS
+WEISS, GARY
+WEST, DOUGLAS B.
+WILLIAMSON, ALAN GLYNNE
+WILSON, RICHARD M.
+WILSON, ROBIN JAMES
+WINKLER, PETER M.
+WINTNER, AUREL
+WORMALD, NICHOLAS C.
+YAO, FOONG FRANCES
+ZAKS, ABRAHAM
+ZAKS, SHMUEL
+ZALCSTEIN, YECHEZKEL
+ZAREMBA, STANISLAW KRYSTYN
+ZHANG, ZHEN XIANG
+ZIV, ABRAHAM
+Aaronson, Jonathan
+Aarts, Emile H. L.
+Abbw-Jackson, Daniel
+Abd el Maqsoud, A. E. I.
+Abdel-Ghaffar, Khaled A. S.
+Abel, R. Julian R.
+Abel, Ulrich
+Abhyankar, Shreeram S.
+Ablow, Clarence M.
+AboElFotoh, Hosam M.
+Abraham, Bovas
+Abraham, Uri
+Abu-Sbeih, Mohammed Z.
+Achuthan, N. R.
+Achuthan, Nirmala
+Acreman, D.
+Aczel, S.
+Adamec, Radek
+Adami, Stefania
+Adams, C. Raymond
+Adams, Michael E.
+Adams, William W.
+Adelman, Murray
+Adelman, Omer
+Adena, Michael A.
+Adhikary, Arun Kumar
+Adleman, Leonard M.
+Adler, Gyorgy
+Adler, Ilan
+Afek, Yehuda
+Agarwal, Ashok Kumar-1
+Agarwal, Pankaj Kumar
+Agarwal, Vinod K.-2
+Ageev, Alexander A.
+Aggarwal, Alok
+Agnew, Gordon B.
+Agnew, Ralph Palmer
+Agronsky, S. J.
+Agur, Zvia
+Aharoni, Gad
+Aharoni, Moshe
+Aharonov, Dov
+Ahlswede, Rudolf F.
+Ahrens, R. W.
+Aiello, Walter G.
+Aingworth, Donald
+Aissen, Michael
+Aitchison, Peter W.
+Akbari-Feyzaabaadi, S.
+Akeroyd, John
+Akhlaghi, M. R. A.
+Akiyama, Jin
+Akkari, Safwan
+Akyildiz, Ian Fuat
+Al-Hakim, Latif A.
+Al-Khnaifes, Khaled
+Al-Rashed, Abdallah M.
+Al-Wahabi, Kais
+Alabau, Fatiha
+Aladro, Gerardo
+Albert, Michael H.
+Albertson, Michael O.
+Albrecht, Felix
+Aldous, David J.
+Aldred, Robert E. L.
+Aleliunas, Romas
+Alexander, Charles C.
+Alexander, John Ralph
+Alexanderson, Gerald L.
+Alexits, Gyorgy
+Alford, W. R. (Red)
+Algor, I.
+Ali, Asad Ali
+Ali, Firasath
+Ali, Hesham H.
+Ali, Sayel A.
+Aliev, I.
+Alimov, Sh. A.
+Aljancic, Slobodan
+Alkan, Ahmet Ugur
+Allan, Robert B.
+Allen, G. Donald
+Allen, Richard C., Jr.
+Allenberg-Navony, Nechama
+Allender, Eric
+Alles, Peter
+Allouche, Jean-Paul
+Alm, Sven Erick
+Alniacik, Kamil
+Alpar, Laszlo
+Alsina, Claudi
+Alspach, Brian R.
+Althoen, Steven C.
+Alzer, Horst
+Amar, Francois
+Ambrose, Warren A.
+Amdursky, Vardy
+Amer, Mahmaud Abdel-Hamid
+Amin, Ashok T.
+Amit, R.
+Ammann, Robert
+An, Chung Ming
+Ananchuen, W.
+Anand, Harsh
+Anastassiou, George A.
+Anaya, Janet Crump
+Andersen, Lars Dovling
+Anderson, Bruce A.
+Anderson, Daniel D.
+Anderson, Ian
+Anderson, Marlow
+Anderson, Norman
+Anderson, Peter G.
+Anderson, Richard John
+Anderson, Sabra Sullivan
+Anderson, T. Laugenia
+Anderson, Theodore W.
+Anderson, William N., Jr.
+Andersson, Jan-Olaf
+Ando, Kiyoshi
+Andreae, Thomas
+Andreka, Hajnalka
+Andresen, Bjarne
+Andrews, George E.
+Andrews, James A.
+Andrica, Dorin
+Ang, Dang Dinh
+Angelos, James R.
+Anselone, Philip M.
+Anstee, Richard P.
+Antoni, Jozef
+Antosiewicz, Henry A.
+Anunchuen, N.
+Anzai, Hirotada
+Ao, Suqin
+Aoki, Masahiko
+Apostol, Tom M.
+Apostolico, Alberto
+Applegate, David L.
+Appleson, Robert R.
+Apter, Arthur W.
+Arad, Zvi
+Arasu, K. T.
+Arato, Matyas
+Arazy, Jonathan
+Archdeacon, Dan S.
+Arens, Richard F.
+Arlinghaus, Sandra L.
+Arlinghaus, William C.
+Armoni, Roy
+Arms, Robert J.
+Arnold, L. K.
+Arnoux, Pierre
+Aron, Ellen
+Aronson, Jonathan
+Arora, Sanjeev
+Artes, Joan C.
+Arthurs, Arnold Magowan
+Artin, Emil
+Artzner, Philippe
+Arya, Sunil
+Asano, Takao
+Asano, Tetsuo
+Aschbacher, Michael
+Ash, Peter F.
+Ashley, Jonathan
+Ashton, R. J.
+Askey, Richard A.
+Asplund, Edgar
+Aspnes, James
+Asratyan, A. S.
+Assaf, Ahmed M.
+Assmann, Susan F.
+Assmus, Edward F., Jr.
+Assouad, Patrice
+Astie-Vidal, Annie
+Astoorian, Dan
+Atan, Kamel A.
+Ateniese, Giuseppe
+Athreya, Krishna B.
+Atici, M.
+Atkin, A. O. L.
+Atkinson, Kendall E.
+Attar, R.
+Attiya Hagit
+Aubert, Karl Egil
+Auer, Peter
+Auerbach, Bruce
+Auerbach, Herman
+Aull, Charles E.
+Auluck, Faqir Chand
+Aupetit, Bernard H.
+Aurenhammer, Franz
+Auslander, Joseph
+Austin, Richard
+Avakumovic, Vojislav Gregor
+Avdonin, Sergei A.
+Aversa, Vincenzo
+Awerbuch, Baruch
+Axenovich, M.
+Axler, Sheldon
+Ayoub, Raymond G.
+Azar, Yossi
+Azor, Ruth
+Baayen, Pieter C.
+Baber, T. D. H.
+Baboc, N.
+Bach, Eric
+Bachmuth, Seymour
+Baclawski, Kenneth P.
+Bacopoulos, Alexis
+Bacro, Jean-Noel
+Baerstein, Albert, II
+Bagga, Kunwarjit S. (Jay)
+Baggen, C. P. M. J.
+Bahig, H. M.
+Bai, Zhi Dong
+Baikovicius, Jimmy
+Baildon, John D.
+Bailey, Craig Kinder
+Bailey, Rosemary A.
+Baillie, Robert
+Baines, M. J.
+Baiocchi, Claudio
+Bajsanski, Bogdan M.
+Bak, Joseph
+Baker, Alan
+Baker, G. B.
+Baker, Irvine N.
+Baker, John A.
+Baker, John Walter
+Baker, Kirby A.
+Baker, Ronald D.
+Bakonyi, Mihaly
+Balaban, Alexandru T.
+Balas, Egon
+Balasubramanian, Ramachandran
+Balatoni, Janos
+Balazard, Michel
+Balazs, Janos
+Balazs, Katherine
+Balcar, Bohuslav
+Balcerzak, Marek
+Baldi, Pierre
+Baldwin, John T.
+Balister, Paul
+Balkema, A. A.
+Ball, Michael O.
+Balogh, Zoltan T.
+Bambah, R. P.
+Bampis, Evripidis
+Banach, Stefan
+Banaschewski, Bernhard
+Band, Yehuda B.
+Bandelt, Hans-Jurgen
+Banerjee, Prithviraj
+Bang, Chang Mo
+Bang-Jensen, Jorgen
+Bange, David W.
+Bannai, Eiichi
+Bannerjee, Subhankar
+Bar-Noy, Amotz
+Bar-Yehuda, Reuven
+Barabash, Alexander
+Barany, Imre
+Barasch, Mariana
+Barban, Mark Borisovic
+Barbanel, Julius B.
+Barbour, Andrew D.
+Barbut, Erol
+Barefoot, Curtiss A.
+Bari, Ruth
+Barkauskas, Anthony E.
+Barlow, Martin T.
+Barnard, Andries
+Barnes, D. J.
+Barnes, Earl R.
+Barnes, John A.
+Barnett, Arnold
+Barnette, David W.
+Baron, Gerd
+Baron, Simson
+Barr, Michael
+Barrett, Wayne W.
+Barroso, Jorge Alberto A. G.
+Barrow, David L.
+Barrucund, Pierre
+Barsky, Daniel
+Bartelt, Martin W.
+Bartfai, Pal
+Barth, Karl F.
+Bartholdi, John J., III
+Bartoszynski, Tomek
+Barwise, K. Jon
+Barzilai, Z.
+Basa, Paulino
+Basco, Gabor
+Bashar, Mohd A.
+Baskoro, Edy Tri
+Bassily, Nader L.
+Basu, Saugata
+Bate, John Aubrey
+Batman, Don
+Batra, Anjula
+Battle, Joseph
+Bau, Sheng
+Bauer, Douglas
+Bauldry, William C.
+Baum, Eric B.
+Baumert, Leonard D.
+Baumslag, Gilbert
+Bayoumi, Bayoumi I.
+Bazgan, Cristina
+Beachy, John A.
+Beals, Robert
+Bean, Timothy J.
+Beardon, Alan F.
+Bearman, Jacob E.
+Beatson, Rick K.
+Beauchemin, Pierre
+Beauquier, Bruno
+Beaver, Donald deB.
+Beck, Anatole
+Beck, Jozsef
+Beckenbach, Edwin F.
+Becker, J. D.
+Becker, Jochen
+Becker, Joseph A.
+Becker, Thomas
+Beckner, William
+Beda, Gyula
+Bednarek, Alexander R.
+Bedrosian, Samuel D.
+Bedrossian, P.
+Beece, D. K.
+Beeler, Michael D.
+Beenker, Gerard F. M.
+Bein, Wolfgang W.
+Beineke, Lowell W.
+Beirlant, Jan
+Bekessy, Andras
+Bekessy, P.
+Bekkali, Mohamed
+Belas, Vladislav
+Belasova, Jana
+Bell, Jason P.
+Bell, Murray G.
+Bell, Steven R.
+Beller, Eliyahu
+Bellman, Richard Ernest
+Bellow, Alexandra
+Belna, Charles L.
+Belnap, Nuel D., Jr.
+Belousov, Valentin Danilovich
+Ben-David, Shai
+Ben-Eliyahu, Rachel
+Ben-Natan, Ron
+Ben-Or, Michael
+Benade, Gerhard
+Benczur, Andras
+Bender, Edward A.
+Bender, Renet Lovorn
+Bending, T. D.
+Benedict, James M.
+Benesova, Maria
+Benguria, Rafael
+Benhocine, Abdelhamid
+Bennett, Colin
+Bennett, Frank E.
+Benson, David John
+Benyamini, Yoav
+Benz, Walter
+Bercov, Ronald D.
+Berekova, Helena
+Berend, Daniel
+Berendsen, Carl
+Berens, Hubert
+Berenson, Hal
+Beresford-Smith, Bryan
+Berg, I. David
+Berg, Lothar
+Berg, Menachem
+Berge, Claude
+Berger, Thomas R.
+Berglund, John F.
+Bergman, George M.
+Bergmann, Ernie E.
+Bergstrand, Deborah
+Bergum, Gerald E.
+Bergweiler, Walter
+Berkes, Istvan
+Berkovich, Yakov G.
+Berkovitz, Leonard D.
+Berkson, Earl
+Berlekamp, Elwyn R.
+Berlin, T. H.
+Berman, David M.
+Berman, Gerald
+Berman, Kenneth A.
+Berman, Piotr
+Berman, Robert D.
+Bermond, Jean-Claude
+Bern, Marshall W.
+Bernat, Pierre
+Berndt, Bruce C.
+Bernhard, Philip J.
+Bernhart, Frank R.
+Bernholc, Jerzy
+Bernstein, Philip A.
+Berque, David A.
+Berrizbeitia, Pedro
+Berry Donald A.
+Berry, Jonathan
+Berry, R. Stephen
+Bertram-Kretzberg, Claudia
+Bertrand-Mathis, Anne
+Besicovitch, Abram Samoilovitch
+Beslagic, Amer
+Bessi, Gerard
+Best, Marc R.
+Beth, Evert W.
+Beth, Thomas
+Betrema, Jean
+Beukers, Frits
+Beutelspacher, Albrecht
+Beveridge, Andrew
+Beyer, Terry
+Beyer, William A.
+Bezdek, Andras
+Bezdek, Karoly
+Bezivin, Jean-Paul
+Bhalotra, Yashpaulraj
+Bhaskaran, M.
+Bhasker, Jayaram
+Bhat-Nayak, Vasanti N.
+Bhatt, Sandeep N.
+Bhattacharya, Binay K.
+Bhattacharyya, Sikha
+Bialynicki-Birula, Andrzej
+Bianchi, Gabriele
+Bianchi, Maria Grazia
+Bicknell-Johnson, Majorie
+Bienstock, Daniel
+Bierbrauer, Jurgen
+Bigelow, David C.
+Biggs, Norman L.
+Billing, G.
+Billington, Elizabeth J.
+Bilu, Yuri F.
+Binet, F. E.
+Bing, R. H.
+Bingham, Nicholas H.
+Binmore, Kenneth G.
+Biran, Ofer
+Birch, Bryan J.
+Bird, Elliott
+Bird, Gregory J.
+Birkenhead, R.
+Birkhoff, Garrett
+Birnbaum, Z. William
+Biro, Babor
+Biro, Balazs
+Biro, Miklos
+Bissinger, Barnard H.
+Biswas, Rupak
+Bisztriczky, Tibor
+Bitan, Sara
+Bittner, Kai
+Bixby, Robert E.
+Bjorck, Goran
+Bjorn, Anders
+Bjorner, Anders
+Blachman, Nelson M.
+Blackburn, John E.
+Blackman, Jerome
+Blackwell, David
+Blair, Charles E.
+Blair, William D.
+Blake, Ian F.
+Blakley, G. Robert
+Blank, Brian E.
+Blanksby, P. E.
+Blass, Uri
+Blatt, D.
+Blatt, Hans-Peter
+Blatter, Christian
+Blaum, Mario
+Blazsik, Zoltan
+Bledsoe, Woodrow W.
+Block, Henry David
+Blokhuis, Aart
+Bloom, Gary S.
+Blum, Avrim
+Blum, Manuel
+Blumer, Anselm C.
+Blundo, Carlo
+Boarder, J. C.
+Boas, Harold P.
+Boas, Mary L.
+Bochner, Salomon
+Bodendiek, Ranier
+Bodlaender, Hans L.
+Bodroza, Olga
+Boersma, Joop
+Boesch, Francis T.
+Boffey, T. Brian
+Bogart, Kenneth P.
+Bogmer, Antal
+Bognar, J.
+Bohman, Jan
+Bohme, Thomas
+Bohnenblust, H. Frederic
+Bojanic, Ranko
+Bojanov, Borislav D.
+Bokhari, Muhammed A.
+Bokowski, Jurgen
+Boland, James W.
+Boland, W. Robert
+Bolker, Ethan D.
+Boltyanski, Vladimir G.
+Boman, Jan
+Bombieri, Enrico
+Bongiorno, Benedetto
+Bonisoli, A.
+Bonnington, C. Paul
+Booth, Kellogg S.
+Boppana, Ravi B.
+Borbely, Albert
+Borcherds, Richard E.
+Borden, J. Martin
+Borie, Richard B.
+Boroczky, Karoly, Jr.
+Borodin, Allan
+Borodin, Oleg V.
+Boron, Leo F.
+Boros, Endre
+Borovik, Alexandre Vasilievich
+Borsik, Jan
+Borsuk, Karol
+Borwein, David
+Borwein, Jonathan Michael
+Borwein, Peter B.
+Bos, A.
+Bosanquet, Lancelot Stephen
+Bosch, Karl
+Bose, Arup
+Bose, Raj Chandra
+Boshernitzan, Michael D.
+Bosserman, Robert W.
+Boston, Nigel
+Botelho, Fernanda
+Bottema, Oene
+Botto, M. A.
+Bouchon, Bernadette
+Boudrea, Paul E.
+Bourgain, Jean
+Bourgeois, Brian A.
+Bourne, Samuel
+Bouwkamp, Christoffel Jacob
+Bouwsma, Ward
+Bovdi, Adalbert A.
+Bowen, N. A.
+Boyd, David W.
+Brace, Alan
+Bracken, Paul
+Bradford, Phillip G.
+Bradley, David M.
+Bradley, F. W.
+Bradley, Richard C., Jr.
+Braess, Dietrich
+Brailovsky, Leonid V.
+Brams, Steven J.
+Bramson, Maury D.
+Brand, Neal
+Brandstadt, Andreas
+Brandt, Stephan
+Brankovic, Ljiljana
+Brannan, David A.
+Brassard, Gilles
+Brauer, Richard Dagobert
+Brayton, Robert K.
+Brazil, Marcus
+Brechner, Beverly L.
+Brecht, Timothy B.
+Bredon, Glen E.
+Bregman, Z.
+Breidt, F. Jay
+Breitbart, Yuri
+Bremner, Andrew
+Bremner, David
+Brendle, Jorg
+Brenner, C.
+Brent, Richard P.
+Bressoud, David M.
+Brewster, Richard C.
+Brewster, Tony L.
+Brickell, Ernest F.
+Briggs, John
+Briggs, Keith M.
+Briggs, William E.
+Brigham, Robert C.
+Brightwell, Graham R.
+Brinkmann, Gunnar
+Brion, Michel
+Brit, Hagit
+Brizolis, Demetrios
+Brochet, J.-M.
+Brockwell, Peter J.
+Broder, Andrei Z.
+Brody, Andras
+Broere, Izak
+Broersma, Hajo J.
+Broniatowski, Michel
+Bronnimann, Herve
+Bronstein, Victor
+Brooks, Roland Leonard
+Brostow, Witold
+Brouwer, Andries E.
+Broverman, Samuel
+Browkin, Jerzy
+Brown, Arlen
+Brown, B. W., Jr.
+Brown, Ezra
+Brown, Gavin
+Brown, Gordon
+Brown, H.
+Brown, Jason I.
+Brown, John L., Jr.
+Brown, John Wesley
+Brown, Leon
+Brown, P. J.
+Brown, Russell
+Brown, Thomas A.
+Brown, W. Stanley
+Brualdi, Richard A.
+Bruck, Jehoshua
+Bruck, Rainer
+Brucker, Peter
+Bruckman, Paul S.
+Bruckner, Andrew M.
+Brudern, Jorg
+Brudno, Simcha
+Bruen, Aiden A.
+Bruj, I. N.
+Brunet, Richard
+Brunker, Don
+Brunner, Norbert
+Brutman, L.
+Bryc, Wlodzimierz
+Buchanan, Hollie L.
+Buchmann, Johannes A.
+Buck, Ellen F.
+Bucklew, James A.
+Buckley, Fred
+Budayasa, K.
+Budzban, Gregory
+Buechler, Steven
+Buekenhout, Francis
+Bugeaud, Yann
+Buhler, Joe P.
+Buhmann, Martin D.
+Bui Minh Phong
+Bukovska, Zuzana
+Bukovsky, Lev
+Bukszar, J.
+Bumby, Richard T.
+Bunt, Richard B.
+Bunting, H.
+Burgdorff, H. A.
+Burger, Edward B.
+Burgess, D. A.
+Burgess, John P.
+Burk, Frank
+Burke, Maxim R.
+Burke, Murray D.
+Burkett, John
+Burkhard, Walter A.
+Burkill, Harry
+Burkowski, Forbes J.
+Burnashev, Marat V.
+Burns, Daniel M.
+Burns, David
+Burns, Kevin
+Burosch, Gustav
+Burris, Anita C.
+Burris, Stanley
+Burshtein, Nechemia
+Burton, Geoffrey R.
+Busemann, Herbert
+Buser, Peter
+Buss, Jonathan F.
+Bussemaker, Frans C.
+Butchart, John H.
+Butler, P.
+Butler, William
+Buzytskii, Pavel L.
+Byleen, Karl
+Bylka, Stanislaw
+Byrnes, J. S.
+Caccetta, P.
+Cai, Jin-Yi
+Cai, Y. Z.
+Caines, Peter E.
+Calabi, Eugenio
+Calderbank, A. Robert
+Calude, Cristian
+Cameron, Kathleen
+Cameron, Robert D.
+Camina, Alan R.
+Camion, Paul
+Cammack, Larry A.
+Campbell, Connie M.
+Campbell, Donald E.
+Campbell, Douglas M.
+Campbell, J. G.
+Cannon, E. W.
+Cannon, John J.
+Cantor, David G.
+Cao, Da Song
+Cao, Feng
+Capoyleas, Vasilis
+Cappell, Sylvain E.
+Card, P. K.
+Cargo, Gerald T.
+Carl, Bernd
+Carlitz, Leonard
+Carlson, Bille Chandler
+Carlson, Tim
+Caro, Yair
+Caron, Richard
+Carr, Robin
+Carrasco, Eddy H.
+Carrera-Patino, Martin E.
+Carrington, Julie R.
+Carroll, C. E.
+Carstens, Hans-Georg
+Carter, Janine E.
+Carter, Michael Rowlinson
+Carter, Michael W.
+Cartier, Pierre
+Cartwright, Dorwin
+Case, Kenneth M.
+Cassels, John William Scott
+Castillo, Enrique
+Cateland, E.
+Cater, Steven C.
+Caughran, James G.
+Cavallar, Stefania
+Cavaretta, Alfred S., Jr.
+Cawley, Robert
+Cayford, Afton H.
+Cecchini, Ronald
+Ceder, Jack G.
+Cederbaum, Israel
+Celan, E.
+Censor, Yair
+Cenzer, Douglas
+Cerf, Vinton G.
+Cerny, Anton
+Cervenansky, Jaroslav
+Cesa-Bianchi, Nicolo
+Chacon, Rafael V.
+Chaiken, Seth
+Chaimovich, Mark
+Chak, A. M.
+Chakerian, Gulbank D.
+Chakrabarty, S. C.
+Chaladus, Stefan
+Challener, David
+Chan, Ada
+Chan, Andrew K.
+Chan, Arthur H. C.
+Chan, Kit C.
+Chan, Onn
+Chan, Timothy M. Y.
+Chan, W. H.
+Chan, Wing Man
+Chandra, Ashok K.
+Chandra, Barun
+Chandrasekharan, Komaravolu
+Chandrasekharan, Narayan
+Chang, Chen Chung
+Chang, Der-Chen E.
+Chang, Gerard J.
+Chang, J. X.
+Chang, Koh Wah
+Chang, Sun-Yung Alice
+Chang, Ted
+Chang, Yi-Wu
+Chao, Chi Chao
+Chao, Jia-Arng
+Chapin, Brenton
+Charbonnel, Jean-Yves
+Charnow, Allen K.
+Chatland, Harold
+Chatzidakis, Zoe Maria
+Chaubey, Yogendra P.
+Chaudhuri, Arijit
+Chazelle, Bernard
+Check, Paul Leslie
+Chee, Yeow Meng
+Cheema, Mohinder Singh
+Chen Weiyu
+Chen, Bor-Liang
+Chen, Chuan Ping
+Chen, Ci Ping
+Chen, De Meng
+Chen, Gen Huey
+Chen, Goong
+Chen, Guan Rong
+Chen, Guang Di
+Chen, Han Lin
+Chen, Jing Fa
+Chen, Lester H.
+Chen, William Y. C.
+Chen, Zhenhua
+Chen, Zhi-Hong
+Chen, Zhong S.
+Cheney, Elliott Ward
+Cheng, Edward
+Cheng, Fred Yuanyou
+Cheng, Shaw-lian
+Cheng, Siu Wing
+Cheng, Ying
+Cheng, Zheng Xing
+Cherlin, Gregory L.
+Cherly, Jorgen
+Chern, Shiing-Shen
+Cheston, Grant A.
+Chetwynd, Amanda G.
+Chevalier, O.
+Chevion, Shlomit
+Chevreau, Bernard
+Chia, Gek Ling
+Chiang, Pou-shun
+Chiba, Keiko
+Chilakamarri, Kiran B.
+Chillag, David
+Chilton, Bruce L.
+Chin, Louise H.
+Chinburg, Ted
+Ching, Chin Hung
+Chipman, John S.
+Cho, Junghee
+Choi, Byoung Seon
+Choi, Man Duen
+Choksi, Jal R.
+Choong, K. Y.
+Chou, Andrew
+Chou, Wun-Seng
+Choudhry, Ajai
+Choueka, Yaacov A.
+Chover, Joshua
+Chow, Bob
+Chow, Yuan Shih
+Chow, Yutze
+Chowla, Paromita
+Christen, Claude A.
+Christopher, Peter R.
+Chu, Fu-Tsu
+Chu, Margaret
+Chui, Herman C.
+Chun, Chung Suh
+Chung, Dean
+Chung, Myung S.
+Chvatalova, Jarmila
+Cidon, Israel
+Ciesielski, Krzystzof
+Ciesielski, Zbigniew
+Cigler, Johann
+Cijsouw, Pieter Leendert
+Cima, Joseph A.
+Claesson, Tomas
+Clapham, C. R. J.
+Clapsadle, R. A.
+Clark, Curtis
+Clark, David Alan
+Clark, Dean S.
+Clark, John
+Clark, W. Edwin
+Claus, Armin
+Cleve, Richard
+Cleves, Emily M.
+Cobos, Fernando
+Cockayne, Ernest J.
+Coddington, Earl A.
+Coffman, Edward G., Jr.
+Cofre-Matta, Alvaro
+Cohen, Arjeh M.
+Cohen, Daniel E.
+Cohen, Frederick R.
+Cohen, Gerard Denis
+Cohen, Graeme L.
+Cohen, Henri
+Cohen, I. S.
+Cohen, Joel E.
+Cohen, Jonathan
+Cohen, Meir
+Cohn, Paul Moritz
+Cohn, William
+Cohoon, David K.
+Colbourn, Marlene Jones
+Cole, Richard
+Cole, T.
+Coleman, Matthew P.
+Coleman, Sidney
+Collens, R. J.
+Collingwood, Edward F.
+Collins, Oliver
+Collins, P. J.
+Colwell, Peter
+Comellas, Francesc
+Comets, Francis M.
+Comfort, W. Wistar
+Compton, Kevin J.
+Conder, Marston
+Conrey, J. Brian
+Conze-Berline, Nicole
+Cook, Curtis R.
+Cook, Janice
+Cook, Roger J.
+Cook, T. J.
+Cook, William J.
+Cooke, Kenneth L.
+Cooper, Jason
+Cooper, John K., Jr.
+Cooperman, Gene
+Cooperstock, Jeremy
+Copi, Irving M.
+Coppersmith, Don
+Coray, Giovanni
+Cormier, Romae J.
+Corneil, Derek G.
+Corominas, Ernest
+Corradi, Keresztely A.
+Correl, Ellen
+Corsten, L. C. A.
+Corteel, Sylvie
+Cosares, Steven
+Costello, Daniel J., Jr.
+Coster, Matthijs, J.
+Coullard, Collette R.
+Coulter, Edwin
+Cover, Thomas M.
+Cowan, D. D.
+Cowen, Carl C.
+Cowen, Lenore J.
+Cowie, James
+Cowles, John R.
+Cowling, Vincent F.
+Cowsik, R. C.
+Cox, Nannette
+Coxeter, Harold Scott MacDonald
+Craft, David L.
+Craig, Cecil
+Craighead, R. L., Jr.
+Crama, Yves
+Crandall, Richard E.
+Crane, Ronni P.
+Cranwell, R. M.
+Crapo, Henry H.
+Crapo, Phyllis
+Crepeau, Claude
+Criscuolo, Giuliana
+Crittenden, Richard B.
+Cross, George E.
+Crowder, Harlan P.
+Crowe, John A.
+Csaba, Laszlo
+Csaszar, Akos
+Csernyak, L.
+Csima, Jozsef
+Csirik, Janos
+Csirmaz, Laszlo
+Csordas, George
+Csorgo, Miklos
+Csorgo, Sandor
+Cull, Paul
+Cummings, James
+Cummings, Larry J.
+Curran, Donald Joseph
+Currie, James D.
+Curtis, Robert T.
+Cusack, Charles A.
+Cusick, Thomas W.
+Cvetkovic, Dragos M.
+Cwikel, Michael
+Cypher, Robert E.
+Czech, Zbigniew J.
+D'Esopo, D. A.
+Daboussi, Heidi
+Dagum, Paul
+Dahlke, Karl A.
+Dai, Chao Shou
+Dai, Zong Duo
+Daily, John
+Dale, M. R. T.
+Damaschke, Peter
+Dambitis, Janis
+Damerell, M. R.
+Damgard, Ivan
+Damiano, Robert F.
+Dancs, Stephan
+Dandapat, G. G.
+Daniels, Peg
+Danielyan, Arthur A.
+Dankelmann, Peter
+Danskin, John M., Jr.
+Dantzig, George B.
+Danzer, Ludwig W.
+Danziger, Peter
+Dargen, Karen Casey
+Darmon, Henri
+Daroczy, Zoltan
+Das, Prabir
+Das, Pramod K.
+Das, Sipra
+Dashiell, Frederick K., Jr.
+Dass, Bal Kishan
+Dassow, Jurgen
+Davenport, Dennis E.
+Davey, Brian A.
+David, Elias
+David, G.
+David, Herbert Aron
+Davidov, G.
+Davidson, Kenneth R.
+Davis, Alan R.
+Davis, Basil
+Davis, Burgess
+Davis, Daniel
+Davis, James Avery
+Davison, B.
+Davison, J. Leslie
+Davisson, Lee D.
+Davitt, Richard M.
+Davydov, Oleg V.
+Dawes, Robin M.
+Day, D. P.
+Day, Jane M.
+Day, Robert P. J.
+Day, William H. E.
+Daykin, Jacqueline W.
+Acosta, Alejandro D.
+Boer, Martin J. M.
+Boor, Carl
+Brandes, Marcia
+Bruin, Marcelis Gerrit
+Figueiredo, Celina M. H.
+Fraysseix, Hubert
+Launey, Warwick
+Mendez, Patrice Ossona
+Pillis, John
+De Resmini, Marialuisa J.
+Rooij, Peter J. N.
+De Santis, Alfredo
+De Simone, Caterina
+De Villiers, Johan M.
+Werra, Dominique
+Witte, Paul
+Deak, Ervin
+Dean, Nathaniel
+Debbi, D.
+DeBoth, Gene A.
+Debroni, Bradley M.
+Deinert, Erhard
+Deiters, K.
+Dejter, Italo Jose
+DeLa Vina, Ermelinda
+Delange, Hubert
+DeLaRue, E. Loh
+Deleglise, Marc
+DeLeon, Morris Jack
+Dell'Olmo, Paolo
+Della Vecchia, Biancamaria
+Delmer, Francine
+Delsarte, Philippe
+Demers, Alan J.
+Demetrovics, Janos
+Dempster, Arthur P.
+Dence, Thomas P.
+Denenberg, Larry
+Denes, Peter
+Deng, Xiao Tie
+Denker, Manfred
+Denniston, Ralph Hugh Francis
+Deo, Chandrakant M.
+Deo, Narsingh
+Deogun, Jitender S.
+Depew, A. J.
+Derman, Cyrus
+Dershowitz, Nachum
+DeSanto, John A.
+Desmedt, Yvo G.
+DeTemple, Duane
+Deutsch, Frank
+Devitt, John S.
+Devlin, Keith J.
+DeVore, Ronald A.
+Devroye, Luc
+Dewald, Lee S.
+Dewdney, Alexander Keewatin
+Dey, Tamal K.
+Deza, Antoine
+Dhagat, Aditi
+Dhombres, Jean G.
+Di Piazza, Luisa
+Diab, Ahmad
+Diaconis, Persi
+Diamond, Harvey
+Diamond, Mark R.
+Diananda, Palahenedi Hewage
+Dias da Silva, Jose A.
+Diercks, V.
+Dierker, Paul F.
+Diestel, Reinhard
+Dietzfelbinger, Martin
+Dijkstra, Jan J.
+Dikshit, Hanuman P.
+Dilcher, Karl
+Diliberto, Stephen P.
+Dinculeanu, Nicolae
+Ding, Guoli
+Ding, Ping
+Dinitz, Jeffrey H.
+Dinitz, Yefim
+Dinneen, Michael J.
+Dinwoodie, I. H.
+Dion, L.
+Ditzian, Zeev
+Divis, Bohuslav
+Divsalar, Dariush
+Dixon, Tony
+Djokovic, Dragomir Z.
+Dmitriev, V. I.
+Dobbertin, Hans
+Dobkin, David P.
+Dobos, Jozef
+Dobrowolski, Edward
+Dodson, Bruce
+Dodson, M. M.
+Dolev, Danny
+Dolev, Shlomi
+Dolinar, Samuel J.
+Domke, Gayla S.
+Donagi, Ran
+Donald, Alan
+Donald, John
+Donath, W. E.
+Doner, John E.
+Donsker, Monroe D.
+Doob, Joseph L.
+Doob, Michael
+Doornbos, R.
+Dordal, Peter
+Dorfler, Willibald
+Dorwart, Harold L.
+Doskas, Mike
+Doty, Lynne L.
+Douady, Adrien
+Dougherty, Randall
+Douglas, Ronald George
+Douthett, Jack
+Dovermann, Karl Heinz
+Dow, Alan
+Dow, Stephen J.
+Dowd, Martin
+Dowdy, James
+Dowling, Thomas A.
+Downarowicz, Tomasz
+Downey, Peter J.
+Downey, Rodney G.
+Downs, Margaret Michele
+Doyen, Jean
+Doyle, Peter G.
+Drahovsky, Stefan
+Dravecky, Jozef
+Drazin, Michael P.
+Dreesen, B.
+Dresel, L. A. G.
+Dress, Andreas W. M.
+Dress, Francois
+Drezner, Zvi
+Driessen, Leon M. H. E.
+Dringo, L.
+Driscoll, James
+Dror Farjoun, Emmanuel
+Droste, Manfred
+Drozdova, A. A.
+Dryanov, Dimiter P.
+Du Feu, Veronica
+Du, Ding Zhu
+Dubiner, Moshe
+Duchet, Pierre
+Dueck, J.
+Duff, Tom D. S.
+Duffus, Dwight A.
+Duflo, Michel
+Dugac, Pierre
+Dugas, Manfred
+Dugat, Vincent
+Dugdale, J. K.
+Duh, Dyi Rong
+Dunbar, Jean E.
+Duncan, John
+Dunton, M.
+Dupain, Yves
+Duparc, Herman Johan Arie
+Duquette, Alfred L.
+Duren, Peter L.
+Durett, Richard T.
+Durnberger, Erich
+Dutton, Ronald D.
+Duvdevani, N.
+Dwork, Bernard
+Dwork, Cynthia
+Dwyer, Denis
+Dyer, Eldon
+Dyer, John A.
+Dyer, Martin E.
+Dyson, Freeman J.
+Dzamonja, Mirna
+Eades, Peter
+Eaton, Nancy
+Eaves, B. Curtis
+Ebenegger, Ch.
+Ebenfelt, Peter F.
+Eckler, Albert Ross, Jr.
+Ecklund, Denise J.
+Edelberg, Murray
+Edelman, Paul H.
+Edelsbrunner, Herbert
+Edelstein, Michael
+Edgar, Gerald A.
+Edgar, Hugh
+Edmonds, Jack R.
+Edmonds, Jeff
+Edwards, Christopher S.
+Edwards, Jeff
+Edwards, Ward
+Effinger, Gove W.
+Egawa, Yoshimi
+Egervary, Jeno
+Eggan, Larry C.
+Eggan, Peter C.
+Eggleston, H. G.
+Ehlers, E. M.
+Ehrenfeucht, Andrzej
+Ehrenpreis, Leon
+Eichhorn, Wolfgang
+Eichinger, Bruce E.
+Eid, Abdul
+Eifrig, Robert O.
+Eigen, Stanley
+Eilam, Tamar
+Eilenberg, Samuel
+Ein, Lawrence M. H.
+Einmahl, John H. J.
+Einstein, Albert
+Einy, Ezra
+Eisenbud, David
+Eisenstadt, B. J.
+Eitner, Paul G.
+Eklof, Paul C.
+Ekroot, Laura L.
+El-Gindy, Hossam
+El-Mallah, Ehab S.
+El-Yaniv, Ran
+Elbert, Arpad
+Elbert, Michael A.
+Eldridge, Stephen E.
+Elek, Gabor
+Eliahou, Shalom
+Eliezer, C. J.
+Elkenbracht-Huizing, R.-Marije
+Elkies, Noam D.
+Elkington, Gordon Bradley
+Ellingham, Mark N.
+Elliott, David
+Elliott, Joanne
+Ellzey, M. Lawrence, Jr.
+Elsner, Ludwig
+Elwin, John
+Enflo, Per
+Engel, Konrad
+Enomoto, Hikoe
+Enting, I. G.
+Eppstein, David
+Epstein, Bernard
+Epstein, Leah
+Era, Hiroshi
+Erdelyi, Tamas
+Erdos, Peter L.
+Eremenko, Alexandre E.
+Ergenzinger, Klaus
+Erickson, Martin
+Eroh, Linda
+Ertel, Wolfgang
+Escalante, Fernando
+Esfahanian, Abdol-Hossein
+Espinosa, David
+Esseen, Carl-Gustav
+Essen, Matts R.
+Esser, Friedrich
+Esser, Martinus
+Estes, Dennis R.
+Estrin, Gerald
+Etzion, Tuvi
+Eustice, Dan J.
+Evans, Benny D.
+Evans, J. W.
+Evans, James R.
+Evans, Ronald J.
+Evans, William
+Even, Shimon
+Everest, Graham R.
+Everett, C. J., Jr.
+Everett, Hugh
+Evertse, Jan-Hendrik
+Eves, Howard W.
+Evgrafov, M. A.
+Evyatar, Asriel
+Ewacha, Kevin
+Ewald, Gunter
+Ewert, Janina
+Exoo, Geoffrey
+Fabian, Marian
+Fabrykowski, Jacek
+Fagin, Ronald
+Faigle, Ulrich
+Fakuda, Komei
+Falcao, L.
+Falconer, Kenneth J.
+Falkowitz, Mordechai
+Falmagne, Jean-Claude
+Fan, C. Kenneth
+Fan, Cong
+Fan, Da Shan
+Fan, Genghua
+Fan, Guimei
+Fan, Ky
+Fang, Kai Tai
+Fang, Zu Yao
+Farahat, H. K.
+Farber, Martin
+Farcasiu, D.
+Farley, Arthur M.
+Farquhar, Peter H.
+Farrell, Edward J.
+Farrer, Carolyn
+Fary, Istvan
+Fast, Henryk
+Fateen, Lobna A.
+Fathi, Yahya
+Fauvel, John
+Favaron, Odile
+Fawcett, L. R.
+Fay, Temple H.
+Feder, Tomas
+Fee, Greg
+Feeman, Timothy G.
+Feferman, Solomon
+Fefferman, Charles Louis
+Feher, Janos
+Feige, Uriel
+Feigelson, Eric D.
+Feighelstein, Marcelo
+Fein, Burton
+Fein, Michael
+Feinerman, Robert P.
+Feintuch, Avraham
+Feitelson, Dror G.
+Fejes Toth, Gabor
+Fejes, Leopold
+Fekete, Michael
+Feldman, David
+Feldmann, Tova
+Fell, Harriet
+Fell, James M. G.
+Fellows, Michael R.
+Felsner, Stefan
+Feng, Ke Qin
+Feng, Qi
+Feng, Y. K.
+Fenner, Trevor I.
+Fenyo, Istvan
+Ferch, H.
+Ferejohn, John A.
+Ferenczi, Sebastien
+Ferguson, Le Baron O.
+Fernandez de la Vega, Wenceslao
+Fernandez, Jose Luis Cuadra
+Ferrari, Pablo Augusto
+Fiamcik, Jozef
+Fiat, Amos
+Fiduccia, Charles M.
+Fielder, Daniel C.
+Figiel, Tadeusz
+Filaseta, Michael
+Finch, Steven R.
+Finck, Hans-Joachim
+Fine, Nathan J.
+Finesso, Lorenzo
+Finizio, Norman J.
+Fink, John Frederick
+Finkelstein, Larry
+Fiorini, Stanley
+Firey, William J.
+Fischer, Eldar
+Fischer, Janos
+Fischer, Michael J.
+Fischer, Pal
+Fischer, Paul
+Fischer, Roger
+Fisher, David C.
+Fisher, Emanuel
+Fisher, Joshua
+Fisher, P. H.
+Fisher, R.
+Fisher, Stephen David
+Fishman, R. S.
+Fisk, Steve
+Fisz, Marek
+FitzGerald, Carl H.
+Fitzpatrick, Simon
+Fixman, Uri
+Fladt, Kuno
+Flaherty, Joseph E.
+Flahive, Mary Elizabeth
+Flajolet, Philippe
+Flammini, Michele
+Flandrin, Evelyne
+Flatto, Leopold
+Fleck, Arthur C.
+Fleischer, Rudolf
+Fleischner, Herbert
+Fleissner, William G.
+Fletcher, Peter
+Flick, J. David
+Flora, Mark D.
+Florian, August
+Foias, Ciprian I.
+Foldes, Antonia
+Foldes, Stephane
+Folkman, Jon H.
+Folledo, M.
+Fontana, Luigi
+Fontes, Luiz Renato G.
+Foote, Richard
+Ford, G. W.
+Foreman, Matthew
+Forgo, Ferenc
+Forman, William
+Formanek, Edward W.
+Fornaess, John Erik
+Forrester, Peter J.
+Forsythe, George E.
+Fort, M. K., Jr.
+Forte, Bruno
+Fortet, Robert
+Fortnow, Lance J.
+Fortune, Steven
+Foster, James H.
+Foster, Lorraine L.
+Fotino, Stanca
+Foulds, Les R.
+Fouvry, Etienne
+Fowler, A. G.
+Fowler, M.
+Fraisse, Pierre
+Francez, Nissim
+Franco, Zachary
+Frandsen, Gudmund Skovbjerg
+Franek, Frantisek
+Franek, M.
+Frank, Andras
+Frank, Evelyn
+Frank, Ove
+Frankiewicz, Ryszard
+Franklin, Stanley P.
+Franta, William R.
+Franzblau, Deborah S.
+Fraser, Owen H.
+Fraughnaugh, Kathryn F.
+Frechen, Joseph B.
+Frederix, G. H. M.
+Fredman, Michael L.
+Freed, Daniel S.
+Freeman, J. W.
+Freiling, Chris
+Fremlin, David H.
+Freund, Peter G. O.
+Frick, Marietjie
+Fricke, Gerd H.
+Fridshal, Donald
+Fried, Michael D.
+Friedl, Katalin
+Friedland, Shmuel
+Friedlander, F. G.
+Friedlander, John B.
+Friedlander, Richard J.
+Friedman, Arthur D.
+Friedman, Bernard
+Friedman, Harvey
+Friedman, Joel
+Friedman, Menahem
+Friedman, Sy D.
+Friedrichs, Kurt O.
+Frieze, Alan M.
+Fristedt, Bert E.
+Froberg, Carl-Erik
+Frolik, Zdenek
+Fromme, M.
+Froncek, Dalibor
+Frost, Howard B.
+Frost, Richard
+Frota-Mattos, Luiz A.
+Frucht, Roberto Wertheimer
+Frye, William G.
+Fu, Shu Sheng
+Fu, Siqi
+Fuchino, Sakae
+Fuchs, Ladislas
+Fuchs, Laszlo-1
+Fuji-Hara, Ryoh
+Fukuda, Komei
+Fulkerson, Delbert Ray
+Fulman, Jason
+Fulton, Curtis M.
+Fulton, John D.
+Fulton, R.
+Fung, Gilbert
+Furer, Martin
+Furino, Steven C.
+Furry, W. H.
+Furstenberg, Hillel
+Gaal, Istvan
+Gabard, Emilien
+Gabbay, Dov M.
+Gacs, Peter
+Gaddum, Jerry W.
+Gaer, Marvin C.
+Gaggia, Antonio Giorgio
+Gagliardi, Robert M.
+Gaifman, Haim
+Gait, Paul
+Gal, Anna
+Gal, Shmuel
+Gal, Sorin Gheorghe
+Galanis, Efstratios
+Galbraith, A. S.
+Gale, David
+Galil, Zvi
+Gallant, Robert P.
+Galli Erickson, Doreen L.
+Galluccio, Anna
+Galovich, Steven
+Gambosi, Giorgio
+Gamelin, Theodore W.
+Gamer, Carlton
+Gammel, John L.
+Ganelius, Tord H.
+Ganesan, Ravikanth
+Ganley, Michael J.
+Ganter, Bernhard
+Ganzburg, Michael
+Gao, Biao
+Gao, Bo
+Gao, Xu Hong
+Gao, Zhicheng
+Gardiner, Anthony D.
+Gardiner, Verna
+Gardner, Ben
+Gardner, J. Helen
+Gardner, Marianne Lepp
+Gardner, Martin
+Gardner, Richard J.
+Gardner, Robert
+Garey, Michael R.
+Garfinkel, Robert S.
+Gargano, Luisa
+Gargano, Michael L.
+Garnett, John B.
+Garnick, David K.
+Garzon, Max
+Gaskell, R. W.
+Gasper, George
+Gassman, Larry D.
+Gastineau-Hills, Henry M.
+Gates, David J.
+Gati, Georg
+Gati, Jozsef
+Gatto, Angel Eduardo
+Gatzke, Hartmut
+Gauchman, Hillel
+Gauthier, Paul M.
+Gaveau, Bernard
+Gavlas, Heather Jordon
+Gavril, Fanica
+Gawlick, Dieter
+Ge, Xiaolin
+Geelen, J. F.
+Geher, Laszlo
+Gehrig, Wilhelm
+Gehring, Frederick W. A.
+Gehrlein, William V.
+Geller, Dennis P.
+Gentleman, Jane F.
+George, E. Olusegun
+George, John C.
+Geramita, Anthony V.
+Geramita, Joan M.
+Gerard, Harold B.
+Gerardin, Paul
+Gereb-Graus, Mihaly
+Gergely, Ervin
+Gerlits, Janos
+Gersho, Allen
+Gerson, Martin
+Gerst, Irving
+Gerstel, Ornan
+Gerth, Frank, III
+Gervacio, Severino V.
+Gervais, Robert
+Gessel, Ira M.
+Geva, Eitan
+Gewirtz, Allan
+Gharbi, Mohamed
+Ghermanescu, Mihail
+Ghinelli-Smit, Dina
+Ghosh, Malay
+Ghosh, Subir
+Ghoshal, J.
+Giannini, L. M.
+Gibbons, Luana
+Gibbons, Peter B.
+Gibbs, Norman E.
+Gibbs, Richard A.
+Gibson, J. K.
+Giese, John H.
+Gilbert, Edgar N.
+Gilbert, John R.
+Gilbert, William J.
+Gilchrist, Martin
+Gilewski, J.
+Gillio Berta Mauri, Anna
+Gilmore, Paul Carl
+Gilmore, Robert
+Gingold, H.
+Ginn, Mark
+Ginsberg, Jonathan I.
+Ginsburg, John
+Gioia, Anthony A.
+Gionfriddo, Mario
+Giordano, Frank R.
+Giorgetta, Donato
+Giraudet, Michele
+Girela, Daniel
+Girgensohn, Roland
+Giroux, Andre
+Gitik, Moti
+Givant, Steven R.
+Giveon, Y.
+Glaister, Ian
+Glasauer, Stefan
+Glashow, Sheldon Lee
+Glass, A. M. W.
+Glass, Jon P.
+Glasser, M. Lawrence
+Glazek, Kazimierz
+Glebov, N. I.
+Glicksberg, Irving
+Glover, Fred
+Glover, Joseph
+Gluck, David
+Gluck, Lawrence
+Gobel, Frits
+Gobel, Rudiger
+Godambe, Vidyadhar P.
+Godbole, Anant P.
+Godfrey, Jean
+Godwin, H. J.
+Goecke, Oskar
+Goemans, Michel X.
+Goethals, Jean-Marie
+Goetz, A.
+Goffin, Jean-Louis
+Goffman, Casper
+Goh, William M. Y.
+Gohl, Gunnar
+Golab, Stanislaw
+Golan, Jonathan S.
+Gold, Yaron I.
+Goldbach, R. W.
+Goldberg, Charles H.
+Goldberg, Karl
+Goldberg, Moshe
+Goldberg, Myron
+Goldberg, Seymour
+Golden, Bruce L.
+Goldfarb, Warren D.
+Goldfeld, Dorian M.
+Goldner, Anita M.
+Goldreich, Oded
+Goldschmidt, Elisheva
+Goldsmith, Donald L.
+Goldsmith, Judy
+Goldstein, A. J.
+Goldstein, Myron
+Goldstern, Martin
+Goldstine, Herman H.
+Goldston, Daniel A.
+Goldwasser, John L.
+Goldwasser, Shafi
+Goles Chacc, Eric
+Golin, Mordecai J.
+Golomb, Solomon W.
+Golub, Gene Howard
+Golubitsky, Martin
+Golumbic, Martin Charles
+Gomory, Ralph E.
+Gonchar, Andrei A.
+Gonska, Heinz Herbert
+Gonzalez-Fernandez, J. M.
+Goodey, Paul R.
+Goodman, Albert J.
+Goodman, Arthur
+Goodman, Gary
+Goodman, Jacob Eli
+Goodman, Richard
+Goodman, Rodney M.
+Goodman, Ruth E.
+Goodman, Seymour E.
+Goodman, Timothy N. T.
+Gopalakrishnan, K.
+Gopinath, B.
+Goralcik, Pavel
+Goralcikova, Alla
+Gorden, Dan
+Gordon, Cameron McA.
+Gordon, Daniel M.
+Gordon, Manfred
+Gorlow, Waleri Wassiljewitsch
+Goswami, Jaideva C.
+Gotsman, Craig
+Gottschalk, Manfred
+Gould, Henry Wadsworth
+Gould, Matthew
+Goutier, Cluade
+Gouvea, Fernando Q.
+Govindarajulu, Zakkula
+Grable, David A.
+Grabner, Peter J.
+Graczynska, Ewa
+Graf, Siegfried
+Grah, Jacques
+Graham, Nancy Young
+Graham, Niall
+Gramain, Francois
+Grammatikakis, Miltos D.
+Grandjot, K.
+Granlund, Torbjorn
+Grannell, M. J.
+Granski, M.
+Grant, Douglas D.
+Grassl, Richard
+Gratzer, George
+Gravier, Sylvain
+Gray, James N.
+Greaves, George
+Green, David, Jr.
+Green, Robert E.
+Greenberg, Albert G.
+Greenberg, Peter
+Greene, Curtis
+Greene, Daniel H.
+Greene, Euline
+Greene, Robert E.
+Greene, Theodore Michael
+Greenwell, Donald L.
+Greetor, Ronald K.
+Gregory, David A.
+Grekos, Georges
+Grenander, Ulf
+Grenetz, Philip
+Greville, Thomas N. E.
+Griffin, J. S., Jr.
+Griggs, Jerrold R.
+Griggs, Terry S.
+Grigoriev, Dima Yurevitz
+Grigoryan, Alexander A.
+Grimaldi, Ralph P.
+Grimmett, Geoffrey R.
+Grimson, W. Eric L.
+Grinstead, Charles M.
+Grishukhin, Viatcheslav P.
+Grobler, P. J. P.
+Groetsch, Charles W.
+Groflin, Heinz
+Gronau, Detlef
+Gronau, Hans-Dietrich O. F.
+Grosof, Miriam Schapiro
+Gross, Fred
+Gross, Jonathan L.
+Gross, Kenneth B.
+Gross, Robert
+Grossberg, Rami
+Grossman, Jerrold Wayne
+Grossman, Tal
+Grosswald, Emil
+Grothmann, Rene
+Grotschel, Martin
+Gruberger, Nira
+Grubl, Gebhard
+Grunbaum, Zdenka
+Gruszka, Jacek
+Gruzewski, Aleksander
+Guan, Lu Tai
+Gudder, Stanley P.
+Guelman, Romina
+Guevremont, Eric
+Guibas, Leonidas J.
+Guiduli, Barry
+Guler, Osman
+Gupta, Ajay K.
+Gupta, Arjun K.
+Gupta, Gopal
+Gupta, Om Parkash
+Gupta, Rajiv
+Gupta, Ram Niwas
+Gupta, S. K.
+Guralnick, Robert M.
+Guregova, Maria
+Gurevich, Yuri
+Gustafson, Karl
+Gustafsson, Bjorn
+Gut, Allan
+Gutin, Gregory
+Gutkin, Eugene
+Gutman, Ivan M.
+Guttmann, Anthony J.
+Guy, A. G.
+Guy, Andrew W. P.
+Gvozdjak, Pavol
+Gyapjas, F.
+Haber, Seymour
+Haber, Stuart
+Habsieger, Laurent
+Hachem, Nabil I.
+Hachenberger, Dirk
+Haddad, Lucien
+Hadwiger, Hugo
+Haemers, Wilhelmus Hubertus
+Haeusler, Erich
+Hafner, James Lee
+Hafner, Paul
+Hage, Per
+Hager, Anthony W.
+Hager, Richard
+Haggard, Gary
+Haggkvist, Roland
+Hagwood, Robert Charles
+Hahn, Gena
+Haigh, Claude W.
+Haile, Dawit
+Hajek, Jaroslav
+Hajela, Dan J.
+Hajiabolhassan, H.
+Hajian, Arshag B.
+Hajnal, Peter
+Hajos, Georg
+Hakimi, Seifollah Louis
+Haland, Inger Johanne
+Halasz, Sylvia
+Halbeisen, Lorenz
+Halberg, Charles J. A., Jr.
+Halberstam, Fay Y.
+Halberstam, Heini
+Hale, Mark P., Jr.
+Hales, Alfred W.
+Hall, Charles A.
+Hall, Jonathan I.
+Hall, Marshall, Jr.
+Hall, R. S.
+Halldorsson, Magnus M.
+Hallenbeck, David J.
+Hallum, Kathleen C.
+Hallyburton, John C., Jr.
+Halmos, Paul R.
+Halperin, Eran
+Halperin, J., Jr.
+Halpern, Herbert
+Halpin, Patrick
+Halton, John Henry
+Hamada, Noborv
+Hamaker, William
+Hambrusch, Susanne E.
+Hamel, Angele Marie
+Hamkins, Joel David
+Hamm, Rose C.
+Hammer, Peter L.
+Han, Shu-Ping
+Han, Zhen Yao
+Hancl, Jaroslav
+Handelman, David
+Hanen, A.
+Hanisch, Herman
+Hanlon, Phil
+Hannak, Laszlo
+Hansell, Roger W.
+Hansen, Jennie C.
+Hansen, Lars Kai
+Hansen, Lowell J.
+Hansen, Pierre
+Hanson, John
+Hansoul, Georges E.
+Harari, Yuval
+Haraux, Alain
+Harborth, Heiko
+Harcos, Gergely
+Hardin, Ronald Hunter
+Hardy, Godfrey Harold
+Hare, David R.
+Hare, Donovan R.
+Hare, Eleanor O.
+Harland, John Robinson
+Harman, Glyn
+Harmon, Gregory
+Harms, Daryl D.
+Harms, Janelle J.
+Harnchoowong, Ajchara
+Harnik, Victor
+Harper, Lawrence H.
+Harrington, Leo A.
+Harris, Andrew J.
+Harris, Frederick C., Jr.
+Harris, John M.
+Harris, T. E.
+Harris, V. C.
+Harrop, Ronald
+Hart, Bradd
+Hart, Joan E.
+Hart, Sergiu
+Hartfiel, Darald J.
+Hartig, Klaus
+Hartman, Alan
+Hartman, Irith Ben-Arroyo
+Hartman, Philip
+Hartmann, Mark
+Hartnell, Bert L.
+Hartung, Paul
+Haruki, Hiroshi
+Haruki, Shigeru
+Hashim, Ashwaq
+Hashmi, Jahangir A.
+Hassan, Al-Zaid
+Hasse, Helmut
+Hasson, Maurice
+Hastad, Johan T.
+Hasumi, Morisuke
+Hatalova, H.
+Hatvani, Laszlo
+Hausman, Miriam
+Haussler, David
+Havas, George
+Havas, I.
+Havelock, Ronald
+Haviar, Alfonz
+Haviland, E. K.
+Hawkins, D.
+Haxell, P. E.
+Hay, Barbara
+Haydon, Richard G.
+Hayes, Allan
+Hayes, John P.
+Hayes, Stanley E.
+Hayman, Walter Kurt
+Haynes, Teresa W.
+Haynsworth, Emilie
+He, Qing
+He, Tian Xiao
+Heal, Geoff
+Heath, David C.
+Hecht, Tomas
+Hedenmalm, Hakan
+Hedetniemi, Sandra Mitchell
+Heidelberg, Ralph
+Heilmann, Ole J.
+Heinrich, Katherine
+Hejduk, Jacek
+Held, Michael
+Helfand, Eugene
+Helland, Pat
+Heller, Isidor
+Hellerstein, Simon
+Helson, Henry
+Hemaspaandra, Lane A.
+Hemmer, Per Chr.
+Henderson, Peter B.
+Hendy, Michael D.
+Henkin, Leon A.
+Henle, James M.
+Hennecart, Francois
+Hennemuth, Richard C.
+Henry, Myron S.
+Hensel, A. D.
+Hensley, Douglas
+Henson, C. Ward
+Henson, Teresa D.
+Hentzel, Irvin Roy
+Heppes, Aladar
+Heppner, Ernst
+Herda, Hans
+Herman, Gabor T.
+Herman, Joan E.
+Hermann, Peter Z.
+Hermann, Thomas
+Herndon, William C.
+Hershberger, John
+Hershkowitz, Daniel
+Herstein, Israel N.
+Herzog, Joachim
+Hesse, G.
+Hetyei, Gabor L.
+Hevia, Hector
+Hewitt, Edwin
+Hexel, Erhard
+Heydemann, Marie-Claude
+Hiester, N. K.
+Higashiyama, Yoichi
+Higgins, F. E.
+Higman, Graham
+Hill, Anthony P.
+Hill, J. D.
+Hill, S. P.
+Hille, Einar
+Hiller, Howard Lyn
+Hilliker, David Lee
+Hillman, Abraham P.
+Hilton, Anthony J. W.
+Hilton, Peter John
+Hind, Hugh R. F.
+Hinkkanen, Aimo
+Hinkley, David V.
+Hinrichs, Lowell A.
+Hirsch, Warren M.
+Hirschfeld, James William Peter
+Hirschhorn, Michael D.
+Hirst, Jeffry L.
+Hjorth, Poul Georg
+Hlawka, Edmund
+Ho, Chat Y.
+Ho, Ching-Tien
+Hoang, Chinh T.
+Hobart, Sylvia A.
+Hobinger, Johannes
+Hochbaum, Dorit S.
+Hochberg, Robert
+Hochberg, Yosef
+Hochstattler, Winfried
+Hodes, Louis
+Hodges, Kenneth
+Hodges, Wilfred
+Hodkinson, Ian
+Hoede, Cornelis
+Hoehn, Larry
+Hoffgen, Klaus-Uwe
+Hoffman, Dean G.
+Hoffman, Frederick
+Hoffman, Ilya
+Hoffman, Michael J.
+Hoffmann, Frank
+Hoffmann, G.
+Hoffmann, Karl Heinz
+Hoffmann-Joergensen, Jorgen
+Hofmeister, Gred
+Hofmeister, Michael
+Hofmeister, Thomas
+Hoholdt, Tom
+Hola, Lubica
+Holbert, Karen S.
+Holdridge, Diane B.
+Holland, Anthony Stanley Bassett
+Holland, W. Charles
+Holley, Lisa
+Hollmann, Henk D. L.
+Holmes, Susan
+Holroyd, Fred C.
+Holst, Lars
+Holsztynski, Wlodzimierz
+Holt, Jeffrey J.
+Holt, Linda M.
+Holzmann, Carlos A.
+Hominal, Pierre
+Honargohar, Zorabi
+Hong, Dong
+Hong, Jia-Wei
+Hoory, Shlomo
+Hoover, H. James
+Hoover, Mark
+Hoover-Plow, Jane
+Hopkins, Glenn W.
+Hopkins, Laurie B.
+Horn, Alfred
+Horn, Roger A.
+Hornik, Kurt
+Horowitz, Joseph
+Horton, Joseph D.
+Horvath, Agota P.
+Horvath, Jean
+Horvath, Lajos
+Horwitz, Alan L.
+Hosoya, Haruo
+Hossain, Moazzem
+Hosszu, Miklos
+Host, Linda H.
+Houle, Michael E.
+Housworth, Elizabeth Ann
+Houten, Lorne
+Howard, Paul E.
+Howe, Roger E.
+Howell, Gary W.
+Howes, Leonard
+Howie, John M.
+Hronec, Jur
+Hrushovski, Ehud
+Hsia, John S.
+Hsiao, David
+Hsieh, W. N.
+Hsu, Li Hsing
+Hsu, Lietz C.
+Hsu, N. C.
+Hsu, Pei
+Hsu, Tim
+Hu, Hongde
+Hu, Hui
+Hu, Joanne
+Hu, Jun
+Hu, Te Chiang
+Hu, Xiao Dong
+Hu, Xiao Yu
+Hu, Ying Sheng
+Huang, Charlotte
+Huang, Jing
+Huang, Ta Yuan
+Huang, Xiaojun
+Huber, Martin
+Huck, Andreas
+Hughes, Charles E.
+Hughes, Daniel R.
+Hughes, Ian G.
+Hughes, John F.
+Hughes, Kimball Newton
+Hui, Roger
+Hui, Stefen Y.
+Huisgen-Zimmermann, Birge
+Huisman, Leendert M.
+Hujter, Mihaly
+Hulanicki, A.
+Hulpke, Alexander
+Humke, Paul D.
+Hummel, James A.
+Hunsucker, John L.
+Hunt, David C.
+Huotari, Robert
+Hurlbert, Glenn H.
+Hurst, Fair Barbour
+Hurtado, Ferran
+Hurwitz, Alexander
+Hurwitz, Henry, Jr.
+Husek, Miroslav
+Hutchinson, Joan P.
+Huxley, Martin N.
+Hwang, Frank Kwangming
+Hwang, Lihui
+Hyers, Donald H.
+Hyttinen, Tapani
+Ibarra, Oscar H.
+Idzik, Adam
+Ihrig, Ed
+Ihringer, Thomas
+Il'in, Vladimir Aleksandrovich
+Imai, Hiroshi
+Immerman, Neil
+Imoru, Christopher Olutunde
+Impagliazzo, Russell
+Imrich, Wilfried
+Ingarden, Roman S.
+Ingemarsson, Ingemar
+Ingleton, Aubrey William
+Iosifescu, Marius
+Iqbalunnisa, T.
+Iri, Masao
+Irwin, John M.
+Isaak, Garth T.
+Isaev, Alexander V.
+Isbell, John R.
+Iscoe, Ian
+Iskra, Jeseph A.
+Ismail, Mourad E. H.
+Ismatullaev, Sh. A.
+Isopi, Marco
+Israeli, Amos
+Itai, Alon
+Ito, Noboru
+Ito, Yuji
+Ivanov, A. V.
+Ivanov, Kamen G.
+Ivanov, Sergei A.
+Ivanyi, Antal
+Ivanyos, Gabor
+Iwaniec, Henryk
+Iyengar, Sitharama S.
+Izumi, Shin-ichi
+Jackson, Bill
+Jackson, Bradley W.
+Jackson, David M.
+Jackson, Douglas E.
+Jackson, Howard L.
+Jackson, Terrence H.
+Jackson, Wen-Ai
+Jacobs, David Pokrass
+Jacobs, Walter
+Jacobson, Theodore
+Jaeger, Francois
+Jaffray, Alan
+Jager, Sabine
+Jaglom, Isaac M.
+Jagy, William C.
+Jain, Naresh C.
+Jain, Pushpa Kumari
+Jajcay, Robert
+Jajodia, Sushil
+Jakimovski, Amnon
+Jakob, Matthias
+Jakubowicz, Oleg
+James, Brent
+James, R. D.
+Jameson, Graham J. O.
+Jamil, Basharat A.
+Jamison, James E.
+Jamison, Robert E.
+Jammalamadaka, Sreenivasa Rao
+Janakiraman, T. N.
+Janic, Radovan R.
+Janossy, Lajos
+Jansen, Klaus
+Janssen, A. J. E. M.
+Janwa, Heeralal
+Jarai, Antal
+Jarden, Moshe
+Jarrett, Elzbieta B.
+Jarvis, John J.
+Jaworski, Jerzy W.
+Jayaram, S. R.
+Jayawardene, Chula J.
+Jayne, John E.
+Jech, Thomas J.
+Jedwab, Jonathan
+Jellinek, Julius
+Jendrol, Stanislav
+Jenkyns, Tom A.
+Jennings, George
+Jerison, David S.
+Jerison, Meyer
+Jerome, Joseph
+Jerrard, Richard P.
+Jerrum, Mark
+Jessen, Borge
+Jessop, Nicholas
+Jesurum, C. Esther
+Jetter, Kurt
+Jevtic, Dusan B.
+Jewell, Nicholas P.
+Jezek, Jaroslav
+Jha, Shing-Whu
+Jha, Vikram
+Jhunjhunwala, N.
+Jia, Rong Qing
+Jia, Rui Zhong
+Jia, Xing De
+Jian, Chen
+Jiang, Er Xiong
+Jiang, Zhike
+Jin, Renling
+Jipsen, Peter
+Jockusch, Carl G., Jr.
+Joffe, Anatole
+Joffe, Peter
+Johansson, Thomas
+John, Peter Eugen
+John, Peter W. M.
+Johns, Garry L.
+Johnson, Barry Edward
+Johnson, Charles Royal
+Johnson, Christopher W.
+Johnson, David Stifler
+Johnson, Donald G.
+Johnson, Ellis L.
+Johnson, Eugene W.
+Johnson, G. D.
+Johnson, Joseph Lemmel, Jr.
+Johnson, Karen Anne
+Johnson, Kathryn E.
+Johnson, Kenneth Walter
+Johnson, Mark A.
+Johnson, Norman Lloyd-2
+Johnson, Norman W.
+Johnson, O.
+Johnson, Peter D., Jr.
+Johnson, Roy A.
+Jones, Anthony
+Jones, Burton W.
+Jones, F. Burton
+Jones, J. E.
+Jones, James P.
+Jones, Kathryn F.
+Jones, Peter W.
+Jones, Roger L.
+Jonoska, Natasa
+Jonsson, Bjarni
+Jorgensen, Leif K.
+Joubert, Wayne D.
+Joux, Antoine
+Joyce, Dominic
+Joyce, H.
+Joyce, James
+Jozsa, S.
+Jucovic, Ernest
+Judah, Haim I.
+Judah, Sherry
+Judin, A. A.
+Juhasz, Istvan
+Jung, Heinz Adolf
+Jung, Hyung Chan
+Jung, Soon-Mo
+Junge, Bjarne
+Jungnickel, Dieter
+Jurek, Zbigniew
+Jurkat, Wolfgang B.
+Just, Bettina
+Justicz, Joyce
+Jutila, Matti
+Kabell, Jerald A.
+Kadlecek, David
+Kafka, P.
+Kafri, Oded
+Kaftal, Victor G.
+Kahale, Nabil
+Kahane, Jean-Pierre
+Kahane, Joseph
+Kahaner, David K.
+Kahn, Jeffry N.
+Kaiser, Hans K.
+Kajitani, Yoji
+Kalai, Gil
+Kalbfleisch, James G.
+Kalisch, Gerhard K.
+Kallenberg, Olav
+Kallman, Robert R.
+Kalmar, Laszlo
+Kalton, Nigel J.
+Kaluza, Theodor, Jr.
+Kameda, Tsunehiko
+Kamienny, Sheldon
+Kaminski, Andrzej
+Kaminski, Michael
+Kamke, Erich
+Kamps, H. J. L.
+Kanagasabapathy, P.
+Kanamori, Akihiro
+Kandel, Daniel
+Kane, Vinay G.
+Kaneko, Atsushi
+Kanemitsu, Shigeru
+Kaniewski, Janusz
+Kannan, Ravindran
+Kannan, Sampath
+Kannappan, Palaniappan
+Kantor, K.
+Kantor, Wallace
+Kantor, William M.
+Kapoor, S. F.
+Karabed, Razmik
+Karabeg, Dino
+Karacuba, Anatolij A.
+Karchmer, Mauricio
+Kardos, Peter
+Kari, Lila
+Karlin, Anna R.
+Karlin, Samuel
+Karloff, Howard J.
+Karmarkar, Narendra
+Karolyi, Gyula
+Karonski, Michal
+Karp, Richard M.
+Karpinski, Marek
+Karpovsky, Mark G.
+Karr, Alan
+Karusch, William
+Kasahara, Yuji
+Kasch, Friedrich
+Kasimatis, E. A.
+Kasiraj, Jothi
+Kassay, Gabor
+Kasteleyn, P. W.
+Kaszonyi, Laszlo
+Kataoka, Toshitaka
+Katchalski, Meir
+Kato, Akio
+Katoh, Naoki
+Katona, Gyula O. H.
+Katrinak, Tibor
+Katsevich, Alexander I.
+Katsifarakis, K. L.
+Katz, Ian
+Katz, Morris W.
+Katz, Paul
+Katz, Shmuel
+Katznelson, Yitzhak
+Kaufman, B.
+Kaufman, Edwin H., Jr.
+Kaufman, Robert P.
+Kaufmann, Matt
+Kaugars, Agnis
+Kay, David C.
+Kaznachey, Dmitri
+Kechris, Alexander S.
+Kedem, Gershon
+Kedem, Klara
+Keedwell, Anthony Donald
+Keeler, Emmett B.
+Keeney, Ralph L.
+Keich, Uri
+Keil, J. Mark
+Keisler, H. Jerome
+Kellerer, Hans-2
+Kelley, Carl T.
+Kelly, B. G. A.
+Kelly, David
+Kelly, Jerry Stewart
+Kelly, Leroy M.
+Kelly, Patrick A.
+Kelmans, Alexander K.
+Kelsen, Pierre
+Kemperman, Johannes Henricus Bernardus
+Kempner, A. J.
+Kenderov, Petar Stojanov
+Kenelly, John W., Jr.
+Kennedy, Charles
+Kennedy, P. B.
+Kennel, C. W.
+Kent, Darrell C.
+Kenyon, Claire
+Keough, F. R.
+Kerdock, Anthony M.
+Kern, U.
+Kern, Walter
+Kershner, R.
+Kertesz, Andor
+Kervaire, Michel
+Kessler, Irving
+Kessler, Ofra
+Kesten, Harry
+Kestin, Joseph
+Ketskemety, I.
+Kezdy, Andre E.
+Khairt, Mahmoud K.
+Khamis, Soheir M.
+Khanna, Sanjeev
+Khavinson, Dmitry
+Khelladi, Abdelkader
+Khoo, David S. P.
+Khosrovshahi, G. B.
+Khurrum, Mohammed
+Kibler, Robert E.
+Kiefer, Jean
+Kiely, Aaron B.
+Kiesewetter, Helmut
+Kilgore, Theodore A.
+Kilgour, D. Marc
+Killgrove, Raymond B.
+Kilmister, Clive W.
+Kim, An-Hyun
+Kim, Ann Chi
+Kim, Hong W.
+Kim, Jeong Han
+Kim, Jeong-Heon
+Kim, Jin Bai
+Kim, Kang-Tae
+Kim, Ki Hang
+Kim, Sam M.
+Kim, Su Hee
+Kim, Suh-Ryung
+Kimberling, Clark
+Kimble, Robert J., Jr.
+Kimmel, Peter G.
+Kincaid, Wilfred M.
+Kinch, Lael F.
+Kincses, J.
+King, Clarence
+King, Ellen L.
+King, R. Bruce
+King, Valerie
+Kingman, J. F. C.
+Kiraly, Zoltan
+Kirfel, Christoph
+Kirkland, Stephen J.
+Kirkpatrick, David G.
+Kirwan, William E., II
+Kis, Otto
+Kisilevsky, Hershy
+Kiss, Emil W.
+Kister, James Milton
+Kitto, Cyrus
+Kiuchi, Isao
+Kiyota, Masao
+Klarner, David A.
+Klauder, John R.
+Klazar, Martin
+Klee, Karl
+Klee, Victor L.
+Kleeman, J.
+Kleidman, Peter B.
+Kleiman, Mark
+Klein, David
+Klein, Douglas J.
+Klein, Rivka
+Klein, Shmuel T.
+Kleinberg, Eugene M.
+Klema, Virginia C.
+Klerlein, Joseph B.
+Klimmek, Regina
+Klincsek, G. T.
+Klipker, Israel A.
+Kloks, Ton
+Kloss, Kenneth E.
+Klostermeyer, William F.
+Knapowski, Stanislaw
+Knaster, Bronislaw
+Knebusch, Manfred
+Knichal, Vladimir
+Knill, Emanuel
+Knisely, James
+Knisley, Debra J.
+Knop, Osvald
+Knopfmacher, Arnold
+Knopfmacher, John
+Knopp, Konrad
+Knopp, Marvin I.
+Knor, Martin
+Knowles, J. D.
+Knowles, Kevin Maxwell
+Knuth, Donald Ervin
+Ko, C. S.
+Ko, Tsz-Mei
+Kobayashi, Kusuo
+Kocay, William L.
+Kochen, Simon B.
+Kochenberger, Gary A.
+Kochman, Fred
+Koda, Yasunori
+Kodaira, Kunihiko
+Kodama, Akio
+Kodama, Yukihiro
+Koehl, F. S.
+Koh, Khee Meng
+Koh, S. H.
+Kohavi, Zvi
+Kohlbecker, Eugene E.
+Kohler, Norbert
+Kohls, Carl W.
+Kohn, S.
+Kojman, Menachem
+Kok, J. J.
+Kolaitis, Phokion G.
+Kolasinska, Elzbieta
+Kolb, Rickey A.
+Kolen, Antoon W. J.
+Kolesnik, Grigori
+Kollar, Janos
+Kolman, Oren
+Kolodner, Ignace I.
+Kolossa, Katalin
+Kolountzakis, Mihail N.
+Komlos, John
+Kommel, Helene J.
+Kompfner, R.
+Konheim, Alan G.
+Konishi, Hideo
+Konopka, Andzej K.
+Konyagin, Sergei Vladimirovich
+Koo, S.
+Koolen, Jacobus Hendricus
+Kooman, Robert Jan
+Kooshesh, Ali A.
+Kopetzky, Hans Gunther
+Koplowitz, Jack
+Koppelberg, Sabine
+Kopperman, Ralph
+Korach, Ephraim
+Korchmaros, Gabor
+Kordecki, Wojciech
+Koren, Michael
+Koren, Zahava
+Korevaar, Jacob
+Korman, Vladimir
+Kornai, Andras
+Kornatzky, Yoram
+Korner, Janos
+Korner, Thomas William
+Kornfeld, Isaac
+Kornprobst, Jean-Michel
+Kornyei, I.
+Korobov, Nikolai Mikhailovich
+Korte, Bernhard
+Korzhik, Vladimir P.
+Kosaraju, S. Rao
+Kosloff, Ronnie
+Koslowski, Jurgen
+Kossler, Milos
+Kostant, Bertram
+Kostyrko, Pavel
+Kotecky, Roman
+Koti, Kallappa M.
+Kotlov, Andrew
+Kotov, Vladimir M.
+Kotz, Samuel
+Kotzig, Anton
+Kou, Lawrence T.
+Koubek, Vaclav
+Kouemou-Patcheu, Solange
+Kouider, Mekkia
+Kountanis, Dionysios
+Kovacs, Bela
+Kovacs, Laszlo Gyorgy
+Kovacs, Peter
+Kovacs, Sandor J., Jr.
+Kowalski, Oldrich
+Kozen, Dexter
+Kozlov, Dmitry N.
+Kra, Bryna
+Kraetzl, Miro
+Kralik, Dezso
+Kramer, Earl S.
+Kramer, Judy
+Krarup, Jakob
+Krasikov, Ilia
+Kratochvil, Jan
+Krattenthaler, Christian
+Kratzke, Thomas M.
+Kraus, Sarit
+Krausz, T.
+Kravitz, Sidney
+Kreher, Donald L.
+Kreinovich, Vladik Ya.
+Kresova, Helena
+Kreuter, Bernd
+Kriegel, Klaus
+Krieger, Michael M.
+Krishnan, Ganesh
+Krisztin, Tibor
+Kriz, Igor
+Krogdahl, Stein
+Kronk, Hudson V.
+Kruskal, Clyde P.
+Kruskal, Joseph B., Jr.
+Kruyswijk, D.
+Ku, Tung-Hsin
+Kuba, Attila
+Kucera, Ludek
+Kucharczak, Jerzy
+Kuczma, Marek
+Kudar, J.
+Kudlek, Manfred
+Kueker, David W.
+Kuhlmann, Franz-Viktor
+Kuhlmann, Salma
+Kuhn, Harold W.
+Kuhn, Markus G.
+Kuhn, Thomas
+Kuich, Werner
+Kuijlaars, Arno B. J.
+Kuklinski, Lisa
+Kull, H.
+Kulvetsas, L. L.
+Kumar, Vijaya
+Kung, Joseph P. S.
+Kunth, Peter
+Kuperberg, Greg
+Kuperberg, Wlodzimierz
+Kuran, Ulku
+Kuratowski, Kasimierz
+Kurkova, Vera
+Kurosawa, Kaoru
+Kurshan, Robert P.
+Kurtz, David
+Kushilevitz, Eyal
+Kushneriuk, S. A.
+Kutten, Shay
+Kuzyurin, N. N.
+Kwiatkowski, D. J.
+Kwiatkowski, Jan
+Kwizak, Michael
+Kwong, Y. H. Harris
+La Poutre, Johannes A.
+Labahn, Roger
+Laborde, Jean-Marie
+Labuda, Iwo
+Lachlan, Alistair H.
+Lacoume, J. L.
+Laczkovich, Miklos
+Ladner, Richard E.
+Laffey, Thomas J.
+Laflamme, Claude
+Lagarias, Jeffrey C.
+Laha, R. G.
+Lahiri, Debabrata B.
+Lai, C. W.
+Lai, Hang-Chin
+Lai, Hong-Jian
+Lai, Hongyuan
+Lai, Ming Jun
+Lai, Yung-Ling
+Lakser, Harry
+Lalani, Judy M.
+Lalley, Steven P.
+Lam, Clement Wing Hong
+Lam, Tsit Yuen
+LaMacchia, Brian A.
+Laman, Gerard
+Lambek, Joachim
+Lamken, Esther R.
+Lamperti, John
+Lance, E. Christopher
+Landau, E.
+Landau, Edmund
+Landau, Henry J.
+Lander, Leon J.
+Landgev, Ivan N.
+Landman, Bruce M.
+Landreau, Bernard
+Landrock, Peter
+Lane, Norman D.
+Langer, Rudolph E.
+Langevin, Michel
+Langford, Eric
+Langlands, Robert P.
+Langley, James K.
+Langley, Larry J.
+Laohakosol, Vichian
+Lapidot, Eitan
+Lapidus, Michel L.
+Lappan, Peter
+Larman, David G.
+Larson, David R.
+Larson, Suzanne
+Lasaga, F. R.
+Lascar, Daniel
+Laskowski, Michael C.
+Lasser, Lewis L.
+Laszlo, B.
+Laszlo, Vojtech
+Latombe, Claudine
+Latta, G. E.
+Laubie, Francois
+Laud, Purushottam W.
+Laurent, Monique
+Lauri, Josef
+Lauritzen, Steffen Lilholt
+Lavalle, Irving H.
+Laver, Richard
+Laviolette, Francois
+Law-Yone, Nissan
+Lawler, Eugene L.
+Lawless, Jerald F.
+Lawrence, James F.
+Lawrence, John W.
+Lawrence, S. L.
+Lawrencenko, Serge
+Lawson, Jamie
+Lawson, Jimmie D.
+Lawson, Linda
+Lawton, Wayne M.
+Lazard, Daniel
+Lazarus, R.
+Lazebnik, Felix G.
+Lazetic, Nebojsa
+Le Cam, Lucien
+Le Gall Jean-Francois
+Le Jan, Yves
+Le Tu, Quoc Hung
+Leader, Imre
+Leahey, William J.
+Leary, Christopher
+Lederer, G.
+Ledermann, Walter
+Lee, Carl W.
+Lee, Gwang-Yeon
+Lee, H. C.
+Lee, H. W. J.
+Lee, Hikyu
+Lee, John Walter
+Lee, Min-Young
+Lee, Peng Yee
+Lee, Sang-Gu
+Lee, Seng Chye
+Lee, Seng Luan
+Lee, Tony T.
+Lee, Woo Young
+Leeb, Klaus
+Leech, J. W.
+Leeming, David J.
+Leenman, H.
+Leep, David
+Legen, Anton
+Legg, David A.
+Lehmann, Daniel J.
+Lehmer, Derrick Henry
+Lehmer, Emma
+Lehr, Siegfried
+Lehrer, Ehud
+Lehrer, Gustav Isaac
+Leibman, A.
+Leighton, Frank Thomson
+Leindler, Laszlo
+Leininger, Brian S.
+Lekkerkerker, Cornelius Gerrit
+Lemanczyk, Mariusz
+Lemke, Paul
+Lempel, Abraham
+Lempert, Laszlo
+Lengyel, Tamas
+Lenhart, William James
+Lenihan, Bill
+Lenker, Terry D.
+Lenstra, Arjen K.
+Lenstra, Hendrik W., Jr.
+Lenstra, Jan Karel
+Lenz, Hanfried
+Leonard, Douglas A.
+Leonard, H. T., Jr.
+Leonard, Philip A.
+Lepley, Margaret
+Lesieur, Leonce
+Lesigne, Emmanuel
+Lesley, F. David
+Lesniak, Linda M.
+Leth, Steven
+Lettl, Gunter
+Leu, Ming Guang
+Leung, Joseph Y.-T.
+Leutwyler, H.
+Lev, Vsevolod F.
+Levai, L.
+Levan, Mike
+Levelt, Antonius Henricus Maria
+Leven, Daniel
+Levenberg, Norman, Jr.
+Leviatan, Dany
+Levin, Bernard
+Levin, David
+Levin, Eugene
+Levin, Gregory M.
+Levin, Leonid A.
+Levine, Eugene
+Levine, Raphael David
+Levingston, Richard Henry
+Levinski, Jean-Pierre
+Levinson, Henry
+Levinson, Norman
+Levitin, Lev B.
+Levitt, Jonathon
+Levy, Yannick
+Lew, Robert A.
+Lewinter, Martin
+Lewis, D. C.
+Lewis, Donald J.
+Lewis, Graham
+Lewis, James T.
+Lewis, Susan Margaret
+Lewis, Ted
+Li, Anping
+Li, Bo Yu
+Li, Brenda
+Li, Chi-Kwong
+Li, Chun-3
+Li, Hao
+Li, Hong Xiang
+Li, Ming Chu
+Li, Peter
+Li, Qiao
+Li, Shu-Guang
+Li, Shuo-Yen Robert
+Li, Song Ying
+Li, Wei Xuan
+Li, Xie Zhang
+Li, Xin-3
+Li, Yu Qiang
+Li, Yu Sheng
+Li, Zheng Liang
+Li, Zhong Xiang
+Lian, Jian Ao
+Liang, Weifa
+Liao, Lu-Peji
+Liao, Ming
+Lichtenstein, David
+Lieb, Elliott H.
+Liebeck, Martin W.
+Lieberherr, Karl J.
+Liebler, Robert A.
+Liestman, Arthur L.
+Lieuwens, Erik
+Liflyand, Elijah R.
+Lifsches, Shmuel
+Lifshits, Mikhail A.
+Liggett, Thomas M.
+Lih, Keh-Wei
+Liisberg, Christian
+Lim, M. J. S.
+Lin, Cantian
+Lin, Chio Shih
+Lin, Hsien Elsa
+Lin, In-Jen
+Lin, Kuo Tung
+Lin, Peng
+Lin, Shen
+Lin, Vladimir Ya.
+Lin, Wei
+Lin, Yi Xun
+Lin, Zheng Yan
+Lind, Douglas A.
+Lindemayer, Aristid
+Lindenbaum, A.
+Lindenstrauss, Joram
+Linder, Ernst
+Lindgren, William F.
+Lindner, Charles C.
+Lindquester, Terri England
+Lindstrom, Bernt
+Lindvall, Torgny
+Linek, Vaclav
+Linfoot, Edward Hubert
+Ling, Alan Chi Hung
+Linnartz, Jean-Paul
+Linneberg, Christian
+Linnik, Yurii Vladimirovich
+Lions, Jacques-Louis
+Lipinski, Jan Stanislaw
+Lipkin, E.
+Lipman, Marc J.
+Lipshitz, Leonard
+Lipstein, Benjamin
+Liptai, Kalman
+Lipton, Richard J.
+Lisan, Amha Tume
+Lisonek, Petr
+List, Albert
+List, Rudy J.
+Lister, William G.
+Litman, Ami
+Little, Charles H. C.
+Littlewood, John Edensor
+Litvak, Eugene L.
+Liu, Andy C. F.
+Liu, Bo Lian
+Liu, Chung Laung
+Liu, Gui Zhen
+Liu, H. C.
+Liu, Jiping
+Liu, Kecheng
+Liu, Lin Zhong
+Liu, Xin-2
+Liu, Xinming
+Liu, Yi Ping
+Liu, Zhen Hong-1
+Liu, Zi Cheng
+Livingston, Marilynn L.
+Livne, Ron A.
+Livsic, E. M.
+Llewellyn, Donna Crystal
+Llibre, Jaume
+Lloyd, E. Keith
+Locke, Stephen C.
+Lockenhoff, H.-D.
+Lockhart, Paul
+Loeb, Peter A.
+Loewner, Charles
+Loewy, Raphael
+Logan, Benjamin F., Jr.
+Logan, Jonothan
+Lohwater, Arthur J.
+Loi, N. H.
+Lokam, Satyanarayana V.
+Lomnicki, Z. A.
+Lomonaco, Samuel J., Jr.
+Lomonosov, Mikhail Vasilevich
+Lomonosov, Victor I.
+Lomont, J. S.
+London, David
+London, Eran
+London, H.
+Long, Calvin T.
+Longo, Giuseppe
+Longobardi, Patrizia
+Longpre, Luc
+Longyear, Judith Q.
+Lonie, Andrew
+Lonz, Stephen A.
+Loomis, Irene
+Lopes, Artur
+Lorberbom, Mordechai
+Lorch, Lee
+Lorentz, Rudolph A.
+Loreti, Paola
+Losonczi, Laszlo
+Losonczy, Jozsef
+Lossers, O. P.
+Loten, Cynthia O. M.
+Lotspeich, M.
+Lou, Ding Jun
+Loui, Michael C.
+Loukakis, Emmanuel
+Louveau, Alain
+Low, Janice Lorraine
+Low, Marc E.
+Lu, T. J.
+Lu, Xiao Yun-1
+Lu, Xin Zhong
+Lu, Yi Zhong
+Lubachevsky, Boris D.
+Lubeck, Olaf M.
+Lubell, David
+Lubin, Clarence I.
+Lubinsky, Doron S.
+Lubitch, Ronit
+Lubiw, Anna
+Lubotzky, Alexander
+Luby, Michael
+Luce, R. Duncan
+Luchins, Edith H.
+Luckman, J.
+Ludescher, William H.
+Ludwig, Monika
+Luecking, Daniel H.
+Lueker, George S.
+Lukacs, Erzsebet
+Lukacs, Eugene
+Lukes, Richard F.
+Luks, Eugene M.
+Lund, Carsten
+Lundgren, J. Richard
+Lung, K.
+Luszczki, Z.
+Luttinger, J. M.
+Lynch, James F.
+Lyndon, Roger C.
+Lynn, M. Stuart
+Lyuu, Yuh-Dauh
+Ma, Daowei
+Ma, Yuan
+Maass, Wolfgang
+Mac Dowell, R.
+Macaskill, M. J.
+MacAulay, James B.
+Macbeath, A. M.
+Macdonald, A. H.
+MacDougall, James A.
+MacGillivray, Gary
+MacGregor, Thomas H.
+Macintyre, Angus
+Macintyre, Sheila Scott
+Mack, John E.
+MacKendrick, Sharon
+Mackey, George W.
+MacLane, Gerald R.
+MacLeod, R. A.
+Macon, Nathaniel
+Macphail, Moray S.
+Macpherson, H. Dugald
+MacWilliams, F. Jessie
+Madan, Dilip B.
+Maddox, Randall
+Maddux, Roger D.
+Madej, Tom
+Madych, Wolodymyr R.
+Maehara, Hiroshi
+Maffray, Frederic
+Magen, Avner
+Magerl, Gerhard
+Magliveras, Spyros S.
+Magnanti, Thomas L.
+Magnus, P.
+Mahadev, N. V. R.
+Mahajan, Sanjeev
+Maharaj, Hiren
+Maharam, Dorothy
+Maheo, Maryvonne
+Mahmoodian, Ebadollah S.
+Mai, Liem
+Maier, David
+Maj, Mercede
+Majewski, Bohdan S.
+Major, Peter
+Majumdar, Aniket
+Makai, Endre
+Makovoz, Yuly
+Makowski, Andrzej
+Makowsky, Johann Andreas
+Maksa, Gyula
+Malek, Mirolsaw
+Maleki, Amir
+Malik, Josef
+Maliniak, Yoram
+Malita, Mircea
+Malitz, Jerome
+Malka, Yossi
+Malkevitch, Joseph
+Malle, Gunther
+Malliavin, Paul
+Mallion, R. B.
+Mallmann, Carlos A.
+Mallows, Colin L.
+Malti, Michel G.
+Maly, Jan
+Malyshko, Vladimir V.
+Mamali, Catalin
+Manalastas, P., Jr.
+Manber, Rachel
+Manber, Udi
+Mandziuk, Malgorzata T.
+Maneri, Carl C.
+Mani-Levitska, Peter
+Manickam, Nachimuthu
+Mann, Avinoam
+Mann, Henry B.
+Mann, Jonah
+Mannos, Murray
+Manoussakis, Yannis G.
+Manson, Karen E.
+Mansour, Yishay
+Manstavicius, Eugenijus
+Manteuffel, Thomas A.
+Manvel, Bennet
+Marcus, Marvin
+Marcus, Michael B.
+Marcus, Yosi
+Marcus-Roberts, Helen M.
+Marczewski, Edward
+Marden, Albert
+Mardiyono, S.
+Marechal, Odile
+Margalit, Oded
+Maric, Vojislav
+Marica, John
+Maritz, Milton
+Mark, C.
+Marker, David
+Markert, Matthew
+Marki, Laszlo
+Markowitz, Harry M.
+Markowsky, George
+Markus, Lawrence
+Markus, Lisa R.
+Markvorsen, Steen
+Marley, A. A. J.
+Marshak, Robert E.
+Marshall, Timothy Hamilton
+Marstrand, John M.
+Martin, Donald A.
+Martin, Gaven J.
+Martin, Harold W.
+Martin, Keith M.
+Martin, Michael S.
+Martin, Olivier
+Martin, Russell
+Martin, William J.
+Martin-Lof, Anders
+Martin-Vide, Carlos
+Martineau, Andre
+Martinet, Jacques
+Martinez, Jorge-2
+Martini, Horst
+Martins, Cleide
+Marton, Katalin
+Martynov, Gennadii Viktorovich
+Marusic, Dragan
+Marx, Imanuel
+Marx, Morris L.
+Maskin, Eric
+Mason, David M.
+Mason, David W.
+Mason, John C.
+Mason, John H.
+Mason, R. C.
+Massey, James L.
+Massey, William A.
+Massias, Jean-Pierre
+Mastroianni, Giuseppe
+Masurova, N. P.
+Mateescu, Alexandru
+Mathon, Rudolf A.
+Mathur, K. K.
+Matias, Yossi
+Matousek, Jiri
+Matsumoto, Kohji
+Matsumoto, Makoto
+Matsushita, Teresa A.
+Matthews, Gordon
+Matthews, Rex W.
+Mattila, Pertti
+Matyas, Ferenc
+Mauldin, Nancy S.
+Maurer, Stephen B.
+Mavron, Vassili C.
+Maxfield John E.
+Maxian, Milan
+Maxones, Walter
+Maxson, Carlton J.
+Maybee, John S.
+Mazhar, Syed Mohammad
+Mazo, James E.
+Mazur, Barry C.
+Mazur, P.
+Mazur, Stanislaw
+Mazzocca, Francesco
+McAndrew, M. H.
+McAsey, Michael J.
+McAvaney, Kevin Lawrence
+McCabe, Bernard J.
+McCallum, Duncan
+McCallum, Michael
+McCarthy, David
+McClanahan, Gregory A.
+McColgan, Tamara Lynn
+McCormick, S. Thomas
+McCormick, William P.
+McCuaig, William D.
+McCurley, Kevin S.
+McCutcheon, Randall
+McDiarmid, Colin J. H.
+McDonald, David R.
+McFarland, Robert L.
+McGee, I. J.
+McGehee, O. Carruth
+McGuaig, William D.
+McGuinness, Sean
+McGuire, Gary
+McIntosh, Richard J.
+McKay, John K. S.
+McKay, Mark
+McKean, Henry P., Jr.
+McKee, Terry A.
+McKenzie, Ralph Nelson
+McKeon, Kathleen A.
+McKernie, M. Jean
+McKiernan, Michel A.
+McKinsey, J. C. C.
+McLaughlin, James R.
+McLaughlin, Renate
+McMillan, John E.
+McMorris, Fred R.
+McMullen, Peter
+McNaughton, Robert
+McNulty, George F.
+McRae, Alice A.
+McShane, Edward James
+McSorley, John
+McVoy, W. S.
+Mead, David G.
+Meadows, Catherine
+Meckler, Alan, H.
+Meda, A.
+Medgyessy, Pal
+Meerdink, Terry
+Megalakaki, O.
+Megiddo, Nimrod
+Mehr, C. B.
+Mehri, Bahman
+Meijer, Hendrik Gerrit
+Meinardus, Gunter
+Meisters, Gary Hosler
+Mejlbro, Leif
+Mekler, Alan H.
+Mellendorf, Stephen
+Melles, Garvin
+Mello, Celia P.
+Melnikov, Leonid S.
+Melter, Robert A.
+Melton, Austin C.
+Melton, Jim
+Mendelsohn, Eric
+Mendelsohn, Nathan S.
+Mendelsom, Bilha
+Mendes France, Michel
+Mengersen, Ingrid
+Menser, D. K.
+Menzer, Hartmut
+Mercier, Armel
+Merlini, Donatella
+Merriell, David
+Merz, Sarah K.
+Meshulam, Roy
+Mesner, Dale M.
+Metropolis, Nicholas
+Metsch, Klaus
+Meulenbeld, Barend
+Meurman, Tom
+Meyer auf der Heide, Friedhelm
+Meyer, Albert R.
+Meyer, Jacques Rene
+Meyerowitz, Aaron D.
+Meyers, Eves
+Meyrowitsch, Jan
+Mezey, Paul G.
+Mhaskar, H. N.
+Mian, Majid A.
+Micchelli, Charles A.
+Michael, Ernest A.
+Mientka, Walter E.
+Mignotte, Maurice
+Mihail, Milena
+Mijajlovic, Zarko
+Miklos, Dezso
+Miksa, Francis L.
+Mikusinski, Jan G.
+Milazzo, Lorenzo
+Milgram, Arthur N.
+Milici, Salvatore
+Miller, Arnold W.
+Miller, Arthur H.
+Miller, Donald J.
+Miller, Gary Lee
+Miller, Guthrie
+Miller, Harry I.
+Miller, Jeffery C. P.
+Miller, Kenneth S.
+Miller, Michael D.
+Miller, Mirka
+Miller, Nathaly
+Miller, R. E.
+Miller, Victor S.
+Miller, Willard, Jr.
+Miller, Zevi
+Mills, Charles F.
+Mills, Terence M.
+Mills, William H.
+Milman, Vitali D.
+Milnes, Paul
+Milovanovic, Gradimir V.
+Miltersen, Peter Bro
+Mimura, Y.
+Mincer, Bohdan
+Minkin, Arcady M.
+Mioduszewski, Jerzy
+Mirumyan, A. N.
+Mishna, Marni
+Misiurewicz, Michal
+Mitchell, John William
+Mitchell, William John
+Mitchem, John
+Mitra, S. C.
+Mityagin, Boris
+Mitzner, K. M.
+Miyamoto, I.
+Mizel, Victor J.
+Mo, De Ze
+Mo, Zhuguo
+Mochizuki, Horace Y.
+Modi, J. J.
+Moffat, Alistair
+Mogyorodi, Jozsef
+Mohanty, Shreedhara Prasada
+Mohanty, Sri Gopal
+Mohapatra, Ram Narayan
+Mohar, Bojan
+Mohit, Satya
+Moisiadis, Alexandros
+Mokken, Robert J.
+Moll, Christoph
+Mollard, Michel
+Molloy, Michael Sean O'Brien
+Molnar, Jozsef
+Molnar, Sandor
+Monagan, M. B.
+Mond, Bertram
+Monderer, Dov
+Monjardet, Bernard
+Monk, J. Donald
+Monma, Clyde L.
+Monroe, Ted R.
+Monson, Sylvia D.
+Monteferrante, Sandra
+Montgomery, Hugh L.
+Monticino, Michael G.
+Moore, James W.
+Moore, John I., Jr.
+Moore, Judy Hennessey
+Moore, Robert Laurens
+Moore, W. K.
+Moorhouse, G. Eric
+Mor, Moshe
+Morain, Francois
+Moran, Gadi
+Moran, William
+Mordell, Lewis Joel
+Moree, Pieter
+Moreno, Carlos Julio
+Moret, Bernard M. E.
+Morgan, Frank
+Morgana, Aurora
+Mori, Kenichi-2
+Moricz, Ferenc
+Morley, Thomas D.
+Moroz, Baruch ben Zelik
+Morris, Kerwin W.
+Morris, Sidney A.
+Morrish, A.
+Morrison, John Alexander
+Morrison, Michael A.
+Morselt, B. J. M.
+Morsi, Nehad N.
+Morters, Peter
+Mosegaard, Klaus
+Moser, William O. J.
+Mosse, Brigitte
+Mossinghoff, Michael J.
+Mostert, Paul S.
+Mostowski, Andrzej
+Moszner, Zenon
+Motohashi, Yoichi
+Motwani, Rajeev
+Motzkin, Theodore S.
+Mount, David M.
+Mourant, Wanda J.
+Movahhedi, A.
+Mowshowitz, Abbe
+Moyls, Benjamin
+Mrugala, Ryszard
+Mucci, R.
+Muder, Douglas J.
+Mueller, Thomas
+Mukerjee, Rahul
+Mukhopadhyay, Nitis
+Mukhopadhyay, Parimal
+Mulder, Henry Martyn
+Mulholland, H. P.
+Mullen, Gary L.
+Muller, David E.
+Muller, Haiko
+Muller, Jurgen-3
+Muller, Vladimir
+Mullhaupt, Andrew P.
+Mullineux, N.
+Mumey, Brendan
+Mumford, David
+Munro, J. Ian
+Munton, Dan
+Munzova-Demlova, Marie
+Murata, Kentaro
+Murata, Leo
+Muraz, Gilbert
+Murdeshwar, Mangesh G.
+Murdock, W. L.
+Murnaghan, Francis D.
+Murphy, Owen J.
+Murray, Alan
+Murthy, Narayan S.
+Murty, U. S. R.
+Mushenheim, H. G.
+Mushkin, M.
+Mutt
+Mycielski, Jan
+Myers, W. L.
+Mynhardt, Christina M.
+Myrvold, Wendy J.
+Mysak, Lawrence
+Nadon, Jacqueline
+Nagasawa, Masao
+Nagy, Zsigmond
+Naik, Ranjan N.
+Naiman, Daniel Q.
+Nair, Mohan
+Nair, Vijayan N.
+Nakada, Hitoshi
+Nakamura, Masahiro
+Nakamura, Yutaka
+Nakashima, Junichiro
+Namioka, Isaac
+Naor, Moni
+Nara, Chie
+Narasimhan, L. S.
+Narayan, Prakash
+Narcowich, Francis J.
+Narkiewicz, Wladyslaw
+Narlikar, M. J.
+Nash, David
+Nash, John C. M.
+Nash-Williams, Crispin St. John Alvah
+Nastansky, Ludwig
+Nath, G. Baikunth
+Nath, Prem
+Nation, James B.
+Navarro-Bermudez, Francisco J.
+Nazir, Abdur Rahman
+Neaderhouser, Carla C.
+Nebesky, Ladislav
+Negatu, Aregahegn
+Negrepontis, Stelios
+Nehari, Zeev
+Neidleman, L. D.
+Nel, Louis D.
+Nelson, Evelyn
+Nelson, R.
+Nemeth, Evi
+Nemeth, Geza
+Nemeti, Istvan
+Nemetz, Tibor O. H.
+Nersesyan, A. B.
+Nesetrilova, Helena
+Nesterenko, Yuri V.
+Netanyahu, Nathan S.
+Neubrunn, Tibor
+Neubrunova, A.
+Neufeld, Eric M.
+Neufeld, Eugene
+Neumann Lara, Victor
+Neumann, Bernhard Hermann
+Neumann, Michael
+Neumann, Peter M.
+Neuwirth, Jerome H.
+Nevai, Paul G.
+Nevzorov, Valery B.
+Newberry, R. S.
+Newborn, Monroe M.
+Newman, Ilan
+Newman, Mark J.
+Newman, Michael F.
+Newman, Morris
+Ng, C. P.
+Ng, Che That
+Ng, Meei Pyng
+Nguyen Huy Xuong
+Nguyen Minh Tuan
+Nguyen Van Ngoc
+Nguyen Van Su
+Nguyen Xuan Ky
+Ni, Jin
+Nicol, Charles A.
+Nicolau, Edmond
+Nicolescu, Miron
+Niedermeyer, Frank
+Niederreiter, Harald
+Nielsen, Ove Steen
+Nieminen, Juhani
+Niepel, L'udovit
+Nikolakos, P. N.
+Nikolopoulos, Stavros D.
+Nilsson, Per
+Nisan, Noam
+Nishiura, Togo
+Nisida, Tosio
+Nitecki, Zbigniew H.
+Nitzan, Abraham
+Noetzel, Andrew S.
+Nogueira, Arnaldo C. R.
+Nolte, William D., Jr.
+Nomura, Kazumasa
+Nonay, Gillian M.
+Nordhaus, Edward Alfred
+Norman, Robert Z.
+Norris, Michael J.
+Norton, Simon P.
+Nouh, Jamal
+Novotny, Karen S.
+Nowakowski, Richard J.
+Nowicki, Krzysztof
+Nuij, Willem
+Null, Gilbert
+Nulton, James D.
+Nummelin, Esa
+Nurmela, Kari J.
+Nussinov, Ruth
+Nyikos, Peter J.
+O'Brien, Gordon E.
+O'Cinneide, Colm Art
+O'Connor, Angela
+O'Leary, Robbin
+O'Neil, Elizabeth J.
+O'Neil, Peter V.
+O'Neill, Barrett
+O'Rourke, Joseph
+Obrenic, Bojana
+Obretenov, Apostol
+Odoni, R. W. K.
+Oehmke, Robert H.
+Oeser, Oscar A.
+Offer, T.
+Ogden, R. D.
+Ojha, Aparajila
+Okada, Koji
+Olaru, Elefterie
+Olesky, D. Dale
+Oliver, Dale R.
+Olson, John E.
+Omura, Jim K.
+Ondrechen, Mary Jo
+Onishi, Hironori
+Onn, Shmuel
+Ono, Ken
+Onyszchuk, I. M.
+Oppenheim, Rosa
+Oral, Haluk
+Ord, J. Keith
+Orey, Steven
+Orlitsky, Alon
+Ornstein, Donald Samuel
+Orr, Kent E.
+Osborn, J. M.
+Osgood, Charles F.
+Ostaszewski, Adam J.
+Ostergard, Patric R. J.
+Osterreicher, Ferdinand
+Ostrand, Phillip A.
+Ostrovsky, Rafail
+Ostrowski, Alexander M.
+Ota, Katsuhiro
+Ott, Teunis J.
+Ouellet, Michel
+Ouyang, Liang Yuh
+Owens, Margaret A.
+Oxley, James G.
+Ozarow, Lawrence H.
+Ozery, Michal
+P'an, Ch'iao Sung
+Pachl, Jan K.
+Pachter, Lior
+Padmanabhan, A. R.
+Padmanabhan, R.
+Paganoni, Luigi
+Paige, Lowell J.
+Pal, Laszlo Gyorgy
+Pal, Sudebkumar Prasant
+Palacios, Jose Luis
+Palagallo, Judith A.
+Palasti, Ilona
+Pales, Zsolt
+Palko, M.
+Pambuccian, Victor V.
+Pan, Yi Fei
+Pang, Myung-Yull
+Paninski, R.
+Pankratz, Alan
+Paoli, Madeleine
+Paolo, Sibani
+Papaioannou, Alexis
+Paper, Herbert H.
+Pare, Robert
+Pareek, Chandra Mohan
+Paris, Jeffrey B.
+Parker, R. Gary
+Parker, Richard A.
+Parkin, Thomas R.
+Parkinson, Dennis
+Parks, Dolores A.
+Parks, Harold R.
+Parnami, J. C.
+Parnas, Michal
+Parnes, Milton N.
+Parr, William C.
+Parry, William
+Parsons, Lee
+Parter, Seymour V.
+Partington, Jonathan R.
+Pasini, Antonio
+Pasquini, Lionello
+Passow, Eli
+Pasta, John R.
+Pasteka, Milan
+Pastijn, Francis
+Pasztor, C.
+Pasztor, Endrene
+Pasztor, Istvan
+Patashnik, Oren
+Patel, Pratiksha
+Paterson, Michael S.
+Pathak, Pramod
+Pathria, Raj K.
+Patil, Ganapati P.
+Patruno, Gregg N.
+Patt-Shamir, Boaz
+Paturi, Ramamohan
+Pauc, Christian Y.
+Paul, Jerome L.
+Paul, Wolfgang J.
+Paulsen, Frank
+Paulsen, William H.
+Paun, Gheorghe
+Payne, Stanley E.
+Payne, Thomas H.
+Paz, Azaria
+Peachey, Judith B.
+Pearcy, Carl M.
+Pearson, John Frederick
+Pecaric, Josip E.
+Peck, G. W.
+Pedersen, Jacob Morch
+Pedersen, Jean J.
+Pedersen, Paul
+Peetre, Jaak
+Peherstorfer, Franz
+Pei, Ding Yi
+Peile, Robert E.
+Pein, J.
+Peitgen, Heinz-Otto
+Pelant, Jan
+Peled, Irit
+Peled, Uri N.
+Peleg, David
+Peligrad, Magda
+Pelikan, Jozsef
+Pelillo, Marcello
+Pellegrini, Marco
+Pellerin, Arthur
+Pelletier, Donald H.
+Pellikaan, Ruud
+Peloso, Marco M.
+Pemantle, Robin
+Peng, Tsu Ann
+Peng, Yee-Hock
+Penny, David
+Penrice, Stephen G.
+Peralta, Rene
+Pereira, Francisco
+Perelli, Alberto
+Perennes, Stephane
+Peres, Yuval
+Perez-Gonzalez, Fernando-2
+Perfect, Hazel
+Perkel, Manley
+Perkins, Edwin A.
+Perl, Yehoshua
+Perles, Micha A.
+Perlis, Robert
+Perold, Andre F.
+Peters, Joseph G.
+Peters, Kenneth
+Peters, Thomas J.
+Petersdorf, M.
+Petersen, Karl
+Peterson, Brian
+Peterson, Gordon E.
+Petersson, Ola
+Pethe, S. P.
+Petho, Arpad
+Petho, Attila
+Petrank, Erez
+Petro, John
+Petrovic, Vojislav
+Petrovitch, Michel
+Petruska, Gyorgy
+Petty, Clinton M.
+Pfaff, John
+Pfanzagl, Johann
+Pfeifer, Dietmar
+Phelps, Robert R.
+Phillips, John W.
+Phillips, Nicholas C. K.
+Phillips, Ralph S.
+Phillips, Steven John
+Piazza, Barry
+Pica, Giustina
+Picco, Pierre
+Pickel, P. Fred
+Pickert, Gunter
+Pieczenik, George
+Pierce, Stephen J.
+Pietsch, Christian
+Piff, Mike J.
+Pigno, Louis
+Pila, Jonathan
+Pilcher, Martha G.
+Pillai, S. Sivasankaranarayana
+Pillay, Anand
+Pillone, D.
+Pinchuk, Bernard
+Pinner, Christopher G.
+Pinter, Akos
+Pinter, F.
+Pintz, Janos
+Piotrowski, Wiktor
+Pippenger, Nicholas J.
+Piret, Philippe
+Pisanski, Tomaz
+Pitman, James W.
+Pitman, Jane
+Pitt, Loren D.
+Pittel, Boris
+Pitts, Andrew M.
+Pixley, Alden F.
+Placzek, G.
+Plaisted, David A.
+Plantholt, Michael J.
+Plassmann, Paul
+Plaxton, C. Gregory
+Pleasant, P. A. B.
+Plesnik, Jan
+Pless, Vera S.
+Plochinski, Kenneth
+Plotkin, Serge A.
+Pluhar, Andras
+Plummer, Michael D.
+Pnueli, Amir
+Poguntke, Werner
+Poh, Roger K. S.
+Polat, N.
+Polat, Norbert
+Polimeni, Albert D.
+Poljak, Svatopluk
+Pollak, Henry Otto
+Pollara, Fabrizio
+Pollingher, Adolf
+Pollington, Andrew D.
+Polya, George
+Pommerenke, Christian
+Poonen, Bjorn
+Popken, J.
+Poplove, A. L.
+Popov, Vasil Atanasov
+Porat, Sara
+Porcelli, Pasquale
+Poreda, Tadeusz
+Porta, Horacio A.
+Porter, Bruce J.
+Porter, H. H.
+Porter, R. Burr
+Porter, T. D.
+Porubsky, Stefan
+Poschel, Reinhard
+Posluszny, Jeffrey
+Posner, David B.
+Posner, Edward C.
+Post, Karel Albertus
+Postnikova, Ludmila P.
+Pounder, James R.
+Pour-El, Marian Boykan
+Pouzet, Maurice
+Powell, Barry J.
+Powers, David L.
+Pradhan, Dhiraj K.
+Praeger, Cheryl E.
+Pranesachar, C. R.
+Prasad, D. Chithra
+Prasad, Jagdish
+Prasad, Vidhu S.
+Prather, Carl L.
+Pratt, Vaughan R.
+Preece, D. A.
+Preissmann, Myriam
+Prekopa, Andras
+Preparata, Franco P.
+Prescott, Philip
+Presley, Darryl
+Prestel, Alexander
+Prestin, Jurgen
+Preston, Gordon B.
+Prikry, Karel
+Primak, Mordukh E.
+Prins, Geert
+Pritchard, A. D.
+Pritikin, Dan
+Proctor, Robert A.
+Promel, Hans Jurgen
+Proskurowski, Andrzej
+Provan, J. Scott
+Pruitt, William E.
+Przymusinski, T. C.
+Pudlak, Pavel
+Pukanszky, Lajos
+Pulleyblank, William R.
+Pultr, Ales
+Purcell, S.
+Puri, Madan Lal
+Purisch, Steve
+Pursley, Michael B.
+Purwanto
+Putnam, Calvin R.
+Putterman, Seth J.
+Pym, John S.
+Qi, Anmin
+Qin, Jun
+Quackenbush, Robert W.
+Quak, Ewald
+Queen, Larissa
+Queffelec, Herve
+Quimpo, N. F.
+Quinn, Forrest
+Quintana, Juan A.
+Quintas, Louis V.
+Quisquater, Jean-Jacques
+Raab, David
+Rabin, Michael O.
+Rabinovich, Asya
+Rabinovich, Yuri
+Rabinovitch, Avinoam
+Rabinovitch, Issie
+Rabinowitz, Philip
+Rabus, Mariusz
+Rackoff, Charles W.
+Racsko, P.
+Radcliffe, Andrew J.
+Radin, Charles
+Radjavi, Heydar
+Rado, Francisc
+Radosavljevic, Zuran
+Radziszowski, Stanislaw P.
+Ragde, Prabhakar
+Raghavachari, Balaji
+Rahimi, M. A.
+Rahman, Qazi Ibadur
+Rahmy, E.
+Rains, Michael
+Rajagopal, Cadambathur Tiruvenkatacharlu
+Rajagopalan, Minakshisundaram
+Rajagopalan, Sridhar
+Rajan, C. S.
+Rajappan, K. P.
+Rajarshi, M. B.
+Rajput, Balram S.
+Ralescu, Stefan S.
+Rall, Douglas F.
+Ramachandra Rao, A.
+Ramakrishnan, Dinakar
+Ramakrishnan, S.
+Ramanathan, K. G.
+Ramare, Olivier
+Ramesh, Aparna
+Ramesh, Hariharan
+Ramharter, Gerhard
+Ramm, Alexander G.
+Rampon, Jean-Xavier
+Ran, Andre C. M.
+Randall, Dana J.
+Randall, Jim
+Randall, M.
+Randels, W. C.
+Randolph, William
+Ranga Rao, R.
+Ranjan, Desh
+Rao Hebbare, Surya Prakash
+Rao, Bopeng
+Rao, Calyampudi Radhakrishna
+Rao, J. N. K.
+Rao, K. Murali
+Rao, K. P. S. Bhaskara
+Rao, M. Bhaskara
+Rao, T. J.
+Raphael, Louise A.
+Raphael, Marc
+Rappaport, David
+Rappoport, Lihu
+Rardin, Ronald L.
+Rashidi, Reza
+Rasmussen, David J.
+Rasmussen, Steen
+Raspaud, Andre
+Rataj, Jan
+Rathbone, C. R.
+Ratschek, Helmut
+Ratti, Jogindar S.
+Ravani, Yuval
+Ravid, Yiftach
+Ravindra, G.
+Rawlinson, Kim T.
+Ray-Chaudhuri, Dijen K.
+Rayburn, Marlon C.
+Rayburn, Nell K.
+Raymon, Louis
+Raynaud, Michel
+Razborov, Alexander Alexandrovich
+Razen, Reinhard A.
+Read, Ronald Cedric
+Recski, Andras
+Redei, Laszlo
+Redheffer, Raymond M.
+Reed, Bruce A.
+Reed, George M.
+Reeds, James A.
+Rees, Rolf Stephen
+Regan, F.
+Regan, Kenneth W.
+Regener, Eric
+Reich, Edgar
+Reichaw, Meir
+Reichbach, Marian
+Reichman, Jack Z.
+Reid, James L.
+Reid, K. Brooks
+Reidpath, Daniel D.
+Reiman, Istvan
+Reiman, Martin I.
+Reimann, Jozsef
+Reimer, Dave
+Reingold, Edward M.
+Reinhardt, William N.
+Reinhart, Georg Martin
+Reinhold, Jurgen
+Reischuk, Rudiger
+Reiterman, Jan
+Reitwiesner, George W.
+Rejto, Lidia
+Remmel, Jeffrey B.
+Renous, Raphael
+Renyi, Kato
+Repicky, Miroslav
+Reuter, Klaus
+Revesz, Gabor
+Revesz, Szilard Gyorgy
+Rexford, Jennifer
+Reyes, Gonzalo E.
+Reyes, Miguel
+Reynolds, Robert
+Rezakhanlou, Fraydoun
+Rhemtulla, Akbar H.
+Rhoads, D.
+Rhodes, John
+Rice, Adrian C.
+Rice, Stephen O.
+Richardson, Moses
+Richert, Hans-Egon
+Richman, David Ross
+Richter, R. Bruce
+Richter, Stefan
+Richter-Dyn, Nira
+Rickard, John A.
+Ricklin, Moty
+Riddell, James
+Ridley, James N.
+Ridout, D.
+Riecanova, Zdenka
+Rieders, Eric
+Riehl, Arthur M.
+Riemenschneider, Sherman D.
+Riesz, Frigyes
+Rigby, John F.
+Rinat, Ran
+Rindler, Harald
+Ringeisen, Richard D.
+Ringel, Gerhard
+Ringrose, C. J.
+Rinne, Dan
+Rinnooy Kan, Alexander H. G.
+Rinott, Yosef
+Riordan, John
+Riordan, Oliver
+Rippon, Philip J.
+Rissanen, Jorma
+Rival, Ivan
+Rivat, Joel
+Rivenburgh, Reid D.
+Rivera-Campo, Eduardo
+Rivera-Vega, Pedro I.
+Rivest, Ronald L.
+Rivlin, Theodore J.
+Robalewska, Hanna D.
+Robbins, Herbert
+Robbins, John G.
+Robert, Jean-Marc
+Roberts, Fred S.
+Roberts, George A.
+Roberts, John A.
+Roberts, Mark L.
+Robertson, Jack
+Robertson, John S.
+Robertson, M. M.
+Robertson, Malcolm S.
+Robertson, S. E.
+Robin, Guy
+Robins, Sinai
+Robinson, Abraham
+Robinson, David Foster
+Robinson, M. L.
+Robinson, Peter J.
+Robinson, Stephen M.
+Robson, John Michael
+Rochberg, Richard
+Rockett, Andrew M.
+Rockey, John
+Rodeh, Michael
+Rodemich, Eugene R.
+Rodger, Chris A.
+Rodin, Burton
+Roditty, Yehuda
+Rodman, Leiba
+Rogers, Douglas G.
+Rogers, Kenneth
+Rogers, Thomas D.
+Rogosinski, Werner W.
+Rogoyski, Eric
+Rohrbach, Hans
+Roichman, Yuval
+Roitman, Judith
+Rokowska, Barbara
+Rolewicz, Stefan
+Romanik, Kathleen
+Romberg, B. W.
+Ron, Amos
+Ronen, Amir
+Ronyai, Lajos
+Rooney, Joe
+Roscoe, A. W.
+Rose, Donald J.
+Rosen, Adi
+Rosen, David
+Rosen, Eric
+Rosen, Jay S.
+Rosen, Michael I.
+Rosen, Ronald H.
+Rosenbaum, D. M.
+Rosenbaum, Robert A.
+Rosenbaum, Wilf L.
+Rosenbaum, Zangwill
+Rosenberg, Alex
+Rosenberg, Arnold L.
+Rosenberg, Burton
+Rosenberg, Ivo G.
+Rosenberg, Reinhardt M.
+Rosenblatt, Joseph
+Rosenblum, Marvin
+Rosenfeld, Melvin
+Rosenthal, Haskell P.
+Rosenthal, John W.
+Rosenthal, Robert W.
+Rosier, Louis E.
+Roslanowski, Andrzej
+Rosolini, Giuseppe
+Ross, Ian C.
+Ross, Jeffrey A.
+Ross, Kenneth A.
+Rossi, John F.
+Rosta, Vera
+Rota, Gian-Carlo
+Rote, Gunter
+Roth, Klaus F.
+Roth, Robert Lyle
+Rothblum, Uriel G.
+Rotkiewicz, Andrzej
+Roush, Fred William
+Rousseau, Celia K.
+Rousseau, George
+Rouvray, Dennis H.
+Rovnyak, James
+Rowe, K. A.
+Rowley, Christopher Andrew
+Rowley, Ray
+Rowlinson, Peter
+Roy, A. B.
+Roy, Bimal K.
+Roy, Marie-Francoise
+Royle, Gordon F.
+Rozema, Edward R.
+Rubani, Yuval
+Rubin, David S.
+Rubin, Jean E.
+Rubin, Matatyahu
+Rubinstein, Ariel
+Rubinstein, G. S.
+Rubinstein, Joachim Hyam
+Rubinstein, Reuven Y.
+Rucinski, Andrzej
+Rudich, Steven
+Rudin, Walter
+Rudnick, Karl
+Rudolph, Daniel J.
+Rudolph, Larry
+Ruehr, Otto G.
+Ruhkin, Andrew L.
+Ruiz, Sergio
+Rumely, Robert S.
+Rumsey, Howard C. Jr.
+Runcinski, A.
+Runck, P. O.
+Rung, Donald C.
+Runge, Fritz
+Ruppeiner, George
+Ruscheweyh, Stephan
+Rush, Jason A.
+Russell, Alexander
+Russell, David L.
+Russell, Hilton C.
+Ruszinko, Miklos
+Ruymgaart, Frits H.
+Ryan, Joe
+Ryff, John V.
+Ryjacek, Zdenek
+Ryll-Nardzewski, Czeslaw
+Ryser, Herbert John
+Ryskov, Sergej S.
+Ryslinkova, Jana
+Saager, Carsten
+Saari, Donald G.
+Saaty, Thomas L.
+Saba, Farrokh
+Sabidussi, Gert
+Sack, Jorg-Rudiger
+Sacksteder, Richard
+Sadeh, Eitan
+Sadowsky, John S.
+Saff, Edward B.
+Safra, Shmuel
+Sag, Tom W.
+Sagan, Bruce Eli
+Sagan, Hans
+Sageev, Gershon
+Sahab, Salem
+Sahney, Badri N.
+Sahoo, Prasanna K.
+Saido, Hajime
+Saito, Akira
+Saito, Nobuji
+Sakai, Makoto
+Sakai, Ryozi
+Sakarovitch, Michel
+Sakovic, G. N.
+Salas-LaCruz, J. D.
+Salehi, Jawad A.
+Salem, Raphael
+Salinas, Luis C.
+Salinas, Norberto
+Salinier, Alain
+Sallay, Melanie
+Sallows, Lee C. F.
+Salminen, Paavo
+Salomaa, Arto K.
+Salowe, Jeffrey S.
+Salzborn, Franz J. M.
+Samad, Tariq
+Samorodnitsky, Alex
+Samuels, P.
+Sanchis, Laura A.
+Sanders, Benny
+Sanders, Daniel P.
+Sanders, J. W.
+Sandor, Jozsef
+Sands, Bill
+Sane, Sharad S.
+Sankaranarayanan, Ayyadurai
+Sankoff, David
+Santha, Miklos
+Santharoubane, L. J.
+Santoro, Nicola
+Sanyal, Barun K.
+Sanyal, Sugata
+Saphar, Pierre David
+Sapir, Mark V.
+Sapozhenko, Alexander A.
+Sarabia Alegria, Jose Maria
+Saradha, Natarajan
+Saran, Jagdish
+Sarbadhikari, H.
+Sarkadi, Karoly
+Sarnak, Peter
+Sarsfield, Richard
+Sarvate, Dinesh G.
+Sarwate, Dilip V.
+Sasson, Ori
+Sastry, Sreerama
+Sathre, Leroy
+Sato, Daihachiro
+Satyanarayana, Appajosyula
+Savage, Carla D.
+Savage, John E.
+Savicky, Petr
+Saxena, Anjula
+Saxena, Prashant
+Saxena, R. B.
+Saxl, Jan
+Sayano, Masahiro
+Saylor, D. P.
+Saylor, Paul E.
+Sbihi, Najiba
+Scarborough, C. T.
+Scarf, Herbert E.
+Scedrov, Andrej
+Schacher, Murray M.
+Schaefer, Thomas J.
+Schaeffer, A. C.
+Schaffer, Alejandro A.
+Schatz, J. A.
+Schauble, Manfred
+Scheepers, Marion
+Scheick, John T.
+Schein, Boris M.
+Scheinerman, Edward R.
+Schellenberg, Paul J.
+Scherk, John
+Schermann, Klara
+Schevon, Catherine A.
+Schieber, Baruch
+Schiemann, Alexander
+Schiermeyer, Ingo
+Schiffer, Menahem M.
+Schilling, O. F. G.
+Schillo, Paul
+Schipperus, Rene
+Schlee, Glen A.
+Schlesinger, Ernest C.
+Schleusner, John W.
+Schlickewei, Hans Peter
+Schlitt, Greg M.
+Schmeichel, Edward F.
+Schmeisser, Gerhard
+Schmerl, James H.
+Schmetterer, Leopold
+Schmidt, Darrell
+Schmidt, E. Tamas
+Schmidt, Jurgen
+Schmidt, Rudiger
+Schmidt, Wolfgang M.
+Schmitt, William R.
+Schneeberger, William A.
+Schneider, B.
+Schneider, Hans
+Schneider, Rolf
+Schnell, Edit
+Schnitger, Georg
+Schnorr, Claus-Peter
+Schnyder, Walter Albert
+Schoen, Tamasz
+Schoenberg, Isaac Jacob
+Schoenfeld, Lowell
+Schofield, Norman J.
+Schoissengeier, Johannes
+Schon, J. Christian
+Schonhage, Arnold
+Schopf, Peter
+Schouten, J. A.
+Schrader, Rainer
+Schrag, Gerald C.
+Schrandt, R. G.
+Schreier, J.
+Schrijver, Alexander
+Schroeppel, Richard
+Schughart, Martin
+Schulman, Lawrence S.
+Schultz, Kelly
+Schultz, Michelle
+Schultz, Phillip
+Schumaker, Larry L.
+Schumitzky, Alan
+Schur, Issai
+Schuss, Zeev
+Schwab, Emil Daniel
+Schwabe, Eric J.
+Schwabhauser, Wolfram
+Schwaiger, Jens
+Schwander, Peter
+Schwartz, D. E.
+Schwartz, Jacob T.
+Schwarz, Binyamin
+Schwarz, Wolfgang Karl
+Schwarzkopf, Otfried
+Schweiger, Fritz
+Schweigert, Dietmar
+Scoppola, Carlo M.
+Scott, Alexander D.
+Scott, Dana S.
+Scott, Debra Diny
+Scott, R. L.
+Scott, S. H.
+Scott, Terrence R.
+Scott, W. R.
+Scoville, Richard
+Scully, Daniel J.
+Seah, Eric S.
+Seberry, Jennifer R.
+Sediva-Trnkova, Vera
+Sedlmeyer, Robert L.
+Segal, E.
+Segre, Beniamino
+Seidel, Johan Jacob
+Seidel, Raimund
+Seif, Steven
+Seifter, Norbert
+Seitz, Gary M.
+Selberg, Atle
+Selvaraj, Chikkanna R.
+Sember, John J.
+Semmes, Stephen W.
+Semmler, Klaus-Dieter
+Sen, Malay Kumar
+Sendov, Blagovest
+Seneta, Eugene
+Senge, Hans G.
+Senior, Thomas B. A.
+Seoud, M. A.
+Seow, C. S.
+Serdyukov, A. I.
+Serfling, Robert
+Serinko, Regis J.
+Sertel, Murat R.
+Servatius, Brigitte
+Servatius, Herman
+Sessa, Salvatore
+Seth, Daniel L.
+Sevastianov, Sergey V.
+Sevcik, Kenneth C.
+Sexton, Harlan
+Seyffarth, Karen
+Seymour, Paul D.
+Sgall, Jiri
+Sha, Ji Chang
+Shader, Bryan L.
+Shah, Kirti R.
+Shah, Swarupchand M.
+Shahidi, Freydoun
+Shahrokhi, Farhad
+Shaker, Richard J.
+Shaki, Ahiezer S.
+Shalaby, Nabil
+Shalev, Aner
+Shamir, Adi
+Shamir, Eliahu
+Shamir, Ron
+Shamula, Marc
+Shank, Herbert S.
+Shanks, Daniel
+Shannon, Anthony G.
+Shao, Qi Man
+Shapiro, Daniel B.
+Shapiro, Henry D.
+Shapiro, Jacob
+Shapiro, Joel H.
+Sharir, Micha
+Sharma, Vickram
+Sharp, Henry, Jr.
+Shasha, Dennis E.
+Shastri, Aditya
+Shatalov, Victor E.
+Shavit, A.
+Shavit, Nir
+Shawe-Taylor, John
+Shearer, James B.
+Sheehan, John
+Sheil-Small, Terence Brian
+Sheingorn, Mark
+Shekhtman, Boris
+Shen, Hao
+Shen, Hong-2
+Shen, Xie Chang
+Shenker, Scott
+Shephard, Geoffrey C.
+Shepp, Lawrence A.
+Sherk, F. Arthur
+Sherman, N.
+Sherman, Seymour
+Shermer, Thomas C.
+Sherwani, Naveed A.
+Shi, Rong Hua-1
+Shi, Sheng G.
+Shi, Weiping
+Shi, Xian Liang
+Shi, Zhan
+Shieh, Narn-Rueih
+Shields, Paul C.
+Shier, Douglas R.
+Shih, Hui Jan
+Shiloach, Yossi
+Shiloh, Amnon
+Shimizu, T.
+Shimshoni, M.
+Shimura, Goro
+Shinar, Josef
+Shing, Man-Tak
+Shiokawa, Iekata
+Shirokov, Nikolai A.
+Shitovitz, Benyamin
+Shiu, Peter
+Shiu, Wai-Chee
+Shiue, Peter Jau-Shyong
+Shlapentokh, Alexandra
+Shmoys, David B.
+Shoji, Toshiaki
+Shor, Peter W.
+Shorack, Galen R.
+Shore, Richard A.
+Shore, Samuel D.
+Shostak, Robert E.
+Shpektorov, Sergey V.
+Shreve, Warren E.
+Shrikhande, Mohan S.
+Shrikhande, S. S.
+Shtogrin, M. I.
+Shult, Ernest E.
+Shur, Walter
+Shure, B. N.
+Si-Kaddour, Hamza
+Sibert, W. L.
+Sichler, Jiri
+Siders, Ryan Chauncey
+Sidorenko, Alexander F.
+Siegert, Arnold J. F.
+Siegmann, William L.
+Sieniutycz, Stanislaw
+Sierpinski, Waclaw
+Sifrony, Shmuel
+Silberger, Donald M.
+Silva, Anne
+Silverman, Joseph H.
+Silverman, Richard A.
+Silverman, Robert D.
+Simeone, Bruno
+Simic, Slobodan K.
+Simmons, William
+Simms, John C.
+Simon, Burton
+Simon, Istvan
+Simon, J.
+Simon, Janos
+Simon, Karoly
+Simon, Petr
+Simoncini, Luca
+Simonelli, Italo
+Simons, Christopher S.
+Simonson, Shai
+Simonyi, E.
+Simonyi, Gabor
+Simpson, James E.
+Simpson, R. Jamie
+Simpson, Stephen G.
+Sims, Julie A.
+Sinajova, Edita
+Sinclair, Alistair
+Singer, Michael F.
+Singh, Daljit
+Singh, K. K.
+Singh, Kesar
+Singh, Kuldip-1
+Singh, Vikramaditya-1
+Singleton, Robert R.
+Sinka, Zs.
+Sinor, Dale
+Sion, Maurice
+Sirisaengtaksin, Ongard
+Siskakis, Aristomenis
+Sita Ramaiah, V.
+Sitaramachandra Rao, Rudrabhatla
+Siva Rama Prasad, Vangala
+Sivakumaran, V.
+Sivarajan, Kumar N.
+Siwek, Edward
+Skinner, Chris M.
+Skolem, Thoralf Albert
+Skordev, Gencho S.
+Skoviera, Martin
+Skrien, Dale
+Skula, Ladislav
+Skwarczynski, Maciej
+Slae, Menahem
+Slater, Morton L.
+Slater, Peter J.
+Slepian, David
+Sloan, Alan D.
+Sloane, Neil James Alexander
+Slotnick, D. L.
+Slud, Eric V.
+Smimogaki, Tetsuya
+Smimshoni, Michael
+Smital, Jaroslav
+Smith, Cedric A. Bardell
+Smith, Charles R.
+Smith, Claudia
+Smith, Edgar C., Jr.
+Smith, Frank A.
+Smith, Hal L.
+Smith, Jeffrey W.
+Smith, John Howard
+Smith, Kenneth W.
+Smith, Paul
+Smith, Philip W.
+Smith, Robert Arnold
+Smith, Roger R.
+Smith, Simon J.
+Smith, Temple F.
+Smith, Warren D.
+Smith, Wayne Stewart
+Smith, William Boyce
+Smithdorf, Vivienne
+Smithies, Frank
+Smuga-Otto, M. J.
+Smyth, William F.
+Snevily, Hunter S.
+Snir, Marc
+Snoeyink, Jack
+Snow, Susan
+Snyder, D. A.
+Snyder, Lawrence
+Sobel, Milton
+Soicher, Leonard H.
+Sokolowsky, D.
+Sole, Patrick
+Solomon, Gustave
+Solomon, Ron
+Solot, Ph.
+Solovay, Robert M.
+Soltan, Valeriu P.
+Soltankhah, Nasrin
+Soltes, Lubomir
+Solymosi, J.
+Somani, Arun K.
+Somer, Lawrence
+Somerset, Douglas W. B.
+Sommer, Manfred
+Somorjai, Gabor
+Soner, Halil Mete
+Song, Guo Dong
+Song, Hong Y.
+Song, Seok-Zun
+Sopena, Eric
+Sorensen, Bo Aagaard
+Sorenson, Jonathan Paul
+Sorger, Hartwig
+Soto-Andrade, Jorge
+Sotteau, Dominique
+Soukup, Lajos
+Soundararajan, K.
+Souvaine, Diane
+Sovegjarto, A.
+Spafford, Eugene H.
+Sparer, Gerson H.
+Speed, Terence P.
+Speer, Eugene R.
+Spencer, J. J.
+Spencer, Thomas H.
+Speranza, Maria Grazia
+Spilker, Jurgen
+Spillinger, Ilan
+Spinas, Otmar
+Spinrad, Jeremy P.
+Spissich, L.
+Spitz, Eli
+Spitzer, Frank
+Sprague, Alan P.
+Spresser, Diane M.
+Springer, Tonny Albert
+Springsteel, Frederick N.
+Sprinkle, H. D.
+Spurgeon, Sarah K.
+Spyratos, Michael
+Squire, Matthew B.
+Squires, William A.
+Sreedharan, V. P.
+Srinivas, Kotyada
+Srinivasan, Aravind
+Srinivasan, N.
+Srinivasan, Seshadri
+Srinivasiengar, C. N.
+Srivastava, H. M.
+Srivastava, Hari M.
+Srivastava, Shashi Mohan
+Srour, Gabriel
+St. John, Katherine
+Stacey, Alan
+Stacey, K. C.
+Stacho, Laszlo L.
+Stahl, Herbert
+Stahl, Jurgen
+Stakenas, V.
+Standish, Charles
+Stanford, Miriam
+Stangler, S. S.
+Stanley, Lee J.
+Stanley, Richard P.
+Stanojevic, Caslav V.
+Stanton, Ralph G.
+Stapper, Charles H.
+Starbird, Michael P.
+Stares, Ian S.
+Stark, Dudley
+Stark, Wayne E.
+Stati, Sorin
+Statman, Richard
+Stavi, Jonathan
+Stavrakas, Nick M.
+Stearne, Martin
+Stechkin, B. S.
+Stechkin, Sergei Borisovic
+Stechmuller, T.
+Steck, George P.
+Steel, Michael Anthony
+Steele, J. Michael
+Stef, Andre
+Stefan, Janaqi
+Steffens, Karsten
+Stege, Kurt
+Steger, Angelika
+Steiger, William L.
+Steiglitz, Kenneth
+Stein, Elias M.
+Stein, Myron L.
+Stein, Paul R.
+Stein, Philip
+Steinberg, Richard
+Steinebach, Josef
+Steiner, George
+Steinhaus, Hugo
+Steinhorn, Charles I.
+Steinig, John
+Stemmler, Rosemarie M.
+Stenger, Frank
+Stephenson, Kenneth
+Steprans, Juris
+Sterboul, Francois
+Sterling, G.
+Sterling, Leon S.
+Stern, Jacques
+Stern, Nicholas
+Sternberg, Shlomo
+Sternfeld, Robert
+Sternin, Boris Yu.
+Sternin, Chayim
+Stewart, Bonnie M.
+Stewart, G. W.
+Stewart, Lorna K.
+Stewart, M. James
+Stewart, Neil Frederick
+Stiebitz, Michael
+Stillinger, Frank H., Jr.
+Stockler, Joachim
+Stockmeyer, Larry J.
+Stockmeyer, Paul K.
+Stohr, Alfred
+Stojakovic, Mirko D.
+Stolarsky, Kenneth B.
+Stone, Marshall Harvey
+Stone, Michael G.
+Stone, Richard E.
+Storer, Thomas
+Stout, Quentin
+Stoy, Joseph E.
+Straffin, Phillip D., Jr.
+Strassen, Volker
+Strauch, Oto
+Strauss, Dona
+Strauss, Hans
+Straw, Mark
+Stray, Arne
+Strayer, Heidi J.
+Strecker, George E.
+Stringer, John
+Stroeker, Roelof Jacobus
+Strommer, Thomas O.
+Stromquist, Walter
+Strothers, W. Wilson
+Struppeck, Thomas
+Studier, James A.
+Stueckle, Samuel
+Sturmfels, Bernd
+Sturtevant, Dean G.
+Stutz, C.
+Stux, Ivan E.
+Styan, George P. H.
+Su, Lo Yung
+Su, Stephen Y. H.
+Subrahmanya Sastri, V. V.
+Subramanian, P. S.
+Suchower, Stephan J.
+Sudakov, Benny
+Sudan, Madhu
+Sudbery, Anthony
+Sudderth, William D.
+Suel, Torsten
+Suffel, Charles L.
+Suffridge, Ted J.
+Sugunamma, M.
+Sukthankar, Neela S.
+Sulanke, Rolf
+Sulyok, Miklos
+Sumner, David P.
+Sun, Qi
+Sun, Shi Xin
+Sun, Zhi Wei
+Sundaram, Ravi
+Sundberg, Carl
+Sunderam, V. S.
+Suranyi, Laszlo
+Suri, Subhash
+Suryanarayana, D.
+Sussman, Dana Ellen
+Sutner, Klaus
+Suzuki, Hiroshi
+Svarc, Rudolf
+Svarer, Claus
+Sverak, Vladimir
+Swanson, Laif
+Swartz, Blair K.
+Sweedyk, Z.
+Swetits, John J.
+Swift, J. Dean
+Swinnerton-Dyer, H. Peter F.
+Sykora, Ondrej
+Syrotiuk, Violet R.
+Syslo, Maciej M.
+Szabadvary, L.
+Szabo, Csaba
+Szabo, Janos
+Szabo, Laszlo
+Szabo, Sandor
+Szabo, Tamas
+Szabo, Tamas Zoltan
+Szabo, Tibor
+Szabo, V. E. S.
+Szalay, Laszlo
+Szalkai, Istvan
+Szasz, Ferenc Andor
+Szasz, Otto
+Szczerba, Leslaw W.
+Szekely, Gabor J.
+Szekeres, Esther
+Szendrei, Agnes
+Szentagothai, Janos
+Szentmartony, Tibor
+Szentmiklossy, Zoltan
+Szep, Jeno
+Szeptycki, Pawel
+Szigeti, Ferenc
+Szigeti, Jeno
+Szigeti, Zoltan
+Szilard, Andrew
+Szilvay, Gezane
+Szmielew, Wanda
+Szonyi, Tamas
+Szpankowski, Wojciech
+Szucs, Jozsef
+Szwarcfiter, Jayme L.
+Szymanska, Edyta
+Szymanski, Andrzej
+Taake, G.
+Tachibana, Shun-ichi
+Tagansky, Boaz
+Tahir, Muzahim Bani
+Taibleson, Mitchell H.
+Taillie, Charles
+Takacs, Lajos
+Takacsi-Nagy, Pal
+Takeuti, Gaisi
+Talamo, Maurizio
+Tall, Franklin D.
+Talysheva, L. A.
+Tamaki, Jeanne K.
+Tamari, Dov
+Tamarkin, J. D.
+Tamir, Arie
+Tamura, Jun-ichi
+Tan, Hwee Huat
+Tan, S. K.
+Tanaka, Hiroshi
+Tandori, Karoly
+Tang, Betty
+Tang, Donald T.
+Tang, Ting Zai
+Tannenbaum, Peter
+Tanner, Jonathan W.
+Tannor, David
+Tao, J.
+Tapia, Richard A.
+Tarabova, Anna
+Tardos, Eva
+Tardos, Gabor
+Tarjan, Robert E.
+Tarnai, Tibor
+Tarsi, Michael
+Tartaglia, Maria
+Tarwater, J. Dalton
+Tassa, Uzi
+Tataram, Monica
+Taubenfeld, Gadi
+Taussky-Todd, Olga
+Taylor, Angela C.
+Taylor, B. Alan
+Taylor, Charles C.
+Taylor, Donald E.
+Taylor, Gerald D.
+Taylor, Howard M.
+Taylor, Mark
+Taylor, Stephen Eugene
+Tazawa, Shinsei
+Tchuente, Maurice
+Riele, Herman J. J.
+Teague, David N.
+Tegmark, Max
+Teh, Hoon Heng
+Teicher, Henry
+Teirlinck, Luc
+Tel, Gerard
+Telgarsky, Rastislav
+Temes, Gabor C.
+Temesvari, Agota H.
+Have, Gabrielle Nicoline
+Tenenbaum, Morris
+Teng, Shang-Hua
+Teo, Kee-Leong
+Teo, Kok Lay
+Terras, Audrey Anne
+Terras, Riho
+Terwillinger, Paul
+Tettamanti, Karoly
+Tevy, Ionel
+Thaheem, A. B.
+Thas, Joseph Adolphe
+Thiele, Torsten
+Thoelecke, P. A.
+Thoma, Lubos
+Thomas, Barbara V. Smith
+Thomas, Doreen Anne
+Thomas, George Rubin
+Thomas, Robin
+Thomas, Simon
+Thomason, Andrew G.
+Thomasse, Stephan
+Thompson, C. L.
+Thompson, Colin J.
+Thompson, George Gerald
+Thomson, Brian S.
+Thomson, Jan McDonald
+Thron, Wolfgang Joseph
+Thu, T. D.
+Thumser, Wolfgang
+Tiago de Oliveira, Jose
+Tian, Song Lin
+Tiba, Dan
+Tichy, Robert Franz
+Tihonov, Andrei Nikolaevic
+Tijssen, Gert A.
+Tillson, Timothy W.
+Timofeev, Nikolai M.
+Timoney, Rochard M.
+Tindell, Ralph
+Tiser, Jaroslav
+Titus, Charles J.
+Tiwari, Prasoon
+Tkac, Michal
+Todd, John
+Todorcevic, Stevo B.
+Toft, Bjarne
+Tokushige, Norihide
+Tolhuizen, Ludo M. G. M.
+Tollis, Ioannis G.
+Tolman, L. Kirk
+Toma, Vladimir
+Tomczak-Jaegermann, Nicole
+Tomescu, Ioan
+Tomic, Miodrag
+Tomkinson, M. J.
+Tomlin, John A.
+Tonascia, J.
+Tonchev, Vladimir D.
+Tong, C. S.
+Tong, Po
+Tonge, Fred M.
+Top, Jaap
+Toppila, Sakari
+Torner, Gunter
+Torocsik, Jeno
+Torok, Eva
+Torok, Sandor
+Toros, R.
+Tosic, Ratko
+Toth, Geza
+Toussaint, Godfried T.
+Tovarek, Leos
+Townsend, Douglas W.
+Tran Ngoc Danh
+Tran Trong Hue
+Tran Van Trung
+Trapp, George E.
+Trauth, Charles A., Jr.
+Trautner, Rolf
+Travis, S.
+Trembinska, Antoinette M.
+Trenk, Ann N.
+Trevisan, Vilmar
+Treybig, L. Bruce
+Trick, Michael A.
+Tricot, Claude, Jr.
+Triesch, Eberhard
+Trinajstic, Nenad
+Tromp, John T.
+Tropak, Bogdan
+Trosborg, Peter J.
+Trotter, Leslie E., Jr.
+Troy, Daniel J.
+Truss, John K.
+Truszczynski, Miroslaw
+Truzzi, Marcello
+Tsao, Ling Chi
+Tsaranov, Sergei V.
+Tsintsifas, George A.
+Tsouros, Constantine
+Tucker, Alan C.
+Tucker, Albert William
+Tucker, Bessie
+Tucker, Susan
+Tuckerman, Bryant
+Tukey, John W.
+Tulai, N. A.
+Tuler, Randy
+Tull, Jack P.
+Tuma, Jiri
+Tuma, Miroslav
+Turan, Gyorgy
+Turgeon, Jean M.
+Turjanyi, S.
+Turn, Rein
+Turner, Craig M.
+Turull, Alexandre
+Turzik, Daniel
+Tuschak, Robert
+Tusnady, Gabor
+Tuuri, Heikki
+Tverberg, Helge
+Tzanakis, Nikos
+Tzimbalario, Jean
+Ueberla, Joerg
+Uher, Jaromir
+Uhlenbeck, George E.
+Uhrin, Bela
+Ulanovskii, Alexander M.
+Uljanov, Petr Lavrentevic
+Ullman, Daniel
+Ullman, Jeffrey D.
+Ullman, Joseph L.
+Ullrich, Milan
+Underhill, B.
+Unger, Ron
+Ungerer, Elna
+Upfal, Eli
+Upmeier, Harald
+Urban, Janos
+Urbanski, Mariusz
+Urbanski, Sebastian
+Urrutia, Jorge
+Usdin, Eugene
+Ustimenko, Vasiliy A.
+Vaananen, Jouko A.
+Vaccaro, Ugo
+Vaessens, R. J. M.
+Vagi, Stephen
+Vago, Zsuzsanna
+Vaidya, A. M.
+Vaillancourt, Remi
+Vainio, Reino
+Vakalis, Ignatios
+Valentine, Frederick A.
+Aardenne-Ehrenfest, T.
+Albada, Pieter Jacob
+Van Assche, Walter
+Dal, Rene
+Dantzig, David
+Lune, Jan
+Dries, Lou
+Heuvel, Jan
+Blij, Frederik
+Corput, Johannes Gualtherus
+Geer, Gerard
+Holst, Hein
+Meiden, W.
+Van der Poorten, Alfred J.
+Veen, Jack A. A.
+Douwen, Eric K.
+Ebbenhorst Tengbergen, Ca.
+Engelen, Fons
+Eupen, Marijn
+Laarhoven, Peter J. M.
+Leeuwen, Jan
+Mill, Jan
+Moerbeke, Peirre
+Oorschot, Paul C.
+Van Rees, G. H. John
+Rossum-Wijsmuller, Marijke
+Tilborg, Henk C. A.
+Vandell, Robert C.
+Vanden Eynden, Charles L.
+Vanderbei, Robert Joseph
+VanderJagt, Donald W.
+Vandiver, Harry Schultz
+Vanstone, Scott A.
+Varadarajan, M.
+Varadhan, R. S. Srinivasa
+Vardi, Yehuda
+Varga, Otto
+Varga, Richard S.
+Varga, Tamas
+Varlaki, Peter M.
+Varlet, Jules C.
+Varnai, Ferenc
+Varopoulos, Nicholas Th.
+Vasilescu, Lucretia
+Vasiliu, Emanuel
+Vaughan, Jerry E.
+Vaught, Robert L.
+Vazirani, Umesh V.
+Vedder, Klaus
+Vegso, Janos
+Veinott, Arthur F., Jr.
+Veldman, Henk Jan
+Velickovic, Boban
+Vempala, Santosh
+Veni Madhavan, C. E.
+Venkatachaliengar, K.
+Venkatesh, Santosh S.
+Venkateswaran, S.
+Ventre, Aldo G. S.
+Vergne, Michele
+Verma, Ghasi Ram
+Vermeer, J.
+Vermes, Pal
+Vertigan, Dirk L.
+Vestergaard, Preben Dahl
+Vestjens, Arjen P. A.
+Victor, Jonathan D.
+Vidyasagar, Mathukumalli
+Vignal, L.
+Vijayakumar, Gurusamy Rangasamy
+Vijayan, Gopalakrishnan
+Vijayan, K. S.
+Vijayaraghavan, Tirukannapuram
+Vilimovsky, Jiri
+Vince, Andrew J.
+Vincze, Endre
+Vinogradov, A. I.
+Virag, Tibor
+Virden, Lee Inmon
+Virlouvet, Christine
+Vishkin, Uzi
+Vishwa, Chander Dumir
+Vishwanathan, Sundar
+Vitek, Yehoshua
+Vivaldi, Franco M.
+Vizing, Vadim G.
+Vohra, Rakesh V.
+Voiculescu, Paul
+Voigt, Bernd
+Voigt, Margit
+Volkov, Michael V.
+Volkov, V. E.
+Volovich, I. V.
+Golitschek, Manfred
+Weizsacker, Heinrich
+Voorhoeve, Marc
+Vopenka, Petr
+Voss, Heinz-Jurgen
+Voxman, B.
+Vranceanu, Gheorghe
+Vrbanova, Mariya
+Vrecica, Sinisa T.
+Vrto, Imrich
+Vu, Van H.
+Vucenic, Wayne
+Vuilleumier, Monique
+Waarts, Orli
+Wage, Michael J.
+Wagner, Carl G.
+Wagner, David Gustav
+Wagner, Gerold Sala
+Wagner, Joel I.
+Wagner, William J.
+Wagon, Stanley
+Wahid, Shanaz A.
+Wainger, Stephen
+Wajnryb, Bronislaw
+Wakabayashi, Yoshiko
+Wakker, Peter P.
+Wakulicz, Andrzej
+Walba, D.
+Wald, Abraham
+Wald, Joseph A.
+Walden, William E.
+Waldschmidt, Michel
+Wales, David B.
+Walfisz, Arnold
+Walikar, H. B.
+Walker, James W.
+Wall, Curtiss E.
+Wall, James R.
+Wallace, Alexander Doniphan
+Wallace, Mark S.
+Wallen, Lawrence J.
+Waller, W. A.
+Wallis, Charles K.
+Wallis, Walter Denis
+Wallsten, Robert
+Walsh, John B.
+Walsh, Joseph L.
+Walsh, Timothy Robert Steven
+Walters, Jakobus L.
+Walther, Hansjoachim
+Walton, Lewis F.
+Walum, Herbert
+Wan, Peng Jun
+Wang, Chang Fan
+Wang, Chao Rui
+Wang, Chi
+Wang, Da-Lun
+Wang, Edward T. H.
+Wang, Fu Da
+Wang, Gang-2
+Wang, Hong-3
+Wang, Hui-3
+Wang, Jian Zhong-2
+Wang, Lian Xiang
+Wang, Liu Xing
+Wang, Ming-wei
+Wang, Ping-1
+Wang, Ren Hong
+Wang, Shang Zhi
+Wang, Song L.
+Wang, Sun Chong
+Wang, Tao
+Wang, Wei Fan
+Wang, Xiao Ji
+Wang, Xin
+Wang, Yang
+Wang, Yuan
+Wang, Yuan-1
+Wanless, Ian M.
+Ward, Harold N.
+Ward, J. C.
+Ward, Joseph D.
+Warga, Jack
+Warlimont, Richard
+Warmuth, Manfred K.
+Warnow, Tandy J.
+Warren, Leroy J.
+Warschawski, Stefan E.
+Wasan, Siri Krishan
+Watanabe, Hisao
+Watanabe, Mamoru
+Watanabe, Mika
+Waterman, Michael S.
+Watkins, John J.
+Watkins, Mark E.
+Watson, G. L.
+Watson, Neil A.
+Watson, P.
+Watson, Stephen
+Wayne, Clarence Eugene
+Weaver, Margaret Lefevre
+Weber, J. M.
+Weber, Karl F. E.
+Weck, Sibylle
+Weedmark, R. H.
+Weese, Martin
+Weglorz, Bogdan
+Wei, Bo Cheng
+Wei, Ruizhong
+Wei, Victor K.-W.
+Wei, Wan Di
+Wei, Yuan-Jun
+Weidl, Peter
+Weikum, Gerhard
+Weil, Clifford
+Weinberg, David A.
+Weinberger, Hans F.
+Weinberger, Peter J.
+Weiner, Peter
+Weinshenk, R. J.
+Weinstein, Scott
+Weisbach, Morris S.
+Weisinger, J. R.
+Weiss, Asia Ivic
+Weiss, Barak
+Weiss, Benjamin
+Weiss, George H.
+Weiss, Gideon
+Weiss, Guido L.
+Weiss, Max L.
+Weiss, P.
+Weiss, S.
+Weiss, William A. R.
+Weissblum, W. E.
+Weisz, Ivan
+Weitsman, Allen W.
+Welch, Lloyd R.
+Welland, Grant V.
+Wells, Albert L., Jr.
+Wells, Charles P.
+Wells, James H.
+Wells, Mark B.
+Welsh, Dominic J. A.
+Welzl, Emo
+Wendel, J. G.
+Wendelin, Hermann
+Weng, Fuliang
+Weng, Guoqing
+Weng, Jia Feng
+Wenger, Rephael
+Werman, Michael
+Wertheim, D. G.
+West, David
+West, Harry H.
+Westman, M. P.
+Westwick, Roy
+Wetzel, John E.
+Wevrick, Dan
+Wexler, P. J.
+Weyant, Thomas
+Whinston, A.
+White, Andrew B., Jr.
+White, Arthur T.
+Whitesides, Sue H.
+Whitfield, J. H. M.
+Whitney, Anne
+Whitney, E. L.
+Whitney, Hassler
+Wichura, Michael J.
+Wick, Georges
+Widder, David Vernon
+Widom, Harold
+Widulski, William
+Wiegandt, Richard
+Wiegmann, N.
+Wiegold, James
+Wiekema, J. R.
+Wielandt, Helmut W.
+Wiener, Janet
+Wiener, Norbert
+Wierman, John C.
+Wigderson, Avi
+Wilansky, Albert
+Wilber, Robert
+Wilbrink, Hendrikus Adrianus
+Wilbur, Willy John
+Wilcox, Gordon W.
+Wild, K.
+Wilf, Herbert S.
+Wilfong, Gordon
+Wilke, Gerhard
+Wilkie, Alex
+Wilks, Allan R.
+Will, Todd G.
+Wille, Luc T.
+Willekens, Eric
+Willett, D.
+Williams, David L.
+Williams, E. R.
+Williams, Hugh Cowie
+Williams, Jini
+Williams, Kenneth L.
+Williams, Kenneth S.
+Williams, Michael R.
+Williams, Ruth J.
+Williams, Stanley Carl
+Williamson, J. H.
+Williamson, James E.
+Williamson, Ralph E.
+Williamson, Stanley Gill
+Wills, Jorg M.
+Wilmott, R. C.
+Wilson, David W.
+Wilson, Eric L.
+Wilson, James R.
+Wilson, Julie Carol
+Wilson, Lewis
+Wilson, R.
+Wilson, Richard Gordon
+Wilson, Robert A.
+Wilson, Robert L., Jr.
+Wilson, Robert S.
+Wimer, Shmuel
+Wimer, Thomas V.
+Wimp, Jet
+Wing, G. Milton
+Wingard, G. Clifton
+Winklmann, Karl
+Winograd, Shmuel
+Winston, Kenneth J.
+Winter, Paul A.
+Winters, Steven J.
+Wintsche, Gergely
+Wirsing, Eduard
+Wirth, B.
+Wiseman, James A.
+Witczynski, Krzysztof
+Witsenhausen, Hans S.
+Wloka, J.
+Woan, Wen Jin
+Woeginger, Gerhard J.
+Woerdeman, Hugo J.
+Woess, Wolfgang
+Wohlgelernter, Devora
+Wojciechowski, Jerzy Marian
+Wojcik, Jan
+Wojtas, Mieczyslaw
+Woldar, Andrew J.
+Wolf, J. K.
+Wolf, Mary J. Cowles
+Wolfe, Philip
+Wolff, Thomas H.
+Wolfowitz, Jacob
+Wolfram, Stephen
+Wolfsdorf, Kurt
+Wolfskill, John
+Wolfstahl, Yaron
+Woll, Heather
+Wong, Alice
+Wong, C. M.
+Wong, Chak Kuen
+Wong, Frederic
+Wong, James S. W.
+Woo, Lin S.
+Wood, Carol
+Woodall, Douglas R.
+Woodin, W. Hugh
+Woodrow, Robert E.
+Woods, Alan R.
+Woods, R. Grant
+Wool, Avishai
+Wooley, Trevor D.
+Wootton, John C.
+Workman, D. A.
+Worley, Dale
+Woyczynski, Wojbor A.
+Wrench, John W., Jr.
+Wright, Colin Douglas
+Wright, David
+Wright, Edward Maitland
+Wright, Fred B.
+Wright, Paul E.
+Wright, Robert Alan
+Wroblewski, Jaroslaw
+Wschebor, Mario
+Wu, Angela Y.
+Wu, Haidong
+Wu, Horng-Jyh
+Wu, Ju Lin
+Wu, Lung Sheng
+Wu, Qi-Guang
+Wu, Shun Tang
+Wu, Weili
+Wulbert, Daniel
+Wunderlich, Marvin C.
+Wyman, Max
+Wyner, Aaron D.
+Wysocka, Beata
+Wyzinski, Henry L.
+Xiang, Qing
+Xiong, Li Ming
+Xu, Bao Lu
+Xu, Cheng De
+Xu, Jin
+Xu, Jun Ming
+Xu, K.-J.
+Xu, Li Zhi
+Xu, Yuan
+Xue, Guo Liang
+Yadid, Tal
+Yadin, Irit
+Yale, Keith
+Yamashita, Masafumi
+Yamron, Jonathan P.
+Yamush, Martin L.
+Yan, Hong Sen
+Yan, Jing Ho
+Yang, Chengmin
+Yang, Chung Chun
+Yang, Shi Hui
+Yannakakis, Mihalis
+Yao, Andrew Chi Chih
+Yao, Bing
+Yap, Chee-Keng
+Yap, Hian Poh
+Yates, D. F.
+Yates, J. W.
+Yates, Julie
+Yau, Shing-Tung
+Ye, Shumin
+Yellen, Jay E.
+Yemini, Yechiam
+Yen, Lily
+Yesha, Yaacov
+Yeung, Hang-Fai
+Yff, Peter
+Yi, Jea-Yel
+Yin, Carol M.
+Yin, Jian Xing
+Yip, Lee-Wah
+Yoeli, Michael
+Yokota, Hishashi
+Yosida, Kosaku
+Youn, Heekyung Kang
+Young, Gail S.
+Young, Stephen Charles
+Younger, Daniel H.
+Youngs, Dale A.
+Youngs, J. W. Theodore
+Yu, Ji Ye
+Yu, Kun Rui
+Yu, Qing Lin
+Yu, Sheng
+Yu, Xiang Ming
+Yu, Xingxing
+Yu, Xiu Yuan
+Yu, Yao Qi
+Yuan, Jin Jiang
+Yucas, Joseph L.
+Yue, A. S.
+Yue, Bill Quan
+Yung, Moti
+Yuster, Raphael
+Zaanen, Adriaan Cornelis
+Zafrany, Samy
+Zagier, Don Bernard
+Zaguia, Nejib
+Zaharoglou, Fotios
+Zahrt, John D.
+Zaiger, Don B.
+Zajicek, Ludek
+Zaks, Ayal
+Zaks, Joseph
+Zamboni, Luca Q.
+Zame, Alan
+Zamfirescu, Christina M. D.
+Zamfirescu, Tudor I.
+Zane, Francis
+Zannier, Umberto
+Zapletal, Jindrich
+Zaring, W. M.
+Zaslavsky, Thomas
+Zassenhaus, Hans J.
+Zay, Bela
+Zayachkowski, W.
+Zayer, Jorg
+Zbierski, Pawel
+Zdravkovska, Smilka
+Zeilberger, Doron
+Zeitlin, David
+Zelinka, Bohdan
+Zeller, Karl
+Zemanek, Jaroslav
+Zenor, Phillip
+Zergenyi, Erzsebet
+Zernitz, Holger
+Zetterstrom, Hans-Olov
+Zhang, Bing-Yu
+Zhang, Guo-Hui
+Zhang, Guo-Qiang
+Zhang, Hantao
+Zhang, Jian Xun
+Zhang, John
+Zhang, Kaizhong
+Zhang, Ke Min-1
+Zhang, Ping-6
+Zhang, Qing-2
+Zhang, Sheng Hai
+Zhang, Xian Mo
+Zhang, Yanjun
+Zhang, Zhong Fu
+Zhao, Zhong Xin
+Zheng, De Xun
+Zheng, Mao Lin
+Zhong, Ju Kang
+Zhong, Le Fan
+Zhou, Bing
+Zhou, Hao Xuan
+Zhou, Hui Shan
+Zhou, Jianxin
+Zhou, San Ming
+Zhou, Shiyu
+Zhou, Yong Sheng
+Zhu, Bi Wen
+Zhu, Bing Huan
+Zhu, Binhai
+Zhu, Lie-1
+Zhu, Xiao Jun
+Zhu, Xu Ding
+Zhu, Yiliang
+Zhu, Ying Xian
+Zhu, Yong Jin
+Ziegler, Gunter M.
+Ziegler, Martin
+Ziegler, Zvi
+Zielezny, Z.
+Zierler, Neal
+Ziermann, Margit
+Ziff, Robert M.
+Zink, Robert E.
+Zinoviev, Dmitrii
+Ziv, Ran
+Zivaljevic, Rade T.
+Zivkovic, Tomislav P.
+Zizler, Vaclav
+Znam, Stefan
+Zollner, Joachim
+Zong, Chuan Ming
+Zou, Hung-Bin
+Zsilinszky, Laszlo
+Zuazua, Enrique
+Zubor, Zoltan
+Zubrzycki, Stefan
+Zuckerman, David
+Zuckerman, Herbert S.
+Zunic, Jovisa D.
+Zweibel, J. A.
+Zwick, Uri
+Zwicker, William S.
+Zygmund, Antoni
+Zyka, Ondrej

@@ -1,0 +1,15 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/mimo8x8_system
+% name: Rommes/mimo8x8_system : C matrix
+%-------------------------------------------------------------------------------
+8 13309 8
+8 1654
+6 1722
+7 1739
+1 1841
+2 1858
+3 1875
+4 1892
+5 1909

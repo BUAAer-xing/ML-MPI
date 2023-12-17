@@ -1,0 +1,9 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/xingo3012
+% name: Rommes/xingo3012 : B matrix
+%-------------------------------------------------------------------------------
+20944 2 2
+4345 1
+4571 2

@@ -1,0 +1,13 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/descriptor_xingo6u
+% name: Rommes/descriptor_xingo6u : C matrix
+%-------------------------------------------------------------------------------
+6 20738 6
+1 664
+2 669
+3 674
+4 679
+5 684
+6 689

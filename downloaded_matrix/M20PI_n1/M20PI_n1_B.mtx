@@ -1,0 +1,10 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Rommes/M20PI_n1
+% name: Rommes/M20PI_n1 : B matrix
+%-------------------------------------------------------------------------------
+1028 3 3
+693 1
+734 2
+814 3

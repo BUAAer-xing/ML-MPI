@@ -1,0 +1,12 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Oberwolfach/flowmeter5
+% name: Oberwolfach/flowmeter5 : C matrix
+%-------------------------------------------------------------------------------
+5 9669 5
+3 3373
+4 4813
+5 6268
+1 9646
+2 9648

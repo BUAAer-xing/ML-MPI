@@ -1,0 +1,29 @@
+%%MatrixMarket matrix array real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Pajek/Tina_DisCal
+% name: Pajek/Tina_DisCal : coord matrix
+%-------------------------------------------------------------------------------
+11 2
+.2912
+.4875
+.3537
+.4225
+.4538
+.49
+.6212
+.645
+.6488
+.3212
+.7188
+.2004
+.0153
+.3416
+.5477
+.1603
+.3836
+.5038
+.2023
+.6031
+.5515
+.4218

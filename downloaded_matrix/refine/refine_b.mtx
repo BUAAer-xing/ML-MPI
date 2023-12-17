@@ -1,0 +1,36 @@
+%%MatrixMarket matrix array real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Meszaros/refine
+% name: Meszaros/refine : b matrix
+%-------------------------------------------------------------------------------
+29 1
+87500
+50000
+66000
+50000
+82500
+55000
+66000
+6300
+415000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+40000
+18500
+15000
+1200
+1500
+1000
+80000
+18000
+60000

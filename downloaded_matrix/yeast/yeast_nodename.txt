@@ -1,0 +1,2361 @@
+ABD1 mRNA cap methyltransferase
+RPB2 DNA-directed RNA polymerase II, 140 kDa chain
+SPT5 transcription elongation protein
+ACC1 acetyl-CoA carboxylase
+YLR386w similarity to hypothetical S. pombe protein
+SIT4 ser/thr protein phosphatase
+CCT5 T-complex protein 1, epsilon subunit
+ADE1 phosphoribosylamidoimidazole-succinocarboxamide synthase
+ADE12 adenylosuccinate synthetase
+ADE13 adenylosuccinate lyase
+PRT1 translation initiation factor eIF3 subunit
+ADE4 amidophosphoribosyltransferase
+RNA1 GTPase activating protein
+CYS3 cystathionine gamma-lyase
+ADE5,7 phosphoribosylamine-glycine ligase and phosphoribosylformylglycinamidine cyclo-ligase
+ADE6 5'-phosphoribosylformyl glycinamidine synthetase
+ADK1 adenylate kinase, cytosolic
+ADO1 strong similarity to human adenosine kinase
+AKL1 Ark-family Kinase-Like protein
+AOS1 forms together with UBA2P a heterodimeric activating enzyme for SMT3P
+YEF3 translation elongation factor eEF3
+UBA2 E1-like (ubiquitin-activating) enzyme
+ADH1 alcohol dehydrogenase I
+APC2 component of the anaphase promoting complex
+APC1 subunit of anaphase-promoting complex (cyclosome)
+CDC27 subunit of anaphase-promoting complex (cyclosome)
+CDC23 subunit of anaphase-promoting complex (cyclosome)
+CDC16 subunit of anaphase-promoting complex (cyclosome)
+APD1 weak similarity to potato sucrose cleavage protein
+APG14 required for autophagy
+TFP1 H+-ATPase V1 domain 69 KD catalytic subunit, vacuolar
+VPS30 involved in vacuolare protein sorting and autophagy
+APL2 AP-1 complex subunit, beta1-adaptin, 82 KD
+APM2 involved in clathrin-independent transport processes
+APM1 AP-1 complex subunit, mu1 subunit, 54 KD
+APS1 AP-1 complex subunit, sigma1 subunit, 18 KD
+MIS1 C1-tetrahydrofolate synthase precursor, mitochondrial
+APL4 AP-1 complex subunit, gamma-adaptin, 94 KD
+RPA135 DNA-directed RNA polymerase I, 135 KD subunit
+APL3 AP-2 complex subunit, alpha-adaptin, 113 KD
+APM4 AP-2 complex subunit, mu2 subunit, 55 KD
+APS2 AP-2 complex subunit, sigma2 subunit, 17 KD
+APL1 AP-2 complex subunit, beta2-adaptin, 78 KD
+APL5 AP-3 complex subunit, gamma-adaptin, 107 KD
+APM3 AP-3 complex subunit, mu3 subunit, 55 KD
+CKB1 casein kinase II, beta subunit
+APS3 AP-3 complex subunit, sigma3 subunit, 22 KD
+APL6 AP-3 complex subunit, beta3-adaptin, 91 KD
+ENO2 enolase II (2-phosphoglycerate dehydratase)
+APT2 adenine phosphoribosyltransferase
+ARA1 D-arabinose dehydrogenase, large subunit
+ARC15 subunit of the ARP2/3 complex
+ARP3 actin related protein
+ARC35 subunit of the ARP2/3 complex
+ARC19 subunit of the ARP2/3 complex
+ARC18 subunit of the ARP2/3 complex
+ARP2 actin-like protein
+PFK1 6-phosphofructokinase, alpha subunit
+ARC40 ARP2/3 protein complex subunit, 40 kilodalton
+ARD1 protein N-acetyltransferase subunit
+YGR090w similarity to PIR:T40678 hypothetical protein SPBC776.08c S. pombe
+NAT1 protein N-acetyltransferase subunit
+MYO1 myosin-1 isoform (type II myosin) heavy chain
+ASC1 40S small subunit ribosomal protein
+ENO1 enolase I (2-phosphoglycerate dehydratase)
+ARF2 GTP-binding protein of the ARF family
+ARL1 ADP-ribosylation factor
+ARO1 arom pentafunctional enzyme
+RVB2 RUVB-like protein
+IDH2 isocitrate dehydrogenase (NAD+) subunit 2, mitochondrial
+GFA1 glucosamine--fructose-6-phosphate transaminase
+HSC82 heat shock protein
+RPN9 subunit of the regulatory particle of the proteasome
+YHB1 flavohemoglobin
+RPT6 26S proteasome regulatory subunit
+CCT8 component of chaperonin-containing T-complex
+ARO4 2-dehydro-3-deoxyphosphoheptonate aldolase, tyrosine-inhibited
+NOG2 strong similarity to human breast tumor associated autoantigen
+ASF1 anti-silencing protein
+Unknow protein !!!
+RNR4 ribonucleotide reductase small subunit
+RNR2 ribonucleoside-diphosphate reductase, small subunit
+RAD53 ser/thr/tyr protein kinase
+HIR3 involved in cell cycle regulation of histone transcription
+AUT1 essential for autophagocytosis
+BAT2 branched chain amino acid aminotransferase, cytosolic
+BAT1 branched chain amino acid aminotransferase, mitochondrial
+BDF2 similarity to bromodomain protein BDF1P
+BDF1 sporulation protein
+BEM1 bud emergence mediator
+BOI2 budding protein
+CDC24 GTP/GDP exchange factor for CDC42P
+BET3 involved in targeting and fusion of ER to golgi transport vesicles
+FKS1 1,3-beta-D-glucan synthase, catalytic subunit
+TRS120 TRAPP subunit of 120 kDa involved in targeting and fusion of ER to golgi transport vesicles
+KRE11 beta-glucan synthesis-associated protein
+TRS33 TRAPP subunit of 33 kDa involved in targeting and fusion of ER to golgi transport vesicles
+TRS31 TRAPP subunit of 31 kDa involved in targeting and fusion of ER to golgi transport vesicles
+BET5 involved in targeting and fusion of ER to golgi transport vesicles
+TRS23 TRAPP subunit of 20 kDa involved in targeting and fusion of ER to golgi transport vesicles
+GSG1 sporulation specific protein
+TRS20 TRAPP subunit of 20 kDa involved in targeting and fusion of ER to golgi transport vesicles
+TRS130 TRAPP subunit of 130 kDa involved in targeting and fusion of ER to golgi transport vesicles
+BET4 geranylgeranyl transferase, alpha chain
+BET2 geranylgeranyltransferase type II beta subunit
+BIM1 binding to microtubules
+BMH2 suppressor of clathrin deficiency
+PIK1 phosphatidylinositol 4-kinase
+NTH2 alpha,alpha-trehalase
+NTH1 neutral trehalase (alpha,alpha-trehalase)
+BMH1 14-3-3 protein involved in rapamycin-sensitive signalling
+FUN31 similarity to ser/thr protein kinases
+RTG2 retrograde regulation protein
+BOI1 BEM1 protein-binding protein
+BUD14 similarity to hypothetical protein  S.pombe
+Unknow protein !!!
+PDR13 regulator protein involved in pleiotropic drug resistance
+BEM2 GTPase-activating protein
+BUD2 GTPase-activating protein for Bud1p/RSR1P
+BUD20 weak similarity to human zinc finger protein
+RLP7 strong similarity to mammalian ribosomal L7 proteins
+NOG1 similarity to M.jannaschii GTP-binding protein
+YHR197w weak similarity to PIR:T22172 hypothetical protein F44E5.2 C. elegans
+YHR085w weak similarity to fruit fly brahma transcriptional activator
+YNL182c weak similarity to S.pombe hypothetical protein
+TIF6 translation initiation factor 6 (eIF6)
+MRT4 mRNA turnover 4
+YLR106c similarity to Kaposi's sarcoma-associated herpes-like virus ORF73 homolog gene
+Unknow protein !!!
+YDR101c weak similarity to proliferation-associated protein
+YNL110c weak similarity to fruit fly RNA-binding protein
+KRE32 weak similarity to E.coli colicin N
+CIC1 adaptor protein specifically linking the 26S proteasome to its substrate, the SCF component CDC4
+SDA1 required for normal organization of the actin cytoskeleton; required for passage through Start
+YKR081c strong similarity to hypothetical protein S. pombe
+YER006w similarity to P.polycephalum myosin-related protein mlpA
+LHP1 RNA binding protein
+RRP13 similarity to zebrafish essential for embryonic development gene pescadillo
+CAP1 F-actin capping protein alpha subunit
+YER071c hypothetical protein
+YIR003w weak similarity to mammalian neurofilament triplet H proteins
+CAP2 F-actin capping protein, beta subunit
+CAR1 arginase
+CDC60 leucine--tRNA ligase, cytosolic
+CAR2 ornithine aminotransferase
+CBC2 small subunit of the nuclear cap-binding protein complex CBC
+SRP1 karyopherin-alpha or importin
+NPL3 nucleolar protein
+SNP1 U1 small nuclear ribonucleoprotein
+LUC7 yeast U1 snRNP protein with a role in 5' splice site recognition
+YML117w similarity to YPL184c
+SMD2 U1 snRNP protein of the Sm class
+Unknow protein !!!
+SNU56 U1 snRNA protein, no counterpart in mammalian snRNP
+NAM8 meiotic recombination protein
+KAP95 karyopherin-beta
+NRD1 involved in regulation of nuclear pre-mRNA abundance
+RSE1 involved in RNA splicing and ER to Golgi transport
+NAB3 polyadenylated RNA-binding protein
+SNU71 associated with U1 snRNP, no counterpart in mammalian U1 snRNP
+TIF4632 mRNA cap-binding protein (eIF4F), 130K subunit
+CBF5 putative rRNA pseuduridine synthase
+Unknow protein !!!
+SIK1 involved in pre-rRNA processing
+NOP4 nucleolar protein
+NOP1 fibrillarin
+HAS1 helicase associated with SET1P
+NIP1 associated with 40s ribosomal subunit
+PUF6 similarity to hypothetical human and C.elegans proteins
+TIF4631 mRNA cap-binding protein (eIF4F), 150K subunit
+RRP12 hypothetical protein
+FUN12 general translation factor eIF2 homolog
+CCA1 tRNA nucleotidyltransferase
+CCL1 TFIIH subunit (transcription initiation factor), cyclin C component
+TFB3 TFIIH subunit (transcription/repair factor)
+SPT7 involved in alteration of transcription start site selection
+YOR173w strong similarity to YLR270w
+KIN28 cyclin-dependent ser/thr protein kinase
+CCR4 transcriptional regulator
+CAF130 hypothetical protein
+CDC39 nuclear protein
+CAF40 strong similarity to C.elegans hypothetical protein
+POP2 required for glucose derepression
+CCT6 component of chaperonin-containing T-complex (zeta subunit)
+GCN1 translational activator
+CDC14 dual specificity phosphatase
+HSP42 heat shock protein
+RSC2 member of RSC complex, which remodels the structure of chromatin
+CDC28 cyclin-dependent protein kinase
+CKS1 cyclin-dependent kinases regulatory subunit
+CLN2 cyclin, G1/S-specific
+CLN1 cyclin, G1/S-specific
+DAL7 malate synthase 2
+CDC3 cell division control protein
+SHS1 septin
+CDC12 septin
+CDC11 septin
+CDC10 cell division control protein
+CDC33 translation initiation factor eIF4E
+SBP1 single-strand nucleic acid binding protein
+ROM2 GDP/GTP exchange factor for RHO1P
+POL2 DNA-directed DNA polymerase epsilon, catalytic subunit A
+YBL004w weak similarity to Papaya ringspot virus polyprotein
+CDC36 transcription factor
+NOT5 component of the NOT protein complex
+ATP11 F1F0-ATPase complex assembly protein
+CDC37 cell division control protein
+TFC7 TFIIIC (transcription initiation factor) subunit, 55 kDa
+SEC27 coatomer complex beta' chain (beta'-cop) of secretory pathway vesicles
+COP1 coatomer complex alpha chain of secretory pathway vesicles
+CDC45 required for minichromosome maintenance and initiation of chromosomal DNA replication
+SIN3 transcription regulatory protein
+LYS12 homo-isocitrate dehydrogenase
+RPD3 histone deacetylase B
+CDC47 cell division control protein
+ERG26 C-3 sterol dehydrogenase (C-4 decarboxylase)
+CDC48 microsomal protein of CDC48/PAS1/SEC18 family of ATPases
+NPL4 nuclear protein localization factor and ER translocation component
+MRPS28 ribosomal protein of the small subunit, mitochondrial
+SHP1 potential regulatory subunit for GLC7P
+REG1 regulatory subunit for protein phosphatase GLC7P
+BNI1 regulator of budding
+YDR049w similarity to C.elegans K06H7.3 protein
+RAI1 weak similarity to C.elegans dom-3 protein
+UFD1 ubiquitin fusion degradation protein
+CDC5 involved in regulation of DNA replication
+CDC55 ser/thr phosphatase 2A regulatory subunit B
+YBL104c weak similarity to S.pombe hypothetical protein SPAC12G12.01c
+IML1 similarity to C.elegans hypothetical protein T08A11.1
+MYO5 myosin I
+PPH22 protein ser/thr phosphatase PP2A-2
+PPH21 protein ser/thr phosphatase PP2A-1
+ZDS2 multicopy suppressor of SIN4
+ZDS1 involved in negative regulation of cell polarity
+CIN1 chromosome segregation protein
+TPD3 ser/thr protein phosphatase 2A, regulatory chain A
+HHF2 histone H4
+TEF4 translation elongation factor eEF1, gamma chain
+YRA1 RNA annealing protein
+CDC8 dTMP kinase
+RPF1 similarity to hypothetical protein YNL075w
+Unknow protein !!!
+YTM1 microtubule-interacting protein
+HIS3 imidazoleglycerol-phosphate dehydratase
+LOC1 weak similarity to rabbit triadin SPP41P
+DBP10 putative RNA helicase involved in ribosome biogenesis
+HDA1 histone deacetylase A
+DRS1 RNA helicase of the DEAD box family
+KRE35 similarity to putative human GTP-binding protein MMR1
+NOC3 required for maturation and intranuclear transport of pre-ribosomes
+MTC2 similarity to EDE1P
+ERB1 weak similarity to A.thaliana PRL1 protein
+RPG1 translation initiation factor eIF3 (p110 subunit)
+CEF1 required during G2/M transition
+HSH155 component of a multiprotein splicing factor
+CDC40 cell division control protein
+ECM2 involved in cell wall biogenesis and architecture
+YGL128c weak similarity to dnaJ proteins
+PRP22 pre-mRNA splicing factor
+SYF1 synthetic lethal with CDC40
+CLF1 strong similarity to Drosophila putative cell cycle control protein crn
+BUD31 strong similarity to Xenopus G10 and human edg-2 protein
+SNU114 U5 snRNP-specific protein
+PRP19 non-snRNP sliceosome component required for DNA repair
+PRP46 strong similarity to A.thaliana PRL1 and PRL2 proteins
+PRP45 pre-mRNA splicing factor
+SNT309 splicing factor
+PRP43 involved in spliceosome disassembly
+YDL209c similarity to hypothetical S. pombe protein
+YGR278w similarity to C.elegans LET-858
+PRP2 RNA-dependent ATPase of DEAH box family
+CEG1 mRNA guanylyltransferase (mRNA capping enzyme, alpha subunit)
+SSA4 heat shock protein of HSP70 family, cytosolic
+SSA3 heat shock protein of HSP70 family, cytosolic
+SPT16 general chromatin factor
+VPS1 member of the dynamin family of GTPases
+PDB1 pyruvate dehydrogenase (lipoamide) beta chain precursor
+TOP2 DNA topoisomerase II (ATP-hydrolysing)
+YHR121w weak similarity to C.elegans hypothetical protein
+CTR9 required for G1 cyclin expression
+CET1 RNA 5'-triphosphatase (mRNA capping enzyme, beta subunit)
+YOL078w similarity to stress activated MAP kinase interacting protein S. pombe
+CLU1 translation initiation factor eIF3 (p135 subunit)
+CFT1 pre-mRNA 3'-end processing factor CF II
+PFS2 polyadenylation factor I subunit 2 required for mRNA 3'-end processing, bridges two mRNA 3'-end processing factors
+YSH1 component of pre-mRNA polyadenylation factor PF I
+CFT2 cleavage and polyadenylation specificity factor, part of CF II
+PTI1 weak similarity to PIR:A40220 cleavage stimulation factor 64K chain - human
+PTA1 pre-tRNA processing protein / PF I subunit
+GLC7 ser/thr phosphoprotein phosphatase 1, catalytic chain
+YKL059c similarity to C.elegans hypothetical protein
+PAP1 poly(A) polymerase
+REF2 RNA 3'-end formation protein
+RNA14 component of pre-mRNA 3'-end processing factor CF I
+YHL035c similarity to multidrug resistance proteins
+CHC1 clathrin heavy chain
+CLC1 clathrin light chain
+CHD1 transcriptional regulator
+CKB2 casein kinase II beta' chain
+RET1 DNA-directed RNA polymerase III, 130 KD subunit
+CKA2 casein kinase II alpha' chain
+CKA1 casein kinase II, catalytic alpha chain
+ISW2 strong similarity to Drosophila ISW1 and human SNF2P homolog
+ISW1 strong similarity to D.melanogaster iswi protein
+YKL088w similarity to C.tropicalis hal3 protein, to C-term. of SIS2P and to hypothetical protein YOR054c
+YTA7 26S proteasome subunit
+TIF35 translation initiation factor eIF3 (p33 subunit)
+HOT1 similarity to MSN1 protein
+PCA1 P-type Cu2+-transporting ATPase
+SRL3 similarity to YOR083w
+YPL014w hypothetical protein
+SIC1 p40 inhibitor of CDC28P-Clb protein kinase complex
+CLB3 cyclin, G2/M-specific
+ISY1 pre-mRNA splicing factor
+CLP1 cleavage/polyadenylation factor IA subunit
+PCF11 component of pre-mRNA 3'-end processing factor CF I
+RNA15 component of pre-mRNA 3'-end processing factor CF I
+SEC31 component of the COPII coat of ER-golgi vesicles
+CNS1 weak similarity to stress-induced STI1P
+HGH1 weak similarity to human HMG1P and HMG2P
+SEC28 epsilon-COP coatomer subunit
+SEC26 coatomer complex beta chain of secretory pathway vesicles
+SEC21 coatomer complex gamma chain (gamma-COP) of secretory pathway vesicles
+RET3 coatomer complex zeta chain
+RET2 coatomer complex delta chain
+COQ5 ubiquinone biosynthesis, methyltransferase
+COQ6 monooxygenase
+COR1 ubiquinol--cytochrome-c reductase 44K core protein
+QCR2 ubiquinol--cytochrome-c reductase 40KD chain II
+COX9 cytochrome-c oxidase chain VIIA
+COX5A cytochrome-c oxidase chain V.A precursor
+COX6 cytochrome-c oxidase subunit VI
+COX4 cytochrome-c oxidase chain IV
+CPH1 cyclophilin (peptidylprolyl isomerase)
+YCR033w similarity to nuclear receptor co-repressor N-Cor
+SNF2 component of SWI/SNF global transcription activator complex
+YIL112w similarity to ankyrin and coiled-coil proteins
+SIF2 SIR4P interacting protein
+CSL4 core component of the 3'-5' exosome
+YIR035c similarity to human corticosteroid 11-beta-dehydrogenase
+DIS3 3'->5' exoribonuclease required for 3' end formation of 5.8S rRNA
+MTR3 involved in mRNA transport
+RRP43 rRNA processing protein
+RRP42 rRNA processing protein
+SKI7 GTPase with function in 3'-to-5' degradation of mRNA
+SKI6 3'->5' exoribonuclease required for 3' end formation of 5.8S rRNA
+RRP6 similarity to human nucleolar 100K polymyositis-scleroderma protein
+RRP4 3'->5' exoribonuclease required for 3' end formation of 5.8S rRNA
+Unknow protein !!!
+CTF18 required for accurate chromosome transmission in mitosis and maintenance of normal telomere length
+RFC5 DNA replication factor C, 40 KD subunit
+RFC4 DNA replication factor C, 37 kDa subunit
+RFC3 DNA replication factor C, 40 kDa subunit
+CTF8 weak similarity to hypothetical protein B24H17.20 Neurospora crassa
+VPS13 involved in regulating membrane traffic
+DPB2 DNA-directed DNA polymerase epsilon, subunit B
+CTK1 carboxy-terminal domain (CTD) kinase, alpha subunit
+CTK3 carboxy-terminal domain (CTD) kinase, gamma subunit
+SSE2 heat shock protein of the HSP70 family
+CTK2 carboxy-terminal domain (CTD) kinase, beta subunit
+RTF1 regulates DNA binding properties of TBP
+CDC73 DNA-directed RNA polymerase II accessory protein
+PAF1 DNA-directed RNA polymerase II regulator
+LEO1 extremely hydrophilic protein
+CUS1 U2 snRNP protein
+LEA1 U2 A' snRNP protein
+SMD3 spliceosomal snRNA-associated Sm core protein required for pre-mRNA splicing
+PRP21 pre-mRNA splicing factor
+PRP11 pre-mRNA splicing factor
+PRP9 pre-mRNA splicing factor (snRNA-associated protein)
+SMB1 associated with U1 snRNP as part of the Sm-core that is common to all spliceosomal snRNPs
+CYR1 adenylate cyclase
+SRV2 adenylate cyclase-associated protein, 70kDa
+PHO81 cyclin-dependent kinase inhibitor
+ACT1 actin
+CYS4 cystathionine beta-synthase
+SSC1 mitochondrial heat shock protein 70-related protein
+DCP2 suppressor protein of a yeast pet mutant
+DCP1 mRNA decapping enzyme
+YEL015w weak similarity to SPA2P
+RPM2 ribonuclease P precursor, mitochondrial
+RRP46 involved in rRNA processing
+RRP40 protein involved in ribosomal RNA processing, component of the exosome complex responsible for 3' end processing and degradation of many RNA species
+YHR081w weak similarity to human C1D protein
+DNA2 DNA helicase
+LCD1 cell cycle checkpoint protein
+YHR122w similarity to hypothetical C. elegans protein F45G2.a
+RFA1 DNA replication factor A, 69 KD subunit
+DOA1 involved in ubiquitin-dependent proteolysis
+RPO31 DNA-directed RNA polymerase III, 160 KD subunit
+RPA190 DNA-directed RNA polymerase I, 190 KD alpha subunit
+DOC1 component of the anaphase promoting complex
+DPB4 DNA polymerase II (epsilon) 4th subunit
+DPB3 DNA-directed DNA polymerase epsilon, subunit C
+DPS1 aspartyl-tRNA synthetase, cytosolic
+ECM1 involved in cell wall biosynthesis
+LYS2 L-aminoadipate-semialdehyde dehydrogenase, large subunit
+KAP123 RAN-binding protein
+PSE1 beta karyopherin
+SXM1 putative beta-karyopherin
+ECM16 putative DEAH-box RNA helicase
+UME1 negative regulator of meiosis
+SDS3 transcriptional regulator
+PHO23 involved in transcriptional regulation of PHO5
+ECM21 involved in cell wall biogenesis and architecture
+EDE1 similarity to mouse eps15R protein
+YCR030c weak similarity to S.pombe hypothetical protein SPBC4C3.06
+YDR348c similarity to hypothetical protein YHR097c
+SLA2 cytoskeleton assembly control protein
+EHT1 alcohol acyl transferase
+ELP2 29 kDa subunit of elongator and elongating RNA polymerase II holoenzyme
+IKI3 confers sensitivity to killer toxin
+IKI1 confers sensitivity to killer toxin
+ELP3 subunit of elongator/RNAPII holoenzyme with histone acetylase activity
+ELP4 RNA polymerase II Elongator protein subunit
+ENP1 effects N-glycosylation
+YOR056c weak similarity to human phosphorylation regulatory protein HP-10
+NOP14 nuclear and nucleolar protein with possible role in ribosome biogenesis
+IMP4 component of the U3 small nucleolar ribonucleoprotein
+IMP3 component of the U3 small nucleolar ribonucleoprotein
+YDR449c similarity to hypothetical protein S. pombe
+TSR1 similarity to C.elegans hypothetical protein
+YPR144c similarity to YDR060w and C.elegans hypothetical protein
+YGR081c weak similarity to mammalian myosin heavy chain
+KRE33 similarity to A.ambisexualis antheridiol steroid receptor
+SOF1 involved in 18S pre-rRNA production
+YMR093w weak similarity to PWP2P
+KRE31 similarity to M.sexta steroid regulated MNG10 protein
+SAM1 S-adenosylmethionine synthetase 1
+EMG1 strong similarity to S.pombe hypothetical protein C18G6.07C
+LTV1 low-temperature viability protein
+RCL1 similarity to human RNA 3'-terminal phosphate cyclase
+MPP10 component of the U3 small nucleolar ribonucleoprotein
+ENT1 clathrin binding protein, required for endocytosis
+EPL1 weak similarity to YMR164c and GAL11P
+YAF9 similarity to human AF-9 protein
+EAF3 similarity to human hypothetical protein
+YEL018w weak similarity to RAD50P
+ESA1 histone acetyltransferase
+VID21 weak similarity to human trichohyalin
+TRA1 component of the Ada-Spt transcriptional regulatory complex
+NOP2 nucleolar protein
+NOC2 crucial for intranuclear movement of ribosomal precursor particles
+YGL111w weak similarity to hypothetical protein S. pombe
+BRX1 strong similarity to C.elegans K12H4.3 protein
+ERG10 acetyl-CoA C-acetyltransferase, cytosolic
+ERG13 3-hydroxy-3-methylglutaryl coenzyme A synthase
+RRN3 RNA polymerase I specific transcription factor
+YNL119w weak similarity to M.jannaschii hypothetical protein MJ1257
+ERO1 required for protein disulfide bond formation in the ER
+ERV46 component of copii vesicles involved in transport between the ER and golgi complex
+ERV41 component of copii vesicles involved in transport between the ER and golgi complex
+SEC13 protein transport protein
+ERP1 p24 protein involved in membrane trafficking
+PHB1 prohibitin, antiproliferative protein
+ERP2 p24 protein involved in membrane trafficking
+EMP24 component of the COPII-coated vesicles, 24 kDa
+ERV25 component of the COPII-coated vesicles, 25 Kda
+NIP7 required for efficient 60S ribosome subunit biogenesis
+RRP1 involved in processing rRNA precursor species to mature rRNAs
+YAP1 transcriptional activator involved in oxidative stress response
+ARP4 actin-related protein
+ESS1 processing/termination factor 1
+ETF-BETA electron-transferring flavoprotein, beta chain
+EXO84 exocyst protein essential for secretion
+VPS9 vacuolar sorting protein
+SEC10 required for exocytosis
+SEC8 protein transport protein
+SEC6 protein transport protein
+SEC5 required for exocytosis
+SEC3 component of exocyst complex
+FAL1 involved in maturation of 18S rRNA
+FAT2 AMP-binding protein, peroxisomal
+FIP1 component of pre-mRNA polyadenylation factor PF I
+RSA3 hypothetical protein
+YML030w weak similarity to CG9921 D. melanogaster
+YCL046w questionable ORF
+FPR1 peptidyl-prolyl cis-trans isomerase, FK506-binding protein
+FAP1 similarity to D.melanogaster shuttle craft protein
+TFB1 TFIIH subunit (transcription initiation factor), 75 kD
+SSL1 TFIIH subunit (transcription initiation factor), factor B
+FRQ1 regulator of phosphatidylinositol-4-OH kinase protein
+FRS1 phenylalanyl-tRNA synthetase, alpha subunit, cytosolic
+FRS2 phenylalanine--tRNA ligase beta chain, cytosolic
+FTH1 similarity to Iron permease FTR1P (YER145c)
+RPN3 26S proteasome regulatory subunit
+GEA2 GDP/GTP exchange factor for ARF
+FET5 multicopy oxidase
+FYV9 similarity to probable methyltransferase S. pombe
+GAR1 nucleolar rRNA processing protein
+YKL014c similarity to hypothetical protein SPCC14G10.02 S. pombe
+FYV14 weak similarity to potato small nuclear ribonucleoprotein U2B and human splicing factor homolog
+MRP7 ribosomal protein YmL2 precursor, mitochondrial
+GCD1 translation initiation factor eIF2bgamma subunit
+PDC1 pyruvate decarboxylase, isozyme 1
+GCD11 translation initiation factor eIF2 gamma chain
+SUI3 translation initiation factor eIF2 beta subunit
+SUI2 translation initiation factor eIF2, alpha chain
+GCN3 translation initiation factor eIF2B, 34 KD, alpha subunit
+GCD7 translation initiation factor eIF2b, 43 kDa subunit
+GCD6 translation initiation factor eIF2b epsilon, 81 kDa subunit
+GCD2 translation initiation factor eIF2B, 71 kDa (delta) subunit
+GCN2 ser/thr protein kinase
+SNU66 component of U4/U6.U5 snRNP
+PRP31 pre-mRNA splicing protein
+AAR2 A1 cistron splicing factor
+YLR409c strong similarity to S. pombe beta-transducin
+PRP6 snRNP(U4/U6)-associated splicing factor
+PRP4 U4/U6 snRNP 52 KD protein
+GCN20 positive effector of GCN2P
+GUT1 glycerol kinase
+CCT4 component of chaperonin-containing T-complex
+GCS1 ADP-ribosylation factor GTPase-activating protein (ARF-GAP)
+GCV2 glycine decarboxylase P subunit
+GCV3 glycine decarboxylase, subunit H
+GDI1 GDP dissociation inhibitor
+YPT31 GTP-binding protein of the rab family
+YPT1 GTP-binding protein of the rab family
+YPT52 GTP-binding protein of the rab family
+GGA2 Arf-binding protein
+GLN4 glutaminyl-tRNA synthetase
+GLO2 glyoxalase II (hydroxyacylglutathione hydrolase)
+GLO3 zinc finger protein
+GPA2 guanine nucleotide-binding regulatory protein
+GPE2 similarity to hypothetical protein YOR371c
+GPI10 required for Glycosyl Phosphatdyl Inositol synthesis
+GPI8 essential for GPI anchor attachment
+GRX5 member of the subfamily of yeast glutaredoxins (Grx3, GRX4, and Grx5)
+GSH2 Glutathione synthetase
+GTR2 similarity to human ragA protein and GTR1P
+YCR015c hypothetical protein
+ESP1 required for sister chromatid separation
+YGR203w weak similarity to X.laevis protein-tyrosin-phosphatase cdc homolog 2 and to hypothetical protein YPR200c
+GUK1 guanylate kinase
+GYP7 GTPase-activating protein for YPT7P
+HAM1 controls 6-N-hydroxylaminopurine sensitivity and mutagenesis
+HAP2 CCAAT-binding factor subunit
+HAP5 CCAAT-binding factor subunit
+HAP3 CCAAT-binding factor subunit
+HAT1 histone acetyltransferase subunit
+HAT2 subunit of the major yeast histone acetyltransferase
+HIF1 HAT1 Interacting Factor 1
+HCA4 can suppress the U14 snoRNA rRNA processing function
+NOP12 weak similarity to M.sativa NUM1, hnRNP protein from C. tentans and D. melanogaster, murine/bovine poly(A) binding protein II, and NSR1P
+SRO9 La motif-containing proteins that modulate mRNA translation
+NOP58 required for pre-18S rRNA processing
+PLO2 weak similarity to USO1P, YPR179c and fruit fly tropomyosin
+PLO1 similarity to PLO2P, weak similarity to C-terminal region of Nip80p
+HHF1 histone H4
+NMD5 NAM7P interacting protein
+PSD2 phosphatidylserine decarboxylase 2
+ECM5 involved in cell wall biogenesis and architecture
+LIP2 lipoic acid ligase
+YOL054w weak similarity to transcription factors
+PRO1 glutamate 5-kinase
+YER093c weak similarity to S.epidermidis PepB protein
+DYN1 dynein heavy chain, cytosolic
+RSC3 similarity to transcriptional regulator proteins
+MAC1 metal binding activator
+VTH2 strong similarity to PEP1P
+MSB1 morphogenesis-related protein
+ICL1 isocitrate lyase
+YPR077c questionable ORF
+GLY1 L-threonine aldolase, low-specific
+USO1 intracellular protein transport protein
+RPC40 DNA-directed RNA polymerase I, III 40 KD subunit
+YFR006w similarity to X-Pro dipeptidases
+TEL1 telomere length control protein
+HIS4 phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase/histidinol dehydrogenase
+DHH1 putative RNA helicase of the DEAD box family
+TUB3 alpha-3 tubulin
+HMT1 hnRNP arginine N-methyltransferase
+HNT1 similarity to protein kinase C inhibitor-I
+HOG1 ser/thr protein kinase of MAP kinase (MAPK) family
+HRP1 CF Ib (RNA3' Cleavage factor Ib)
+AEP1 nuclear control of ATPase messenger RNA expression protein
+TCM10 hypothetical protein
+SES1 seryl-tRNA synthetase, cytosolic
+AEP2 required for the expression of subunit-9 of atp synthase
+HRT2 high level expression reduced Ty3 transposition
+HSH49 essential yeast splicing factor
+HSL7 adapter in a regulatory pathway that relieves tyrosine phosphorylation of CDC28
+HSM3 mismatch repair protein
+RPN12 26S proteasome regulatory subunit
+RPN8 26S proteasome regulatory subunit
+RPN6 subunit of the regulatory particle of the proteasome
+RPT5 26S proteasome regulatory subunit
+RPT3 26S proteasome regulatory subunit
+RPT2 26S proteasome regulatory subunit
+HST1 silencing protein
+HTB2 histone H2B.2
+NPL6 nuclear protein localization factor
+MOT1 transcriptional accessory protein
+STH1 subunit of the RSC complex
+NAP1 nucleosome assembly protein I
+TOP1 DNA topoisomerase I
+RPC82 DNA-directed RNA polymerase III, 82 KD subunit
+KAP114 Member of the karyopherin-beta family, nuclear import
+HUL5 ubiquitin-protein ligase (E3)
+IDI1 isopentenyl-diphosphate delta-isomerase
+ILS1 isoleucyl-tRNA synthetase
+ILV6 acetolactate synthase, regulatory subunit
+IML3 weak similarity to N.crassa chitin synthase
+AME1 actin related protein
+MCM22 required for maintenance of chromosomes and minichromosomes
+Unknow protein !!!
+CHL4 chromosome segregation protein
+YLR381w hypothetical protein
+CTF19 involved in chromosome segregation
+YDR383c weak similarity to S.pombe paramyosin
+IPP1 inorganic pyrophosphatase, cytoplasmic
+YPL066w hypothetical protein
+PPA2 inorganic pyrophosphatase, mitochondrial
+TUS1 similarity to GDP-GTP exchange factors
+YDL203c similarity to SKT5P
+IRR1 essential protein
+IST1 similarity to NUF1P, has a role in resistance to high concentrations of sodium
+DOR1 weak similarity to unnamed ORF Mus musculus brain cDNA
+XKS1 xylulokinase
+Unknow protein !!!
+YOL017w similarity to YFR013w
+RSC8 subunit of the RSC complex
+RSC6 subunit of the RSC complex
+RSC4 member of RSC complex, which remodels the structure of chromatin
+ITC1 subunit of ISW2 chromatin remodelling complex
+RSC58 hypothetical protein
+KAP104 beta-karyopherin
+ECM29 involved in cell wall biogenesis and architecture
+NAB2 nuclear poly(A)-binding protein
+KCS1 potential transcription factor of the BZIP type
+KGD1 2-oxoglutarate dehydrogenase complex E1 component
+KGD2 2-oxoglutarate dehydrogenase complex E2 component
+LPD1 dihydrolipoamide dehydrogenase precursor
+YMR31 ribosomal protein, mitochondrial
+KIN3 ser/thr protein kinase
+KIN82 ser/thr protein kinase
+KIP1 kinesin-related protein
+KRE30 strong similarity to members of the ABC transporter family
+VMA13 H+-ATPase V1 domain 54 KD subunit, vacuolar
+BMS1 GTP-binding protein, required for distinct steps of 40S ribosome biogenesis
+DIP2 DOM34P-interacting protein
+YJL109c weak similarity to ATPase DRS2P
+NAN1 weak similarity to fruit fly TFIID subunit p85
+PWP2 periodic tryptophan protein
+Unknow protein !!!
+YGR128c hypothetical protein
+YDR324c weak similarity to beta transducin from S. pombe and other WD-40 repeat containing proteins
+CST29 similarity to DIP2P
+YGR145w similarity to C.elegans hypothetical protein
+HSL1 ser/thr protein kinase, coupling septin ring assembly to cell cycle progression
+TIF1 translation initiation factor 4A
+NMD3 nonsense-mediated mRNA decay protein
+YBR267w similarity to hypothetical protein YLR387c
+LCP5 NGG1P interacting protein
+YDL166c weak similarity to Pyrococcus horikoshii hypothetical protein PHBJ019
+BFR2 involved in protein transport steps at the Brefeldin A blocks
+RRP9 protein associated with the U3 small nucleolar RNA, required for pre-ribosomal RNA processing
+YKR060w similarity to hypothetical protein S. pombe
+KRS1 lysyl-tRNA synthetase, cytosolic
+TFB4 component of RNA polymerase transcription initiation TFIIH factor
+LAS17 component of actin cortical patches
+END3 required for endocytosis and cytoskeletal organization
+Unknow protein !!!
+LCB2 serine C-palmitoyltransferase subunit
+CRM1 nuclear export factor, exportin
+SAM2 S-adenosylmethionine synthetase 2
+LCB1 serine C-palmitoyltransferase subunit
+MIR1 phosphate transport protein, mitochondrial (MCF)
+YHR020w strong similarity to human glutamyl-prolyl-tRNA synthetase and fruit fly multifunctional aminoacyl-tRNA synthetase
+LEU1 3-isopropylmalate dehydratase
+LSM1 Sm-like (Lsm) protein
+LSM6 Sm-like (Lsm) protein
+LSM5 Sm-like (Lsm) protein
+LSM4 Sm-like (Lsm) protein
+LSM3 Sm-like (Lsm) protein
+LSM2 Sm-like (Lsm) protein
+PAT1 topoisomerase II-associated protein
+NAM7 nonsense-mediated mRNA decay protein
+LSM7 Sm-like (Lsm) protein
+DIB1 required for mitosis
+SNU23 Putative RNA binding zinc finger protein
+PRP24 pre-mRNA splicing factor
+LST8 required for transport of permeases from the golgi to the plasma membrane
+PGK1 phosphoglycerate kinase
+LTE1 GDP/GTP exchange factor
+KEL1 involved in cell fusion and morphology
+PRP39 pre-mRNA splicing factor
+SMX3 snRNA-associated protein of the SM family
+YHC1 associated with the U1 snRNP complex
+PRP42 U1 snRNP associated protein, required for pre-mRNA splicing
+PRP40 splicing factor
+LYS5 L-aminoadipate-semialdehyde dehydrogenase, small subunit
+LYS9 saccharopine dehydrogenase (NADP+, L-glutamate forming)
+MAK3 N-acetyltransferase
+Unknow protein !!!
+MAK10 glucose-repressible protein
+MAK5 ATP-dependent RNA helicase
+YMR163c hypothetical protein
+SEC7 component of non-clathrin vesicle coat
+SKI2 antiviral protein and putative helicase
+MAL32 alpha-glucosidase
+MAL12 alpha-glucosidase of the MAL1 locus
+MAS1 mitochondrial processing peptidase
+SMC4 Stable Maintenance of Chromosomes
+MAS2 processing peptidase, catalytic 53kDa (alpha) subunit, mitochondrial
+MBP1 transcription factor, subunit of the MBF factor
+SWI6 transcription factor
+MCD1 Mitotic Chromosome Determinant
+SMC3 required for structural maintenance of chromosomes
+SMC1 chromosome segregation protein
+SCC4 protein required for sister chromatid cohesion
+MCM2 member of the MCM2P,MCM3P,CDC46P family
+GLT1 glutamate synthase (NAPDPH) (GOGAT)
+MCM6 involved in replication
+CDC46 cell division control protein
+MDH3 malate dehydrogenase, peroxisomal
+Unknow protein !!!
+TOM40 forms the hydrophilic channel of the mitochondrial import pore for preproteins
+MPM1 hypothetical protein
+MDR1 MAC1P interacting protein
+MED2 transcriptional regulation mediator
+RGR1 DNA-directed RNA polymerase II holoenzyme subunit
+NUT2 negative transcription regulator from artifical reporters
+NUT1 negative transcription regulator from artifical reporters
+GAL11 DNA-directed RNA polymerase II holoenzyme and Kornberg's mediator (SRB) subcomplex subunit
+MED8 transcriptional regulation mediator
+MED7 member of RNA Polymerase II transcriptional regulation mediator complex
+SSN3 cyclin-dependent CTD kinase
+MED6 RNA polymerase II transcriptional regulation mediator
+MED4 transcription regulation mediator
+MED1 component of RNA polymerase II holoenzyme and mediator subcomplex
+CSE2 subunit of RNA polymerase II mediator complex
+SIN4 global regulator protein
+SSN2 DNA-directed RNA polymerase II holoenzyme and Srb10 CDK subcomplex subunit
+PGD1 mediator complex subunit
+SRB8 DNA-directed RNA polymerase II holoenzyme and Srb10 CDK subcomplex subunit
+SRB6 DNA-directed RNA polymerase II suppressor protein
+SRB5 DNA-directed RNA polymerase II holoenzyme and Kornberg's mediator (SRB) subcomplex subunit
+SRB4 DNA-directed RNA polymerase II holoenzyme and Kornberg's mediator (SRB) subcomplex subunit
+SRB2 DNA-directed RNA polymerase II holoenzyme and Kornberg's mediator (SRB) subcomplex subunit
+MED11 mediator complex subunit
+SEC34 required for vesicle tethering to the yeast Golgi apparatus
+YIL077c hypothetical protein
+ADA2 general transcriptional adaptor or co-activator
+SRB7 DNA-directed RNA polymerase II holoenzyme and kornberg's mediator (SRB) subcomplex subunit
+FBA1 fructose-bisphosphate aldolase
+FAB1 phosphatidylinositol 3-phosphate 5-kinase
+TAF60 TFIID and SAGA subunit
+MET14 ATP adenosine-5'-phosphosulfate 3'-phosphotransferase
+MLH1 DNA mismatch repair protein
+PMS1 DNA mismatch repair protein
+SPT15 the TATA-binding protein TBP
+MRP4 ribosomal protein of the small subunit, mitochondrial
+MRP13 ribosomal protein of the small subunit, mitochondrial
+PET123 ribosomal protein, mitochondrial
+MRPS18 ribosomal protein of the small subunit, mitochondrial
+YMR158w weak similarity to E.coli ribosomal S8 protein
+RSM7 similarity to bacterial, chloroplast and mitochondrial ribosomal protein S7
+NAM9 ribosomal protein, mitochondrial
+RSM27 strong similarity to hypothetical S. pombe protein
+RSM26 weak similarity to superoxide dismutases
+RSM25 weak similarity to S.pombe hypothetical protein SPBC16A3
+RSM23 similarity to S.pombe hypothetical protein SPBC29A3.15C - putative mitochondrial function
+RSM22 similarity to S. pombe SPAC1420.04c putative cytochrome c oxidase assembly protein
+YDR036c similarity to enoyl CoA hydratase
+MRPS9 ribosomal protein S9 precursor, mitochondrial
+MRPS5 ribosomal protein S5, mitochondrial
+YOR243c similarity to M.jannaschii hypothetical protein MJ0588
+RSM19 strong similarity to Mycoplasma ribosomal protein S19
+MRP21 Mitochondrial ribosomal protein
+MRP1 ribosomal protein of the small subunit, mitochondrial
+RSM10 component of the mitochondrial ribosomal small subunit
+MRP51 mitochondrial ribosomal protein of the small subunit
+YMR188c weak similarity to bacterial ribosomal protein S17
+MRPL10 ribosomal protein of the large subunit, mitochondrial
+MRPL17 ribosomal protein of the large subunit (YmL30), mitochondrial
+MRPL16 ribosomal protein of the large subunit, mitochondrial
+MRPL44 ribosomal protein YMR44, mitochondrial
+MHR1 Involved in mitochondrial homologous DNA recombination
+MRPL39 60S ribosomal protein, mitochondrial
+MRPL36 ribosomal protein YmL36 precursor, mitochondrial
+MRPL35 ribosomal protein YmL35 of the large subunit, mitochondrial
+YDR116c similarity to bacterial ribosomal L1 proteins
+HRR25 casein kinase I, ser/thr/tyr protein kinase
+MRPL28 ribosomal protein of the large subunit (YmL28), mitochondrial
+MRPL7 ribosomal protein of the large subunit, mitochondrial
+MRPL27 ribosomal protein YmL27 precursor, mitochondrial
+MRPL6 ribosomal protein of the large subunit, mitochondrial
+MRPL4 ribosomal protein, mitochondrial
+MRPL24 ribosomal protein of the large subunit, mitochondrial
+MRPL3 ribosomal protein of the large subunit, mitochondrial
+MRPL23 ribosomal protein of the large subunit, mitochondrial
+PET56 rRNA (guanosine-2'-O-)-methyltransferase
+IMG2 required for Integrity of Mitochondrial Genome
+IMG1 ribosomal protein, mitochondrial
+UGT51 sterol glucosyltransferase (UDP-glucose:sterol glucosyltransferase)
+YPR100w weak similarity to C.elegans hypothetical protein CEC25A1
+YML6 ribosomal protein, mitochondrial
+BUD3 budding protein
+SWI3 transcription regulatory protein
+MRPL8 ribosomal protein L17, mitochondrial
+SEC1 protein transport protein
+MRPL20 ribosomal protein YmL20, mitochondrial
+MRPL19 ribosomal protein of the large subunit, mitochondrial
+MRP20 ribosomal protein of the large subunit, mitochondrial
+MRPL9 ribosomal protein YmL9, mitochondrial
+MRP49 ribosomal protein, mitochondrial
+MRPL13 ribosomal protein YmL13, mitochondrial
+YGL064c similarity to YLR276c and YKR024c
+YDR115w similarity to bacterial ribosomal L34 proteins
+TAF90 TFIID and SAGA subunit
+MRPL25 ribosomal protein YmL25, mitochondrial
+YPL183w-a strong similarity to mitochondrial and bacterial ribosomal L36 proteins
+MRP17 ribosomal protein of the small subunit, mitochondrial
+FYV4 weak similarity to Ustilago hordei B east mating protein 2
+YOR205c hypothetical protein
+MRP10 mitochondrial ribosomal protein
+TRF4 topoisomerase I-related protein
+UBP10 derepression of telomeric silencing
+RSM24 component of the mitochondrial ribosomal small subunit
+YGR150c similarity to PIR:T39838 hypothetical protein SPBC19G7.07c S. pombe
+YPL013c strong similarity to N.crassa mitochondrial ribosomal protein S24
+MSH2 DNA mismatch repair protein
+YBR025c strong similarity to Ylf1p
+PRO2 gamma-glutamyl phosphate reductase
+TIF2 translation initiation factor eIF4A
+MSH6 DNA mismatch repair protein
+MPH1 protection of the genome from spontaneous and chemically induced damage
+MEC1 cell cycle checkpoint protein
+RAD52 recombination and DNA repair protein
+RIM1 ssDNA-binding protein, mitochondrial
+TOP3 DNA topoisomerase III
+RAD16 nucleotide excision repair protein
+MGM101 mitochondrial genome maintenance protein
+MSH3 DNA mismatch repair protein
+RFA3 DNA replication factor A, 13 KD subunit
+RFA2 DNA replication factor A, 36 kDa subunit
+SGS1 DNA helicase
+YDL156w weak similarity to Pas7p
+MSW1 tryptophanyl-tRNA synthetase, mitochondrial
+MSY1 tyrosyl-tRNA synthetase
+MTO1 strong similarity to gidA E.coli protein
+MTR10 involved in nuclear protein import
+MTR4 involved in nucleocytoplasmic transport of mRNA
+MUD1 U1 snRNP-specific A protein
+MUM2 meiotic protein
+SPO14 phospholipase D
+MVD1 mevalonate pyrophosphate decarboxylase
+MYO4 myosin heavy chain, unconventional (class V) isoform
+MYO2 myosin heavy chain
+MLC2 similarity to calmodulin and calmodulin-related proteins
+MLC1 MYO2P light chain
+SHE4 required for mother cell-specific gene expression
+CMD1 calmodulin
+SHE3 required for mother cell-specific expression of HO
+SHE2 required for mother cell-specific expression of HO
+KCC4 kinase coordinate cell cycle progression with the organization of the peripheralcytoskeleton
+Unknow protein !!!
+YOL070c hypothetical protein
+GIN4 ser/thr protein kinase
+JIP1 hypothetical protein
+Unknow protein !!!
+TAO3 Transcriptional Activator of OCH1
+NCL1 tRNA (cytosine-5-)-methyltransferase
+RPP2B 60S large subunit acidic ribosomal protein
+NFS1 regulates Iron-Sulfur cluster proteins, cellular Iron uptake, andIron distribution
+NHP10 Non-histone protein
+IES1 weak similarity to Dictyostelium protein kinase
+Unknow protein !!!
+INO80 similarity to SNF2P and human SNF2alpha
+IES5 weak similarity to tryptophan synthase beta subunit - Aquifex aeolicus
+NHP2 nucleolar rRNA processing protein
+YMR310c similarity to YGR283c
+NHP6B nonhistone chromosomal protein
+RPC34 DNA-directed RNA polymerase III, 34 KD subunit
+SFH1 subunit of the RSC complex
+AUT10 similarity to hypothetical protein YPL100w
+APG2 required for sporulation
+YOR227w similarity to microtubule-interacting protein MHP1P
+SPB4 ATP-dependent RNA helicase of DEAH box family
+YLR009w similarity to ribosomal protein L24.e.B
+MAK21 protein required for 60S ribosomal subunit biogenesis
+FPR4 nucleolar peptidylprolyl cis-trans isomerase (PPIase)
+DBP9 similarity to YDL031w, MAK5P and RNA helicases
+NOT3 general negative regulator of transcription, subunit 3
+FAS2 fatty-acyl-CoA synthase, alpha chain
+YDR214w similarity to hypothetical protein YNL281w
+NSP1 nuclear pore protein
+MRPL15 ribosomal protein of the large subunit, mitochondrial
+NIC96 nuclear pore protein
+NUP82 nuclear pore protein
+NUP159 nuclear pore protein
+NUF1 spindle pole body component
+NUP116 nuclear pore protein
+NUP60 nuclear pore protein
+ORC1 origin recognition complex, 104 KD subunit
+ORC6 origin recognition complex, 50 KD subunit
+ORC5 origin recognition complex, 50 kDa subunit
+ORC4 origin recognition complex, 56 KD subunit
+ORC3 origin recognition complex, 62 kDa subunit
+ORC2 origin recognition complex, 72 kDa subunit
+OSH1 similarity to human oxysterol binding protein (OSBP)
+AFG2 strong similarity to CDC48
+TDH3 glyceraldehyde-3-phosphate dehydrogenase 3
+OST1 oligosaccharyltransferase, alpha subunit
+OST6 N-oligosaccharyltransferase complex subunit
+SEH1 nuclear pore protein
+WBP1 oligosaccharyl transferase beta subunit precursor
+STT3 oligosaccharyl transferase subunit
+TIF34 translation initiation factor eIF3, p39 subunit
+PAC10 GIM4 - Gim complex component
+GIM5 Gim complex component
+GIM3 Gim complex component
+YKE2 Gim complex component
+PAN2 component of PAB1P-stimulated poly(A) ribonuclease
+PAN3 component of the PAB1P-dependent poly(A) ribonuclease
+SSU72 suppressor of cs mutant of SUA7
+VPS53 subunit of VP52-54 complex, required for protein sorting at the yeast late Golgi
+YTH1 protein of the 3' processing complex
+PBP2 PAB1 binding protein
+Unknow protein !!!
+PCM1 phosphoacetylglucosamine mutase
+MGS1 similarity to E.coli hypothetical protein in serS 5'region
+TCM62 chaperone required for assembly of mitochondrial succinate dehydrogenase
+RPN11 26S proteasome regulatory subunit
+LAT1 dihydrolipoamide S-acetyltransferase
+DUR1,2 urea amidolyase
+DOA4 ubiquitin-specific protease
+PDX1 pyruvate dehydrogenase complex protein X
+PDA1 pyruvate dehydrogenase (lipoamide) alpha chain precursor
+PDS5 precocious dissociation of sister chromatids
+PEP1 vacuolar protein sorting/targeting protein
+DIG1 MAP kinase-associated protein, down-regulator of invasive growth and mating
+PEP3 vacuolar membrane protein
+AAP1' alanine/arginine aminopeptidase
+VPS8 vacuolar sorting protein, 134 kD
+VPS16 vacuolar sorting protein
+PEP5 vacuolar biogenesis protein
+VPS41 required for the vacuolar assembly
+VPS33 vacuolar sorting protein
+PFK2 6-phosphofructokinase, beta subunit
+PHO3 constitutive acid phosphatase precursor
+PIM1 ATP-dependent protease, mitochondrial
+PKC1 ser/thr protein kinase
+PMT2 mannosyltransferase
+POL12 DNA-directed DNA polymerase alpha, 70 KD subunit
+PRI2 DNA-directed DNA polymerase alpha , 58 KD subunit (DNA primase)
+PRI1 DNA-directed DNA polymerase alpha 48kDa subunit (DNA primase)
+RFC1 DNA replication factor C, 95 KD subunit
+POL1 DNA-directed DNA polymerase alpha, 180 KD subunit
+POP7 nuclear RNase P subunit
+RPP1 required for processing of tRNA and 35S rRNA
+POP8 required for processing of tRNAs and rRNAs
+POP6 required for processing of tRNAs and rRNAs
+POP5 required for processing of tRNAs and rRNAs
+POP4 involved in processing of tRNAs and rRNAs
+POP3 involved in processsing of tRNAs and rRNAs
+POP1 protein component of ribonuclease P and ribonuclease MRP
+PRE9 20S proteasome subunit Y13 (alpha3)
+PRE8 20S proteasome subunit Y7 (alpha2)
+PRE7 20S proteasome subunit(beta6)
+PRE6 20S proteasome subunit (alpha4)
+PRE5 20S proteasome subunit(alpha6)
+PRE4 20S proteasome subunit(beta7)
+PRE2 20S proteasome subunit (beta5)
+PRE1 20S proteasome subunit C11(beta4)
+PUP3 20S proteasome subunit (beta3)
+PUP2 20S proteasome subunit(alpha5)
+PUP1 20S proteasome subunit (beta2)
+PRE10 20S proteasome subunit C1 (alpha7)
+TDH2 glyceraldehyde-3-phosphate dehydrogenase 2
+SCL1 20S proteasome subunit YC7ALPHA/Y8 (alpha1)
+PPH3 protein ser/thr phosphatase
+YBL046w weak similarity to hypothetical protein YOR054c
+YNL201c weak similarity to pleiotropic drug resistance control protein PDR6
+PPT1 protein ser/thr phosphatase
+HSP82 heat shock protein
+BLM3 weak similarity to Mms19p
+EST3 subunit of the telomerase
+PRK1 serine/threonine protein kinase involved in regulation of actin cytoskeleton organization
+GLE2 required for nuclear pore complex structure and function
+YCR079w weak similarity to A.thaliana protein phosphatase 2C
+PRO3 delta 1-pyrroline-5-carboxylate reductase
+PRP28 pre-mRNA splicing factor RNA helicase of DEAD box family
+HTA1 histone H2A
+TOS4 similarity to YDR501w
+MRPL38 ribosomal protein of the large subunit (L14), mitochondrial
+SPP381 Suppressor of Pre-mRNA Processing mutant
+PRP3 essential splicing factor
+YLR424w weak similarity to STU1P
+YNL224c similarity to hypothetical protein S. pombe
+PRP8 U5 snRNP protein, pre-mRNA splicing factor
+YHR156c weak similarity to mouse kinesin KIF3B
+RIC1 involved in transcription of ribosomal proteins and ribosomal RNA
+SUI1 translation initiation factor 3 (eIF3)
+TIF5 translation initiation factor eIF5
+MDS3 negative regulator of early meiotic expression
+DAM1 essential mitotic spindle pole protein
+ULP1 Ubl-specific protease
+SPA2 involved in cell polarity
+INO4 basic helix-loop-helix transcription factor
+NUD1 cell cycle regulatory protein
+YOR179c similarity to BRR5 protein
+PTC3 ser/thr protein phosphatase PP2C
+VPS15 ser/thr protein kinase
+RAD50 DNA repair protein
+YDR071c similarity to O.aries arylalkylamine N-acetyltransferase
+PTC4 serine/threonine protein phosphatases (PP2Cs)
+YDR186c hypothetical protein
+PUB1 major polyadenylated RNA-binding protein of nucleus and cytoplasm
+SGN1 similarity to D.melanogaster RNA binding protein
+SWI1 component of SWI/SNF global transcription activator complex
+NRP1 similarity to human TAF2N Zinc finger TBP-associated factor N, component of the TFIID complex
+PUS1 pseudouridine synthase 1
+PUT2 1-pyrroline-5-carboxylate dehydrogenase
+PWP1 similarity to human IEF SSP 9502 protein
+POL5 DNA polymerase V
+YPL207w similarity to hypthetical proteins from A. fulgidus, M. thermoautotrophicum and M. jannaschii
+ROK1 ATP-dependent RNA helicase
+HTA2 histone H2A.2
+YDR365c weak similarity to Streptococcus M protein
+YHR196w weak similarity to YDR398w
+YKL099c similarity to C.elegans hypothetical proteins C18G6.06 and C16C10.2
+BUD21 weak similarity to YMR172w
+DBP8 strong similarity to DRS1P and other probable ATP-dependent RNA helicases
+YNR054c similarity to C.elegans hypothetical protein CEESL47F
+RML2 ribosomal L2 protein, mitochondrial
+YJL069c similarity to C.elegans hypothetical protein
+WRS1 tryptophan--tRNA ligase
+YMR315w similarity to hypothetical S. pombe protein
+VMA4 H+-ATPase V1 domain 27 KD subunit, vacuolar
+PEP4 aspartyl protease
+RAD23 nucleotide excision repair protein (ubiquitin-like protein)
+RPN10 26S proteasome regulatory subunit
+YDR314c weak similarity to hypothetical S.pombe protein
+SRO7 polarized exocytosis by regulating SNARE function
+RAD4 excision repair protein
+RAD3 DNA helicase/ATPase
+YDJ1 mitochondrial and ER import protein
+MET18 involved in NER repair and RNA polymerase II transcription
+RAD51 DNA repair protein
+CPA2 arginine-specific carbamoylphosphate synthase, large chain
+Unknow protein !!!
+ILV1 anabolic serine and threonine dehydratase precursor
+YGL245w strong similarity to glutamine--tRNA ligase
+RAT1 5'-3' exoribonuclease
+RAM1 protein farnesyltransferase, beta subunit
+GPM1 phosphoglycerate mutase
+RAM2 protein farnesyltransferase, alpha subunit
+RDH54 required for mitotic diploid-specific recombination and repair and meiosis
+RDI1 rho GDP dissociation inhibitor with activity toward RHO1P
+REB1 transcription factor
+TAF145 TFIID subunit (TBP-associated factor), 145 kD
+GPT2 strong similarity to SCT1P
+RFC2 DNA replication factor C, 41 KD subunit
+EFD1 weak similarity to human DNA-binding protein PO-GA and to bacterial H+-transporting ATP synthases
+YMR181c similarity to YPL229w
+RFX1 repressor of DNA damage-inducible genes
+RGD1 similarity to C.elegans GTPase-activating protein
+FYV8 weak similarity to Tetrahymena acidic repetitive protein ARP1
+RIB1 GTP cyclohydrolase II
+RIB3 3,4-dihydroxy-2-butanone 4-phosphate synthase
+RIM11 ser/thr protein kinase
+RKI1 D-ribose-5-phosphate ketol-isomerase
+VID24 required for vacuolar import and degradation of FBP1P
+RNH1 ribonuclease H
+VAS1 valyl-tRNA synthetase
+ROX3 transcription factor
+RPA12 DNA-directed RNA polymerase I, 13.7 KD subunit
+RPB8 DNA-directed RNA polymerase I, II, III 16 KD subunit
+RPB5 DNA-directed RNA polymerase I, II, III 25 KD subunit
+RPO26 DNA-directed RNA polymerase I, II, III 18 KD subunit
+RPB10 DNA-directed polymerase I, II, III 8.3 subunit
+RPA43 DNA-directed RNA polymerase I, 36 KD subunit
+RPA49 DNA-directed RNA polymerase A (I) chain, 46 kDa
+RPB3 DNA-directed RNA-polymerase II, 45 kDa
+TFG1 TFIIF subunit (transcription initiation factor), 105 kD
+RPB9 DNA-directed RNA polymerase II, 14.2 KD subunit
+RPB7 DNA-directed RNA polymerase II, 19 KD subunit
+RPB4 DNA-directed RNA polymerase II, 32 kDa subunit
+RPB11 DNA-directed RNA polymerase II subunit, 13.6 kD
+IWR1 weak similarity to hypothetical protein D. melanogaster
+TFG2 TFIIF subunit (transcription initiation factor), 54 kD
+RPO21 DNA-directed RNA polymerase II, 215 KD subunit
+SPT4 transcription elongation protein
+ANC1 TFIIF subunit (transcription initiation factor), 30 kD
+RPC25 DNA-direcred RNA polymerase III, 25 KD subunit
+RPC37 Pol III transcription
+RPC53 DNA-directed RNA polymerase III, 47 KD subunit
+YJL011c weak similarity to chicken hypothetical protein
+RPC31 DNA-directed RNA polymerase III, 31 KD subunit
+RPC11 RNA polymerase III subunit C11, required for RNA cleavage activity and transcription termination
+AMS1 alpha-mannosidase
+YMR075w weak similarity to human Mi-2 protein
+DEP1 regulator of phospholipid metabolism
+SAP30 subunit of the histone deacetylase B complex
+YBR095c weak similarity to hypothetical protein S. pombe
+YPL181w weak similarity to YKR029c
+RLI1 strong similarity to human RNase L inhibitor and M.jannaschii ABC transporter protein
+SUP45 translational release factor
+HCR1 component of translation initiation factor eIF3, has similarity to human eIF3 p35 subunit
+RPL23A 60S large subunit ribosomal protein L23.e
+YOL098c similarity to hypothetical S.pombe protein
+BCP1 similarity to hypothetical protein S. pombe
+YPL208w similarity to YHL039w
+RPL2A ribosomal protein L8.e
+SHM1 serine hydroxymethyltransferase precursor, mitochondrial
+YPL009c similarity to M.jannaschii hypothetical protein
+DBP2 ATP-dependent RNA helicase of DEAD box family
+ADE3 C1-tetrahydrofolate synthase (trifunctional enzyme),cytoplasmic
+RPN7 subunit of the regulatory particle of the proteasome
+NAS6 possible homolog of human 26S proteasome regulatory subunit p28
+RPT4 26S proteasome regulatory subunit
+RPN5 subunit of the regulatory particle of the proteasome
+RPN13 weak similarity to human 42K membrane glycoprotein
+PRE3 20S proteasome subunit (beta1)
+UBP6 ubiquitin-specific protease
+MLH2 similarity to human mutL protein homolog, mouse PMS2, MLH1P and PMS1P
+MAF1 required for sorting of MOD5P
+RPC19 DNA-directed RNA polymerase I,III 16 KD subunit
+RPO41 DNA-directed RNA polymerase, mitochondrial
+RPT1 26S proteasome regulatory subunit
+CDC6 cell division control protein
+RRI1 similarity to Jun activation domain binding protein homologue of A. thaliana
+YOL117w weak similarity to human sodium channel alpha chain HBA
+YDR179c weak similarity to hypothetical protein D. melanogaster
+YMR025w hypothetical protein
+PCI8 hypothetical protein
+RRP45 rRNA processing protein
+SKI3 antiviral protein
+RTS1 potential regulatory subunit of protein phosphatase 2A
+SAC2 suppressor of actin mutation
+YKR020w hypothetical protein
+LUV1 interacts with the beta-tubulin binding protein RBL2P
+YFL006w similarity to hypothetical protein TRCDSEMBL:AB024034_15 A. thaliana
+SCP160 required for maintenance of exact ploidy
+SCS2 required for inositol metabolism
+OPI1 negative regulator of phospholipid biosynthesis pathway
+YGR086c strong similarity to hypothetical protein YPL004c
+NUM1 nuclear migration protein
+STT4 phosphatidylinositol-4-kinase
+OSH2 similarity to SWH1P
+SWH1 similarity to mammalian oxysterol-binding proteins
+SDS22 regulatory subunit for the mitotic function of type I protein phosphatase
+PGI1 glucose-6-phosphate isomerase
+NUP85 nuclear pore protein
+NUP84 nuclear pore protein
+NUP120 nuclear pore protein
+SEC16 multidomain vesicle coat protein
+NUP145 nuclear pore protein
+SEC23 component of COPII coat of ER-golgi vesicles
+STM1 specific affinity for guanine-rich quadruplex nucleic acids
+SEC62 ER protein-translocation complex subunit
+SEC66 ER protein-translocation complex subunit
+SEC63 ER protein-translocation complex subunit
+ANP1 required for protein glycosylation in the golgi
+SEC72 ER protein-translocation complex subunit
+MNN10 subunit of mannosyltransferase complex
+KTR3 alpha-1,2-mannosyltransferase
+CSE1 importin-beta-like protein
+YFR044c similarity to hypothetical protein YBR281c
+SER3 3-phosphoglycerate dehydrogenase
+SER33 3-phosphoglycerate dehydrogenase
+PHO12 secreted acid phosphatase
+SET2 enhancer of zeste-like
+YGR250c weak similarity to human cleavage stimulation factor 64K chain
+SHM2 serine hydroxymethyltransferase, cytoplasmic
+HOS2 putative histone deacetylase
+YKR029c similarity to YJL105w and Lentinula MFBA protein
+MOT2 transcriptional repressor
+YDL076c weak similarity to hypothetical protein S. pombe
+TUP1 general transcription repressor
+ABF2 high mobility group protein
+SIR2 silencing regulatory protein and DNA-repair protein
+SIR4 silencing regulatory and DNA-repair protein
+BGL2 endo-beta-1,3-glucanase of the cell wall
+NET1 required for rDNA silencing and nucleolar integrity
+SIS1 heat shock protein
+SAP190 SIT4P-associated protein
+SAP155 SIT4P-associated protein
+SAP185 SIT4P-associating protein
+YOR267c similarity to ser/thr protein kinases
+CDC25 GDP/GTP exchange factor for RAS1P and RAS2P
+YKL195w similarity to rabbit histidine-rich calcium-binding protein
+YNL101w similarity to YKL146w
+YNL187w hypothetical protein
+CCT2 chaperonin of the TCP1 ring complex, cytosolic
+SLA1 cytoskeleton assembly control protein
+BZZ1 similarity to S.pombe hypothetical protein and human protein-tyrosine kinase fer
+Unknow protein !!!
+YPR171w hypothetical protein
+INP52 phosphatidylinositol phosphate phosphatase
+ECM25 involved in cell wall biogenesis and architecture
+SLC1 fatty acyltransferase
+SLU7 pre-mRNA splicing factor affecting 3' splice site choice
+PRP18 U5 snRNA-associated protein
+SLY1 hydrophilic suppressor of YPT1 and member of the SEC1P family
+SEC17 transport vesicle fusion protein
+YKT6 SNARE protein for Endoplasmic Reticulum-Golgi transport
+SMD1 snRNA-associated protein
+SME1 spliceosomal snRNA-associated Sm core protein required for mRNA splicing, also likely associated with telomerase TLC1 RNA
+SMX2 snRNP G protein (the homologue of the human Sm-G)
+YJR084w weak similarity to S.pombe hypothetical protein SPAC1B3.08
+BRR1 involved in snRNP biogenesis
+MSL1 U2 snRNA-associated protein with similarity to U2B
+SMY2 kinesin-related protein
+SNF1 carbon catabolite derepressing ser/thr protein kinase
+SNF4 nuclear regulatory protein
+PAK1 DNA polymerase alpha suppressing protein kinase
+SIP2 dominant suppressor of some ts mutations in RPO21 and PRP4
+SIP1 multicopy suppressor of SNF1
+GAL83 glucose repression protein
+SNF5 component of SWI/SNF transcription activator complex
+SNF6 global transcription activator
+Unknow protein !!!
+SNF12 component of SWI/SNF global transcription activator complex
+YFL049w weak similarity to NPL6P
+SPE3 putrescine aminopropyltransferase (spermidine synthase)
+SPE4 spermine synthase
+SPF1 P-type ATPase
+SPO7 meiotic protein
+NEM1 required for nuclear morphology
+PRP38 pre-mRNA splicing factor
+POB3 protein that binds to DNA polymerase I (PolI)
+SPT6 transcription elongation protein
+Unknow protein !!!
+TAF17 TFIID and SAGA subunit
+NGG1 general transcriptional adaptor or co-activator
+UBP8 similarity to mouse deubiquitinating enzyme and UBP13P,UBP9,DOA4P
+YGL066w similarity to human ATAXIN 7
+SPT8 transcriptional adaptor or co-activator
+GCN5 histone acetyltransferase
+HFI1 transcriptional coactivator
+YCL010c strong similarity to Saccharomyces pastorianus hypothetical protein LgYCL010c
+SPT20 member of the TBP class of SPT proteins that alter transcription site selection
+SSN8 DNA-directed RNA polymerase II holoenzyme  and Kornberg's mediator (SRB) subcomplex subunit, cyclin C homolog
+MLP1 myosin-like protein related to USO1P
+SRP101 signal recognition particle receptor, alpha chain
+SRP102 signal recognition particle receptor, beta chain
+SRP54 signal recognition particle subunit
+SEC65 signal recognition particle subunit
+SRP21 signal recognition particle subunit
+SRP14 signal recognition particle subunit
+SRP72 signal recognition particle protein
+SRP68 signal recognition particle protein
+SSA1 heat shock protein of HSP70 family, cytosolic
+SSE1 heat shock protein of HSP70 family
+TSA1 thiol-specific antioxidant
+SSF1 mating protein
+EBP2 required for pre-rRNA processing and ribosomal subunit assembly
+STE20 ser/thr protein kinase of the pheromone pathway
+BUR2 divergent CDK-cyclin complex
+YKL214c weak similarity to mouse transcriptional coactivator ALY
+SEN1 positive effector of tRNA-splicing endonuclease
+YDL175c weak similarity to cellular nucleic acid binding proteins
+RLR1 regulatory protein
+MSH4 meiosis-specific protein
+SGV1 ser/thr protein kinase
+SUA7 TFIIB subunit (transcription initiation factor), factor E
+IST2 weak similarity to calcium and sodium channel proteins
+SUP35 eukaryotic peptide chain release factor GTP-binding subunit
+VPS5 involved in Golgi retention and vacuolar sorting
+MIP6 similarity to PES4 a PAB-like protein
+Unknow protein !!!
+SEN54 tRNA splicing endonuclease alpha subunit
+YJL017w weak similarity to YLR187w
+TAF47 component of the TBP-associated protein complex
+TAF40 TFIID subunit (TBP-associated factor), 40KD
+Unknow protein !!!
+MNN4 regulates the mannosylphosphorylation
+MPT1 required for protein synthesis
+TAF61 TFIID and SAGA subunit
+TAF19 TFIID subunit (TBP-associated factor), 19 kD
+TAF67 TFIID subunit (TBP-associated factor), 67 kD
+TAF25 TFIID and SAGA subunit
+PTC1 protein serine/threonine phosphatase 2c
+MES1 methionyl-tRNA synthetase
+HEM13 coproporphyrinogen III oxidase
+TAP42 component of the Tor signaling pathway
+CCT7 component of chaperonin-containing T-complex
+TAT1 amino acid permease
+YPL233w weak similarity to hypothetical protein S. pombe
+TEF2 translation elongation factor eEF1 alpha-A chain, cytosolic
+CAM1 translation elongation factor eEF1 gamma homologue
+EFB1 translation elongation factor eEF1beta
+MGA2 may be involved in the remodeling chromatin structure
+NEW1 similarity to translation elongation factor eEF3
+TFA1 TFIIE subunit (transcription initiation factor), 66 kD
+TFC1 TFIIIC (transcription initiation factor) subunit, 95 kD
+TFC8 RNA Polymerase III transcription initiation factor TFIIIC (tau), 60 kDa subunit
+TFC6 TFIIIC (transcription initiation factor) subunit, 91 kD
+TFC4 TFIIIC (transcription initiation factor) subunit, 131 kD
+TFC3 TFIIIC (transcription initiation factor) subunit, 138 kD
+THI3 positive regulation factor of thiamin metabolism
+FUN11 strong similarity to GTP-binding proteins
+APG9 integral membrane protein required for Cvt and autophagy transport
+KTR5 putative mannosyltransferase
+TIP1 esterase
+TKL2 transketolase 2
+TKL1 transketolase 1
+TOA1 TFIIA subunit (transcription initiation factor), 32 kD
+TOA2 TFIIA subunit (transcription initiation factor), 13.5 kD
+TOS1 similarity to hypothetical protein YJL171c
+SCJ1 homolog of E. coli DnaJ, functions in the endoplasmic reticulum by interaction with KAR2P
+YOR1 ATP-binding cassette transporter protein
+RRD2 strong similarity to human phosphotyrosyl phosphatase activator
+YGR161c hypothetical protein
+TPK2 cAMP-dependent protein kinase 2, catalytic chain
+BCY1 cAMP dependent protein kinase, regulatory subunit
+TPK3 cAMP-dependent protein kinase 3, catalytic chain
+TPS1 alpha,alpha-trehalose-phosphate synthase, 56 KD subunit
+YIL177c strong similarity to subtelomeric encoded proteins
+TPS3 alpha,alpha-trehalose-phosphate synthase, 115 KD subunit
+TPS2 alpha,alpha-trehalose-phosphate synthase, 102 KD subunit
+GLN1 glutamate--ammonia ligase
+DAL3 ureidoglycolate hydrolase
+YMR251w strong similarity to YKR076w and YGR154c
+TSC10 3-ketosphinganine reductase
+MKS1 pleiotropic regulatory factor
+CTR3 copper transport protein
+TSL1 alpha,alpha-trehalose-phosphate synthase, 123 KD subunit
+TRM5 strong similarity to N.crassa met-10+ protein
+TRP2 anthranilate synthase component I
+TRP3 anthranilate synthase component II
+SKN1 glucan synthase subunit
+TSM1 component of TFIID complex
+TAF65 TBP Associated Factor 65 KDa
+TUB4 gamma tubulin
+SPC98 spindle pole body component
+SPC97 spindle pole body component
+TYR1 prephenate dehydrogenase (NADP+)
+UBA3 ubiquitin-like protein activating enzyme
+ULA1 involved in protein modification
+UBC1 E2 ubiquitin-conjugating enzyme
+UBC8 E2 ubiquitin-conjugating enzyme
+UBP14 ubiquitin specific protease
+UBP15 similarity to human ubiquitin-specific protease
+YDR111c strong similarity to alanine transaminase
+YJR098c weak similarity to Bacillus licheniformis esterase
+DRE2 weak similarity to C.elegans hypothetical protein
+YPR115w similarity to probable transcription factor ASK10P, and to YNL047c and YIL105c
+ACE2 metallothionein expression activator
+HTM1 similarity to alpha-mannosidases
+ECM30 involved in cell wall biogenesis and architecture
+BCK1 ser/thr protein kinase of the MEKK family
+YNL313c similarity to C.elegans hypothetical protein
+YBL044w hypothetical protein
+UGP1 UTP--glucose-1-phosphate uridylyltransferase
+URA6 uridine-monophosphate kinase
+URA7 CTP synthase 1
+FDH1 strong similarity to H.polymorpha formate dehydrogenase
+VMA2 H+-ATPase V1 domain 60 KD subunit, vacuolar
+VMA6 H+-ATPase V0 domain 36 KD subunit, vacuolar
+VMA5 H+-ATPase V1 domain 42 KD subunit, vacuolar
+VMA10 H+-transporting ATPase V0 domain 13 KD subunit, vacuolar
+RAV1 similarity to Drosophila DmX gene
+VMA7 H+-ATPase V1 domain 14 kDa subunit, vacuolar
+VMA8 H+-ATPsynthase V1 domain 32 KD subunit, vacuolar
+VPH1 H+-ATPase V0 domain 95K subunit, vacuolar
+VPS27 vacuolar protein sorting-associated protein
+YHL002w weak similarity to mammalian signal transducing adaptor
+VPS29 involved in vacuolar protein sorting
+VPS35 protein-sorting protein, vacuolar
+VPS4 vacuolar sorting protein
+SNF7 class E Vps protein
+BRO1 required for normal response to nutrient limitation
+VAM6 vacuolar carboxypeptidase Y
+VPS45 vacuolar protein sorting-associated protein
+VTI1 v-SNARE: involved in Golgi retrograde protein traffic
+TLG2 member of the syntaxin family of t-SNAREs
+TLG1 member of the syntaxin family of t-SNAREs
+VRP1 verprolin
+YPT7 GTP-binding protein of the RAB family
+SWP1 oligosaccharyltransferase delta subunit
+FUN30 similarity to helicases of the SNF2/RAD54 family
+YAL027w hypothetical protein
+RAD1 component of the nucleotide excision repairosome
+RAD10 DNA repair protein
+FUN19 similarity to hypothetical protein YOR338w
+YAL049c weak similarity to Legionella small basic protein sbpA
+YAL053w strong similarity to hypothetical proteins YOR365c,YGL139w,YPL221w
+PDR5 pleiotropic drug resistance protein
+DRS2 P-type amino-phospholipids-ATPase
+YML072c similarity to YOR3141c and YNL087w
+FUN50 similarity to alcohol/sorbitol dehydrogenase
+SWD1 similarity to human RB protein binding protein
+SPP1 weak similarity to fruit fly polycomblike nuclear protein
+SWD3 similarity to S.pombe beta-transducin
+SET1 involved in chromatin-mediated gene regulation
+BRE2 weak similarity to S.pombe hypothetical protein SPBC13G1
+SDC1 weak similarity to D. melanogaster hypothetical protein
+YBL032w weak similarity to hnRNP complex protein homolog YBR233w
+YBL036c strong similarity to C.elegans hypothetical protein
+TRM3 tRNA (guanosine-2'-O-)-methyltransferase
+PIN4 similarity to S.pombe Z66568_C protein
+YBL064c strong similarity to thiol-specific antioxidant enzyme
+YBR007c hypothetical protein
+YBR028c similarity to ribosomal protein kinases
+YBR030w weak similarity to  regulatory protein MSR1P
+YBR052c strong similarity to S.pombe brefeldin A resistance protein obr1
+YBR056w similarity to glucan 1,3-beta-glucosidase
+YBR094w weak similarity to pig tubulin-tyrosine ligase
+YBR101c weak similarity to S.pombe hypothetical protein SPBC3B9.01
+YBR139w strong similarity to carboxypeptidase
+YBR204c weak similarity to peroxisomal serine-active lipase
+YBR216c strong similarity to hypothetical protein YGL060w
+YBR225w hypothetical protein
+YBR238c strong similarity to general chromatin factor SPT16P
+YBR246w similarity to TREMBL:SPCC18_15 hypothetical protein,  S. pombe
+YBR287w similarity to hypothetical S. pombe protein
+YDL033c similarity to H.influenzae hypothetical protein HI0174
+YNL207w similarity to M.jannaschii hypothetical protein MJ1073
+YOR145c strong similarity to hypothtical S. pombe protein and to hypothetical C. elegans protein
+DIM1 rRNA (adenine-N6,N6-)-dimethyltransferase
+UME6 negative transcriptional regulator
+DOT6 involved in derepression of telomeric silencing
+YDL086w similarity to hypothetical Synechocystis protein
+YDL100c similarity to E.coli arsenical pump-driving ATPase
+YDL219w strong similarity to S.equisimilis hypothetical protein
+SNU13 component of the U4/U6.U5 snRNP
+YDR196c similarity to C.elegans hypothetical protein T05G5.5
+YDR430c similarity to C.perfringens hypothetical hypA protein
+YER007c-a strong similarity to C.elegans AF045640 and S.pombe SPBC31F10
+YJR014w strong similarity to S.pombe hypothetical protein SPBC16C6.05
+YER156c similarity to hypothetical C. elegans protein C27H6.5
+YGR001c similarity to C.elegans hypothetical M142.5 protein
+YLR003c weak similarity to PIR:T39953 hypothetical protein SPBC23G7.07c S. pombe
+RRP7 involved in pre-rRNA processing and ribosome assembly
+YHL021c weak similarity to Pseudomonas gamma-butyrobetaine hydroxylase
+YGR102c hypothetical protein
+YIL110w weak similarity to hypothetical C.elegans protein
+YJL060w similarity to kynurenine aminotransferase and glutamine-phenylpyruvate transaminase
+YOR059c weak similarity to YGL144c
+DIA4 strong similarity to seryl-tRNA synthetases
+Unknow protein !!!
+TYE7 basic helix-loop-helix transcription factor
+YKR079c similarity to S.pombe hypothetical protein SPAC1D4.10
+NUC1 nuclease, mitochondrial
+YLL034c similarity to mammalian valosin
+SPB1 required for ribosome synthesis, putative methylase
+YER139c similarity to hypothetical protein YDR066c
+YKU70 high-affinity DNA-binding protein
+YKU80 component of DNA end-joining repair pathway
+PUF3 transcript-specific regulator of mRNA degradation
+YLR179c similarity to TFS1P
+YML059c similarity to C.elegans ZK370.4 protein
+YML096w similarity to asparagine synthases
+YMR110c similarity to aldehyde dehydrogenase
+YNK1 nucleoside diphosphate kinase
+YNL045w strong similarity to human leukotriene-A4 hydrolase
+YNL092w similarity to hypothetical C. elegans proteins Y48E1C.2 and Y48E1C.c
+YNL127w similarity to C.elegans hypothetical protein
+TPI1 triose-phosphate isomerase
+FAR3 involved in pheromone-mediated cell cycle arrest
+HFM1 DNA/RNA helicase
+Unknow protein !!!
+RGA2 similarity to Dbm1p and to the rat GAP-associated protein p190
+YGR054w similarity to C.elegans E04D5.1 protein
+ATP2 F1F0-ATPase complex, F1 beta subunit
+YNR046w strong similarity to S.pombe hypothetical protein SPAC31A2.02
+YML014w strong similarity to S.pombe hypothetical protein, similarity to C.elegans hypothetical protein
+YOL124c weak similarity to M.jannaschii hypothetical protein
+YOL027c similarity to YPR125w
+YOL057w similarity to hypothetical C. elegans protein F02E9.6
+YOL093w similarity to C.elegans hypothetical protein F25H8.1
+YOL125w similarity to hypothetical protein D. melanogaster
+YOR006c similarity to M.jannaschii hypothetical protein MJ0708
+YOR164c similarity to conserved hypothetical protein S. pombe
+YOR356w strong similarity to human electron transfer flavoprotein-ubiquinone oxidoreductase
+YPL225w strong similarity to hypothetical protein SPBC3E7.07c S. pombe
+YPL236c similarity to PRK1P, and  serine/threonine protein kinase homolog from A. thaliana
+YPR004c strong similarity to electron transfer flavoproteins alpha chain
+ZPR1 similarity to M.musculus zinc finger protein ZPR1
+ZWF1 glucose-6-phosphate dehydrogenase
+CDC13 cell division control protein
+ECM10 heat shock protein of HSP70 family
+ADH4 alcohol dehydrogenase IV
+GPH1 glycogen phosphorylase
+Unknow protein !!!
+HXT7 high-affinity hexose transporter
+SAS10 involved in silencing
+ATP4 F1F0-ATPase complex, F0 subunit B
+CRZ1 calcineurin responsive zinc-finger
+ACO1 aconitate hydratase
+GAS1 glycophospholipid-anchored surface glycoprotein
+Unknow protein !!!
+MDH1 malate dehydrogenase precursor, mitochondrial
+SFB3 similarity to human hypothetical protein
+YKL056c strong similarity to human IgE-dependent histamine-releasing factor
+YOR215c similarity to M.xanthus hypothetical protein
+ABP1 actin-binding protein
+SGM1 similarity to paramyosin, myosin
+OYE2 NADPH dehydrogenase (old yellow enzyme), isoform 1
+SEC2 protein transport protein
+EGD2 alpha subunit of the nascent polypeptide-associated complex
+MGE1 heat shock protein - chaperone
+NPI46 proline cis-trans isomerase
+HSP104 heat shock protein
+TGL1 triacylglycerol lipase
+Unknow protein !!!
+HYP2 translation initiation factor eIF5A.1
+YPL004c strong similarity to YGR086c
+PHR1 deoxyribodipyrimidine photo-lyase
+MSD1 aspartate--tRNA ligase, mitochondrial
+BBC1 similarity to S.pombe hypothetical protein SPAC23A1.16
+GSY2 UDP-glucose--starch glucosyltransferase, isoform 2
+RHO2 GTP-binding protein of the RHO subfamily of RAS-like proteins
+VPS21 GTP-binding protein
+POR1 mitochondrial outer membrane porin
+MER1 meiotic recombination protein
+RRP5 processing of pre-ribosomal RNA
+HTS1 histidine--tRNA ligase, mitochondrial
+YDR200c similarity to hypothetical protein YLR238w
+YFR008w weak similarity to human centromere protein E
+YMR029c weak similarity to human nuclear autoantigen
+PHO84 high-affinity inorganic phosphate/H+ symporter
+FET4 low affinity Fe(II) iron transport protein
+PST2 strong similarity to S.pombe obr1 brefeldin A resistance protein
+Unknow protein !!!
+RVB1 RUVB-like protein
+ATP3 F1F0-ATPase complex, F1 gamma subunit
+IMH1 involved in vesicular transport
+CDC54 member of the CDC46P/MCM2P/MCM3P family
+KAP122 Member of the karyopherin-beta family, nuclear import
+ADR1 zinc-finger transcription factor
+FET3 cell surface ferroxidase, high affinity
+YPT6 GTP-binding protein of the rab family
+YPT32 small GTP-binding protein essential for Golgi function
+STE11 ser/thr protein kinase of the MEKK family
+YPT10 similarity to GTP-binding proteins
+SEC4 GTP-binding protein of the ras superfamily
+YDR131c similarity to hypothetical protein YJL149w
+YFR003c strong similarity to hypothetical protein SPAC6B12.13 - S.pombe
+PDC5 pyruvate decarboxylase, isozyme 2
+GSY1 UDP glucose--starch glucosyltransferase, isoform 1
+SCD5 suppressor of clathrin deficiency
+GLC8 regulatory subunit for protein ser/thr phosphatase GLC7P
+YDR412w similarity to hypothetical protein SPAC29A4.09 - S. pombe
+FIN1 weak similarity to sea urchin myosin heavy chain
+Unknow protein !!!
+YHR112c similarity to cystathionine gamma-synthases
+TRP5 tryptophan synthase
+SRY1 strong similarity to E.coli and H.influenzae threonine dehydratases
+PYC2 pyruvate carboxylase 2
+GND1 6-phosphogluconate dehydrogenase
+PYC1 pyruvate carboxylase 1
+TBS1 weak similarity to transcription factors
+ARF1 small GTP-binding protein of the ARF family
+URE2 nitrogen catabolite repression regulator
+ACH1 acetyl-CoA hydrolase
+YDR453c strong similarity to thiol-specific antioxidant proteins
+NGL2 similarity to CCR4P
+ISA2 mitochondrial protein required for iron metabolism
+RVS167 reduced viability upon starvation protein
+KRI1 similarity to S.pombe and C.elegans hypothetical proteins
+YFL042c similarity to hypothetical protein YLR072w
+ADH2 alcohol dehydrogenase II
+DOP1 strong similarity to Emericella nidulans developmental regulatory gene, dopey (dopA)
+YDR266c similarity to hypothetical C.elegans protein
+MMS2 part of the error-free postreplication repair pathway
+IRA2 GTPase-activating protein for RAS proteins
+YOR220w hypothetical protein
+RSP5 hect domain E3 ubiquitin-protein ligase
+UBC13 E2 ubiquitin-conjugating enzyme
+WHI2 growth regulation protein
+CSR2 similarity to YBL101c
+SAT4 serine/threonine-specific protein kinase
+PHO85 cyclin-dependent protein kinase
+CAF20 mRNA CAP-binding protein (eIF4F), 20K subunit
+NOP13 similarity to S.pombe Rnp24p, NSR1P and human splicing factor
+SPC72 STU2P Interactant
+YDR229w similarity to hypothetical protein N. crassa
+GSF2 involved in glucose repression
+HXT5 member of the hexose transporter family
+RMT2 N-delta-arginine methyltransferase
+YMR196w strong similarity to hypothetical protein Neurospora crassa
+FAA4 long-chain-fatty-acid--CoA ligase
+NDH1 mitochondrial cytosolically directed NADH dehydrogenase
+FAA1 long-chain-fatty-acid--CoA ligase
+MAE1 malic enzyme
+YJR072c strong similarity to C.elegans hypothetical protein and similarity to YLR243w
+YGL081w hypothetical protein
+UBR1 ubiquitin-protein ligase
+PPQ1 phosphoprotein phosphatase
+TPK1 cAMP-dependent protein kinase 1, catalytic chain
+RIM15 protein kinase involved in expression of meiotic genes
+TCP1 component of chaperonin-containing T-complex
+Unknow protein !!!
+SSK2 MAP kinase kinase kinase of the high osmolarity signal transduction pathway
+AAC3 ADP/ATP carrier protein (MCF)
+CIS1 involved in suppression of CIK1 mutation
+YPL166w weak similarity to paramyosins
+SAH1 S-adenosyl-L-homocysteine hydrolase
+FOL2 GTP cyclohydrolase I
+RHR2 DL-glycerol phosphatase
+APG17 protein involved in authophagy
+YNL063w weak similarity to Mycoplasma protoporphyrinogen oxidase
+YPR085c hypothetical protein
+COF1 cofilin, actin binding and severing protein
+SOD1 copper-zinc superoxide dismutase
+MYO3 myosin type I
+PGM2 phosphoglucomutase, major isoform
+CMK2 Ca2+/calmodulin-dependent ser/thr protein kinase, type II
+HCH1 strong similarity to YDR214w
+UBA1 E1-like (ubiquitin-activating) enzyme
+CMP2 calcineurin B, catalytic subunit
+YAK1 ser/thr protein kinase
+GDB1 similarity to human 4-alpha-glucanotransferase (EC 2.4.1.25)/amylo-1,6-glucosidase (EC 3.2.1.33)
+YPL247c similarity to human HAN11 protein and petunia an11 protein
+AHP1 Alkyl hydroperoxide reductase
+YLR270w strong similarity to YOR173w
+YLR241w similarity to hypothetical S.pombe protein SPAC2G11.09
+YNL094w similarity to S.pombe hypothetical protein
+SPS1 ser/thr protein kinase
+PRB1 protease B, vacuolar
+IDH1 isocitrate dehydrogenase (NAD+) subunit 1, mitochondrial
+YKR046c hypothetical protein
+YHR033w strong similarity to glutamate 5-kinase
+Unknow protein !!!
+SDH2 succinate dehydrogenase iron-sulfur protein subunit
+CPR6 member of the cyclophilin family
+Unknow protein !!!
+SER1 phosphoserine transaminase
+STI1 stress-induced protein
+YDL025c similarity to probable protein kinase NPR1
+YHR009c similarity to S.pombe hypothetical protein
+YGR016w weak similarity to M.jannaschii hypothetical protein MJ1317
+YNL116w weak similarity to RING zinc finger protein from Gallus gallus
+YNL311c hypothetical protein
+YPL110c similarity to C.elegans hypothetical protein, weak similarity to PHO81P
+YNL035c similarity to hypothetical protein S. pombe
+Unknow protein !!!
+BUB2 cell cycle arrest protein
+ISM1 isoleucine--tRNA ligase, mitochondrial
+RAD54 DNA-dependent ATPase of the SNF2P family
+SAC6 actin filament bundling protein, fimbrin
+TRR1 thioredoxin reductase (NADPH)
+HTB1 histone H2B
+CNB1 calcineurin B, regulatory subunit
+KRE6 glucan synthase subunit
+CNA1 calcineurin B, catalytic subunit
+PDC6 pyruvate decarboxylase 3
+GPD2 glycerol-3-phosphate dehydrogenase (NAD+), mitochondrial
+GPD1 glycerol-3-phosphate dehydrogenase (NAD+), cytoplasmic
+MSI1 chromatin assembly complex, subunit p50
+UBI4 ubiquitin
+DUN1 protein kinase
+FAR1 cyclin-dependent kinase inhibitor (CKI)
+YLR368w weak similarity to Mus musculus F-box protein FBA
+GSP2 GTP-binding protein of the RAS superfamily
+GSP1 GTP-binding protein of the ras superfamily
+PSD1 phosphatidylserine decarboxylase 1
+AYR1 1-Acyldihydroxyacetone-phosphate reductase
+YDL204w similarity to hypothetical protein YDR233c
+PET9 ADP/ATP carrier protein (MCF)
+ARC1 protein with specific affinity for G4 quadruplex nucleic acids
+YHM2 yeast suppressor gene of HM (mitochondrial histone) mutant (ABF2)
+YDL063c weak similarity to human estrogen-responsive finger protein
+YRB1 ran-specific GTPase-activating protein
+CBP6 apo-cytochrome B pre-mRNA processing protein
+OAC1 similarity to mitochondrial uncoupling proteins (MCF)
+SAC1 recessive suppressor of secretory defect
+HEM15 ferrochelatase precursor
+GRR1 required for glucose repression and for glucose and cation transport
+SKP1 kinetochore protein complex CBF3, subunit D
+CDC53 controls G1/S transition
+PBS2 tyrosine protein kinase of the MAP kinase kinase family
+NBP2 NAP1P-binding protein
+BIO3 DAPA aminotransferase
+LOS1 pre-tRNA splicing protein
+SCW4 similarity to glucanase
+VAC8 required for vacuole inheritance and protein targeting from the cytoplasm to vacuole
+RHO5 similarity to S.pombe CDC42P and other GTP-binding proteins
+CAF4 CCR4 associated factor
+ENT2 clathrin binding protein, required for endocytosis
+YBL029w hypothetical protein
+OSH7 similarity to KES1P
+CCT3 chaperonin of the TCP1 ring complex, cytosolic
+YPL150w similarity to ser/thr protein kinases
+YCK1 casein kinase I isoform
+YGR111w weak similarity to mosquito carboxylesterase
+LYS1 saccharopine dehydrogenase
+YGR154c strong similarity to hypothetical proteins YKR076w and YMR251w
+SNO2 strong similarity to hypothetical proteins YFL060c and YMR095c
+YPT53 GTP-binding protein of the RAB family (RAS superfamily)
+MPC54 meiosis-specific component of the SPB
+YCK3 casein kinase, isoform 3
+YCK2 casein kinase I isoform
+THI22 similarity to B.subtilis transcriptional activator tenA
+THI21 similarity to B.subtilis transcriptional activator tenA, and strong similarity to hypothetical proteins YOL055c and YPR121w
+YMR226c similarity to ketoreductases
+OYE3 NAPDH dehydrogenase (old yellow enzyme), isoform 3
+YBL108w strong similarity to subtelomeric encoded proteins
+YJL207c weak similarity to rat omega-conotoxin-sensitive calcium channel alpha-1 subunit rbB-I
+ILV5 ketol-acid reducto-isomerase
+HOM6 homoserine dehydrogenase
+ARG1 argininosuccinate synthetase
+YLR243w strong similarity to YOR262w
+PMI40 mannose-6-phosphate isomerase
+UBP7 ubiquitin carboxy terminal hydrolase
+GYP5 similarity to mouse Tbc1 protein
+RVS161 similarity to human amphiphysin and RVS167P
+DED1 ATP-dependent RNA helicase
+YMR155w weak similarity to E.coli hypothetical protein f402
+YEL064c similarity to YBL089w
+YRF1-3 strong similarity to YPL283c; YNL339c and other Y' encoded proteins
+YCL039w similarity to TUP1P general repressor of RNA polymerase II transcription
+VID30 weak similarity to human RANBPM NP_005484.1
+YMR135c weak similarity to conserved hypothetical protein S. pombe
+YBL049w strong similarity to hypothetical protein - human
+VID28 similarity to S. pombe SPAC26H5.04 protein of unknown function
+FYV10 weak similarity to erythroblast macrophage protein EMP  Mus musculus
+YDR255c weak similarity to hypothetical S.pombe hypothetical protein SPBC29A3
+FKH1 forkhead protein, involved in transcriptional silencing, cell morphology and cell cycle
+YGR017w weak similarity to TRCDSEMBL:AC006418_11 A. thaliana
+UBP12 ubiquitin C-terminal hydrolase
+YMR144w weak similarity to MLP1P
+PMA2 H+-transporting P-type ATPase, minor isoform, plasma membrane
+PMA1 H+-transporting P-type ATPase, major isoform, plasma membrane
+YHR186c similarity to C.elegans hypothetical protein C10C5.6
+HXT6 high-affinity hexose transporter
+YGR130c weak similarity to myosin heavy chain proteins
+NSR1 nuclear localization sequence binding protein
+PPZ2 protein ser/thr phosphatase of the PP-1 family
+DIG2 MAP kinase-associated protein, down-regulator of invasive growth and mating
+KSS1 ser/thr protein kinase of the MAP kinase family
+BUD13 weak similarity to C.elegans hypothetical protein R08D7.1
+KIP3 kinesin-related protein required for nuclear migration
+PIB1 phosphatidylinositol(3)-phosphate binding protein
+YGL146c hypothetical protein
+HOM2 aspartate-semialdehyde dehydrogenase
+THR4 threonine synthase (o-p-homoserine p-lyase)
+AAT2 aspartate aminotransferase, cytosolic
+YGL020c weak similarity to TRCDSEMBL:SPBC543_10 putative coiled-coil protein S. pombe
+MSN4 transcriptional activator
+YER083c hypothetical protein
+YBR014c similarity to glutaredoxin
+HPR5 ATP-dependent DNA helicase
+SEC53 phosphomannomutase
+YML093w similarity to P.falciparum liver stage antigen LSA-1
+YKR096w similarity to mitochondrial aldehyde dehydrogenase Ald1p
+PTC5 putative 2C protein phosphatase (PP2Cs)
+YOR054c similarity to SIS2P protein and C.tropicalis hal3 protein
+HOM3 L-aspartate 4-P-transferase
+MOG1 GSP1-interacting protein
+SRM1 GDP/GTP exchange factor for GSP1P/GSP2P
+CHK1 regulats inhibitory Cdk phosphorylation of PDS1
+YLR152c similarity to YOR3165w and YNL095c
+CTR1 copper transport protein
+YNL213c similarity to hypothetical protein Neurospora crassa
+YGL220w weak similarity to V.alginolyticus bolA protein
+GRX4 member of the subfamily of yeast glutaredoxins (Grx3, GRX4, and Grx5)
+GRX3 member of the subfamily of yeast glutaredoxins (Grx3, GRX4, and Grx5)
+YLL029w similarity to M.jannaschii X-Pro dipeptidase and S.pombe hypothetical protein
+BFA1 spindle assembly checkpoint protein
+YGL121c hypothetical protein
+STE23 protease involved in a-factor processing
+KEX2 endoproteinase of late golgi compartment
+RGP1 reduced growth phenotype protein
+QNS1 weak similarity to B.subtilis spore outgrowth factor B
+CAF120 similarity to YLR187w
+YOR154w similarity to hypothetical A. thaliana proteins F19G10.15 and T19F06.21
+CMK1 Ca2+/calmodulin-dependent ser/thr protein kinase type I
+VPH2 H+-ATPase assembly protein
+YGR280c weak similarity to CBF5P
+PRP12 involved in early maturation of pre-rRNA
+RPN1 26S proteasome regulatory subunit
+GYP6 GTPase-activating protein
+DED81 asparaginyl-tRNA-synthetase
+EGD1 GAL4 DNA-binding enhancer protein
+CDC9 DNA ligase
+POL30 Proliferating Cell Nuclear Antigen (PCNA)
+YOR378w strong similarity to aminotriazole resistance protein
+YGR210c similarity to M.jannaschii GTP-binding protein and to M.capricolum hypothetical protein SGC3
+PDI1 protein disulfide-isomerase precursor
+ALA1 alanyl-tRNA synthetase, cytosolic
+YDL124w similarity to aldose reductases
+ACS2 acetyl-coenzyme A synthetase
+ADE17 5-aminoimidazole-4-carboxamide ribotide transformylase
+GCY1 galactose-induced protein of aldo/keto reductase family
+ERG20 farnesyl-pyrophosphate synthetase
+GRS1 glycine--tRNA ligase
+APE2 aminopeptidase yscII
+BRR2 RNA helicase-related protein
+IMD3 strong similarity to IMP dehydrogenases, Pur5p and YML056c
+PAB1 mRNA polyadenylate-binding protein
+UFD2 ubiquitin fusion degradation protein
+HEX3 hexose metabolism-related protein
+SSK1 two-component signal transducer
+PTP2 protein-tyrosine-phosphatase
+PCL7 cyclin like protein interacting with PHO85P
+YFL030w similarity to several transaminases
+EXG1 exo-beta-1,3-glucanase (I/II), major isoform
+SSQ1 mitochondrial heat shock protein 70
+MET6 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+MUB1 involved in budding
+UBR2 similarity to ubiquitin--protein ligase UBR1P
+PIB2 phosphatidylinositol 3-phosphate binding
+DIP5 dicarboxylic amino acid permease
+Unknow protein !!!
+UBC12 E2 ubiquitin-conjugating enzyme
+REX2 putative 3'-5' exonuclease
+TOS3 strong similarity to PAK1P, ELM1P and KIN82P
+Unknow protein !!!
+WTM2 transcriptional modulator
+WTM1 transcriptional modulator
+YOR283w weak similarity to phosphoglycerate mutases
+SPT2 multifunctional HMG-like chromatin protein
+YNL040w weak similarity to M.genitalium alanine--tRNA ligase
+PKH2 similarity to ser/thr protein kinases
+YGR033c weak similarity to TRCDSEMBLNEW:AP002861_10 Oryza sativa
+YJL122w weak similarity to dog-fish transition protein S2
+GPI15 sequence and functional homologue of human Pig-H protein
+YGL068w strong similarity to Cricetus mitochrondial ribosomal L12 protein
+PRS3 ribose-phosphate pyrophosphokinase
+YTA6 similarity to VPS4P and YER047c
+APG12 component of the autophagic system
+CVT9 similarity to USO1P
+AAC1 ADP/ATP carrier protein (MCF)
+YHR076w weak similarity to C.elegans hypothetical protein CEW09D10
+PPX1 exopolyphosphatase
+MET10 sulfite reductase flavin-binding subunit
+YNL208w weak similarity to Colletotrichum gloeosporioides nitrogen starvation-induced glutamine rich protein
+SEC18 vesicular-fusion protein, functional homolog of NSF
+YOR086c weak similarity to synaptogamines
+RAD55 DNA repair protein
+(MLP1) strong similarity to ser/thr-specific protein kinase SLT2P
+HPR1 hyperrecombination protein related to TOP1P
+MFT1 mitochondrial fusion target protein
+SUB2 probably involved in pre-mRNA splicing
+YPK2 ser/thr protein kinase
+PET112 required to maintain rho+ mitochondrial DNA
+YEL023c similarity to hypothetical protein PA2063 - Pseudomonas aeruginosa
+THS1 threonyl tRNA synthetase, cytosolic
+YDR341c arginyl-tRNA synthetase, cytosolic
+URA1 dihydroorotate dehydrogenase
+MLP2 involved in translocation of macromolecules between the nucleoplasm and the NPC
+RAS2 GTP-binding protein
+IRA1 inhibitory regulator protein of the ras-cyclic AMP pathway
+RAS1 GTP-binding protein
+YBR280c similarity to hypothetical protein S. pombe
+AAH1 adenosine deaminase
+SPH1 required for bipolar bud site selection
+CYC8 general repressor of transcription
+SSY5 part of an extracellular amino acid sensor
+DDC1 DNA damage checkpoint protein
+MEC3 G2-specific checkpoint protein
+SUV3 ATP-dependent RNA helicase, mitochondrial
+DBF20 cell cycle protein kinase related to DBF2P
+AXL1 protease
+MOB1 required for completion of mitosis and maintenance of ploidy
+HEF3 translation elongation factor eEF3 homolog
+ARG4 arginosuccinate lyase
+EAP1 translation initiation factor 4E-associated protein
+YBR187w similarity to mouse putative transmembrane protein FT27
+YCR076c weak similarity to latent transforming growth factor beta binding protein 3'  H. sapiens
+PCT1 cholinephosphate cytidylyltransferase
+GAL7 UDP-glucose--hexose-1-phosphate uridylyltransferase
+YNL181w similarity to hypothetical S. pombe protein
+ERG27 3-keto sterol reductase
+YJR070c similarity to C.elegans hypothetical protein C14A4.1
+YER049w strong similarity to hypothetical S.pombe protein YER049W
+BTN2 Gene/protein whose expression is elevated in a btn1 minus/Btn1p lacking yeast strain
+YKR007w weak similarity to Streptococcus protein M5 precursor
+Unknow protein !!!
+YPR015c similarity to transcription factors
+YHR046c similarity to inositolmonophosphatases
+PSR1 plasma membrane phosphatase involved in sodium stress response
+YLR352w hypothetical protein
+CBK1 strong similarity to U.maydis Ukc1p protein kinase
+SSD1 involved in the tolerance to high concentration of Ca2+
+SGT2 similarity to protein phosphatases
+MOB2 required for maintenance in ploidy
+TUF1 translation elongation factor TU, mitochondrial
+YLR328w strong similarity to YGR010w
+UFD4 similarity to rat ubiquitin ligase Nedd4
+PAC11 required in the absence of CIN8P
+YOR172w similarity to finger protein YKL222c, YOR162c and YLR266c
+DYN2 dynein light chain 1, cytosolic
+DMC1 meiosis-specific protein
+DPM1 dolichyl-phosphate beta-D-mannosyltransferase
+MDJ1 heat shock protein - chaperone
+APT1 adenine phosphoribosyltransferase
+YER077c hypothetical protein
+YKR051w similarity to C.elegans hypothetical protein
+YDR128w weak similarity to SEC27P, YMR131c and human retinoblastoma-binding protein
+LSC1 succinate-CoA ligase alpha subunit
+SOD2 superoxide dismutase (Mn) precursor, mitochondrial
+YBT1 yeast bile transporter
+YLR271w weak similarity to hypothetical protein T04H1.5 C. elegans
+VID31 similarity to glutenin, high molecular weight chain proteins and SNF5P
+MET16 3'-phosphoadenylylsulfate reductase
+YPR003c similarity to sulphate transporter proteins
+SLX1 similarity to hypothetical A.thaliana protein
+PHO86 inorganic phospate transporter
+TEM1 GTP-binding protein of the RAS superfamily
+MSU1 3'-5' exonuclease for RNA 3' ss-tail, mitochondrial
+YML020w hypothetical protein
+ILV2 acetolactate synthase
+MKK2 protein kinase of the map kinase kinase (MEK) family
+RRP3 required for maturation of the 35S primary transcript
+YGR266w hypothetical protein
+YPL222w similarity to C.perfringens hypothetical protein
+HSP12 heat shock protein
+RHO1 GTP-binding protein of the rho subfamily of ras-like proteins
+DLD3 D-lactate dehydrogenase
+ILV3 dihydroxy-acid dehydratase
+FUM1 fumarate hydratase
+YCR001w weak similarity to chloride channel proteins
+MET30 involved in regulation of sulfur assimilation genes and cell cycle progression
+MET4 transcriptional activator of sulfur metabolism
+HRT1 similarity to Lotus RING-finger protein
+RUB1 ubiquitin-like protein
+MET31 transcriptional regulator of sulfur amino acid metabolism
+ELA1 weak similarity to mammalian transcription elongation factor elongin A
+PET127 component of mitochondrial translation system
+MSS116 RNA helicase of the DEAD box family, mitochondrial
+TIS11 tRNA-specific adenosine deaminase 3
+IMD4 strong similarity to IMP dehydrogenases
+MRS6 geranylgeranyltransferase regulatory subunit
+YGR223c weak similarity to hypothetical protein YFR021w
+MLH3 insertion and deletion mismatch repair protein
+CDC20 cell division control protein
+MAD3 spindle-assembly checkpoint protein
+QRI8 E2 ubiquitin-conjugation enzyme
+ZRG17 weak similarity to Anopheles mitochondrial NADH dehydrogenase subunit 2
+YMR102c strong similarity to YKL121w
+YIL104c similarity to hypothetical S. pombe protein
+YNL124w similarity to hypothetical S. pombe protein
+YBR281c similarity to hypothetical protein YFR044c
+GIP2 GLC7P-interacting protein
+YBR203w hypothetical protein
+GAC1 ser/thr phosphoprotein phosphatase 1, regulatory chain
+KNS1 ser/thr protein kinase
+PDS1 cell cycle regulator
+SDF1 similarity to C.elegans C02C2.6 protein
+ATE1 arginyl tRNA transferase
+YMR209c similarity to conserved hypothetical protein S. pombe
+YHR115c strong similarity to hypothetical protein YNL116w
+ERG1 squalene monooxygenase
+ELM1 ser/thr-specific protein kinase
+RLF2 chromatin assembly complex, subunit p90
+CRC1 mitochondrial carnitine carrier, member of the mitochondrial carrier (MCF) family
+YLR097c weak similarity to H. sapiens F-box protein
+GUF1 strong similarity to E. coli elongation factor-type GTP-binding protein lepa
+YJL149w similarity to hypothetical protein YDR131c
+GPA1 GTP-binding protein alpha subunit of the pheromone pathway
+SML1 protein inhibitor of ribonucleotide reductase
+HOR2 DL-glycerol phosphatase
+RNQ1 prion, epigenetic modifier of protein function
+ADH3 alcohol dehydrogenase III
+YGL004c weak similarity to TUP1P
+CAT5 involved in coenzyme Q (ubiquinone) biosynthesis
+YJL068c strong similarity to human esterase D
+IME4 positive transcription factor for IME2
+SCP1 similarity to mammalian smooth muscle protein SM22 and chicken calponin alpha
+RHC18 recombination repair protein
+IMD1 strong similarity to IMP dehydrogenases
+YPR143w hypothetical protein
+SFP1 zinc finger protein
+YOL045w similarity to ser/thr protein kinase
+DIA2 weak similarity to TRCDSEMBL:RNRNAHOP_1 Rattus norvegicus mRNA for Hsp70/Hsp90 organizing protein
+CTF4 DNA-directed DNA polymerase alpha-binding protein
+MCM3 replication initiation protein
+SSF2 protein with a potential role in mating
+SLT2 ser/thr protein kinase of MAP kinase family
+LST4 protein required for regulated transport of nitrogen-regulated permeases from the Golgi to the plasma membrane
+ARE2 acyl-CoA sterol acyltransferase
+YIL007c similarity to C.elegans hypothetical protein
+FHL1 transcriptional activator of the forkhead/hnf3 family
+DOG1 2-deoxyglucose-6-phosphate phosphatase
+YDR398w similarity to human KIAA0007 gene
+SGD1 involved in HOG pathway
+LAP4 aminopeptidase yscI precursor, vacuolar
+CVT19 similarity to YOL083w
+HHT1 histone H3
+BIK1 nuclear fusion protein
+YFL034w similarity to hypothetical S. pombe protein and to C.elegans F35D11 protein
+HMF1 Heat-shock induceable Inhibiter of cell Growth
+DSK2 ubiquitin-like protein
+RIS1 similarity to RAD5 protein
+APG7 component of the autophagic system
+BUD32 weak similarity to protein kinases and M.jannaschii O-sialoglycoprotein endopeptidase homolog
+YKR038c similarity to QRI7P
+YDR279w hypothetical protein
+YML036w weak similarity to C.elegans hypothetical protein CELW03F8
+YOR073w hypothetical protein
+IDP2 isocitrate dehydrogenase, cytosolic
+IMD2 IMP dehydrogenase
+YHL010c similarity to C.elegans hypothetical protein, homolog to human breast cancer-associated protein BRAP2
+NHA1 putative Na+/H+ antiporter
+YKR017c similarity to human hypothetical KIAA0161 protein
+YLR238w similarity to YDR200c
+SPO12 sporulation protein
+SUM1 suppressor of SIR mutations
+BUL1 ubiquitination pathway protein
+YLR392c hypothetical protein
+YKR018c strong similarity to hypothetical protein YJL082w
+LSB1 weak similarity to chicken growth factor receptor-binding protein GRB2 homolog
+YEN1 weak similarity to DNA repair protein RAD2P and Dsh1p
+CLB2 cyclin, G2/M-specific
+PTP3 protein tyrosine phosphatase
+YJR141w weak similarity to hypothetical protein SPBC1734.10c S. pombe
+YNL099c similarity to YNL032w, YNL056w and YDR067c
+SIW14 similarity to YNL099c, YNL056w and YDR067c
+Unknow protein !!!
+HRB1 strong similarity to GBP2P
+YNL056w similarity to YNL032w and YNL099c
+LTP1 protein-tyrosine-phosphatase
+EST1 telomere elongation protein
+DBP7 RNA helicase required for 60S ribosomal subunit assembly
+YNL157w weak similarity to S.pombe hypothetical protein SPAC10F6
+RAD6 E2 ubiquitin-conjugating enzyme
+RAD18 DNA repair protein
+YBR223c hypothetical protein
+MAK11 involved in cell growth and replication of M1 dsRNA virus
+DSS4 GDP/GTP exchange factor for SEC4P
+CDC4 cell division control protein
+GND2 phosphogluconate dehydrogenase
+SAP1 member of the AAA-protein family
+PPS1 protein tyrosine phosphatase
+SEN15 tRNA splicing endonuclease delta subunit
+LRO1 a lecithin cholesterol acyltransferase-like gene, mediates diacylglycerol esterification
+RSN1 similarity to A.thaliana hyp1 protein
+GRX1 glutaredoxin
+ERG6 S-adenosyl-methionine delta-24-sterol-c-methyltransferase
+PRM2 weak similarity to C. elegans F26G1.6 protease
+NTF2 nuclear transport factor
+AFR1 involved in morphogenesis of the mating projection
+RPP0 acidic ribosomal protein L10.e
+YLR287c weak similarity to S.pombe hypothetical protein SPAC22E12
+YER067w strong similarity to hypothetical protein YIL057c
+YHR087w weak similarity to PIR:T50363 hypothetical protein SPBC21C3.19 S.pombe
+Unknow protein !!!
+CTF13 kinetochore protein complex, CBF3, 58 KD subunit
+YOL128c strong similarity to protein kinase MCK1P
+YOR155c similarity to 5'-flanking region of the Pichia MOX gene
+YML029w hypothetical protein
+PEX6 peroxisomal assembly protein
+DNL4 DNA ligase IV
+YDR198c similarity to hypothetical protein S. pombe
+MAK16 nuclear viral propagation protein
+LHS1 chaperone of the ER lumen
+RAD27 ssDNA endonuclease and 5'-3'exonuclease
+STE12 transcriptional activator
+YKL206c hypothetical protein
+YLR199c hypothetical protein
+BEM3 GTPase-activating protein for CDC42P and RHO1P
+YIL055c hypothetical protein
+CIN8 kinesin-related protein
+HIR1 histone transcription regulator
+CBP3 required for assembly of cytochrome bc1 complex
+SLD2 chromosomal DNA replication protein
+TAL1 transaldolase
+TRL1 tRNA ligase
+HYM1 similarity to mouse hypothetical calcium-binding protein and D.melanogaster Mo25 gene
+KIC1 ser/thr protein kinase that interacts with CDC31P
+YHR199c strong similarity to hypothetical protein YHR198c
+TRX2 thioredoxin II
+RAD7 nucleotide excision repair protein
+MCX1 similarity to E.coli ATP-binding protein clpX
+YGR066c similarity to hypothetical protein YBR105c
+SAR1 GTP-binding protein of the ARF family
+NUP53 component of the karyopherin docking complex of the nuclear pore complex
+RNR1 ribonucleoside-diphosphate reductase, large subunit
+DUT1 dUTP pyrophosphatase precursor
+CPR3 cyclophilin (peptidylprolyl isomerase), mitochondrial
+CDC15 protein kinase of the MAP kinase kinase kinase family
+ARL3 ADP-ribosylation factor-like protein, member of the arf-sar family in the ras superfamily
+RAD24 cell cycle checkpoint protein
+YLR413w strong similarity to YKL187c
+PPE1 ribosomal protein of the small subunit, mitochondrial
+YLR427w weak similarity to human transcription regulator Staf-5
+MSC3 hypothetical protein
+ARE1 acyl-CoA sterol acyltransferase
+LAS1 involved in cell morphogenesis, cytoskeletal regulation and bud formation
+RCK2 Ca/calmodulin-dependent ser/thr protein kinase
+Unknow protein !!!
+GIS4 hypothetical protein
+KEL2 involved in cell fusion and morphogenesis
+CAC2 chromatin assembly complex, subunit p60
+YDR482c hypothetical protein
+RAD9 DNA repair checkpoint protein
+Unknow protein !!!
+CHS1 chitin synthase I
+TEC1 Ty transcription activator
+HIR2 histone transcription regulator
+YDR516c strong similarity to glucokinase
+YGL060w strong similarity to hypothetical protein YBR216c
+STE4 GTP-binding protein beta subunit of the pheromone pathway
+ISU1 strong similarity to nitrogen fixation protein (nifU)
+Unknow protein !!!
+YGR067c weak similarity to transcription factors
+SUL2 sulfate transporter
+YFR016c similarity to mammalian neurofilament proteins and to Dictyostelium protein kinase
+MAG1 3-methyladenine DNA glycosylase
+Unknow protein !!!
+AI1 COX1 intron 1 protein
+YER030w similarity to mouse nucleolin
+SEN2 tRNA splicing endonuclease beta subunit
+YHR214w-a strong similarity to hypothetical protein YAR068w
+YNL227c similarity to dnaJ-like proteins
+YMR086w similarity to YKL105c
+YIL137c similarity to M.musculus aminopeptidase
+YBR242w strong similarity to hypothetical protein YGL101w
+YPD1 phosphorelay intermediate between SLN1P and SSK1P
+YKL082c weak similarity to C.elegans hypothetical protein
+YER084w questionable ORF
+YGL104c similarity to glucose transport proteins
+MEK1 ser/thr protein kinase
+YMR323w strong similarity to phosphopyruvate hydratases
+DPB11 involved in DNA replication and S-phase checkpoint
+CDC123 strong similarity to rat cell cycle progression related D123 protein
+SMK1 sporulation-specific MAP kinase
+BUD7 involved in bud-site selection
+SGT1 suppressor of G2 allele of SKP1
+UFO1 involved in degradation of HO protein
+BOP2 hypothetical protein
+RCK1 ser/thr protein kinase
+FUS3 mitogen-activated protein kinase (MAP kinase)
+ROD1 O-dinitrobenzene,calcium and zinc resistance protein
+XRS2 DNA repair protein
+MRE11 DNA repair and meiotic recombination protein
+SSK22 MAP kinase kinase kinase
+YLR187w similarity to hypothetical protein YNL278w
+CDC42 GTP-binding protein of RAS superfamily
+SAN1 mating-type regulation protein
+BEM4 bud emergence protein
+Unknow protein !!!
+STE7 ser/thr/tyr protein kinase of MAP kinase kinase family
+YLR154c hypothetical protein
+BCK2 suppressor of mutations in protein kinase C pathway components
+YDR239c hypothetical protein
+MSE1 glutamyl-tRNA synthetase, mitochondrial
+VAN1 vanadate resistance protein
+MNN9 required for complex N-glycosylation
+YDL193w similarity to N.crassa hypothetical 32 kDa protein
+RAD59 recombination and DNA repair protein
+OPY1 pheromone resistant yeast 1
+PGM1 phosphoglucomutase, minor isoform
+NTG1 DNA repair protein
+CCE1 cruciform-cutting endonuclease, mitochondrial
+RNR3 ribonucleotide reductase, repair inducible large subunit
+YRB2 involved in nuclear protein export
+PRS5 ribose-phosphate pyrophosphokinases
+RAD14 nucleotide excision repair protein
+YMR291w similarity to ser/thr protein kinase
+YBR184w hypothetical protein
+PDX3 pyridoxamine-phosphate oxidase
+HAL5 ser/thr protein kinase
+ITR2 myo-inositol permease, minor
+PSR2 plasma membrane phosphatase required for sodium stress response
+YDL113c similarity to hypothetical protein YDR425w
+AUT2 essential for autophagy
+YNR047w similarity to ser/thr protein kinases
+YIL113w strong similarity to dual-specificity phosphatase MSG5P
+YER078c similarity to E.coli X-Pro aminopeptidase II
+BRE1 weak similarity to spindle pole body protein NUF1
+YPL055c hypothetical protein
+YHR149c similarity to hypothetical protein YGR221c
+CIK1 spindle pole body associated protein
+YGR173w strong similarity to human GTP-binding protein
+YDR152w weak similarity to C.elegans hypothetical protein CET26E3
+SWI5 transcription factor
+STB4 weak similarity to YIL130w, PUT3P and other transcription factors
+YGR002c similarity to hypothetical S. pombe protein
+FAA2 long-chain-fatty-acid--CoA ligase
+OSH3 similarity to OSH1P, YDL019c and mammalian  oxysterol-binding protei
+SKS1 suppressor kinase of SNF3
+SLN1 two-component signal transducer
+GPI16 similarity to hypothetical C. elegans proteins F17c11.7
+MIH1 M-phase inducing protein tyrosine phosphatase
+YDR316w similarity to hypothetical ubiquitin system protein S. pombe
+BUD9 budding protein
+DAK2 dihydroxyacetone kinase
+Unknow protein !!!
+KIM3 drug resistance
+GAL3 galactokinase
+ECM33 involved in cell wall biogenesis and architecture
+Unknow protein !!!
+Unknow protein !!!
+YGP1 secreted glycoprotein
+PCL6 cyclin like protein interacting with PHO85P
+ZMS1 transcription factor with similarity to regulatory protein ARD1P
+PAC2 involved in the stabilization of microtubles
+MAP2 methionine aminopeptidase, isoform 2
+YCL042w questionable ORF
+SKI8 antiviral protein of the beta-transducin (WD-40) repeat family
+SWE1 ser/tyr dual-specifity protein kinase
+AHC1 component of the ADA histone acetyltransferase complex
+YPL146c weak similarity to myosin heavy chain proteins
+YIL079c strong similarity to hypothetical protein YDL175c
+MDH2 malate dehydrogenase, cytoplasmic
+YIL108w similarity to hypothetical S. pombe protein
+Unknow protein !!!
+NUP2 nuclear pore protein
+NUP1 nuclear pore protein
+STO1 large subunit of the nuclear cap-binding protein complex CBC
+YPR090w weak similarity to hypothetical protein SPAC25B8.08 S. pombe
+RNT1 double-stranded ribonuclease
+YOR353c weak similarity to adenylate cyclases
+PEX7 peroxisomal import protein - peroxin
+FZO1 required for biogenesis of mitochondria
+MSH1 DNA mismatch repair protein, mitochondrial
+ELC1 Elongin C transcription elongation factor
+SKM1 STE20/PAK-like protein kinase
+HMG2 3-hydroxy-3-methylglutaryl-coenzyme A reductase 2
+FKH2 homology to D.melanogaster forkhead protein
+MCK1 ser/thr/tyr protein kinase
+YIL105c weak similarity to probable transcription factor ASK10P
+PNT1 pentamidine resistance factor
+YDR102c hypothetical protein
+YCR087w questionable ORF
+APE3 vacuolar aminopeptidase Y
+YDR219c hypothetical protein
+LSM8 splicing factor
+YGL117w hypothetical protein
+APA1 ATP adenylyltransferase I
+YGR205w similarity to S.pombe hypothetical protein D89234
+SWM1 developmentally regulated gene, is required for spore wall assembly
+SWI4 transcription factor
+PTC2 protein serine/threonine phosphatase of the PP2C family
+LIF1 DNA ligase IV interacting factor
+YPR093c weak similarity to zinc-finger proteins
+YKL215c similarity to P. aeruginosa hyuA and hyuB
+YPL113c similarity to glycerate dehydrogenases
+CBP2 apo-cytochrome b pre-mRNA processing protein 2
+ISA1 mitochondrial protein required for normal iron metabolism
+YGR198w weak similarity to PIR:T38996 hypothetical protein SPAC637.04 S. pombe
+YJR041c weak similarity to hypothetical protein SPAC2G11.02 S. pombe
+YDR267c weak similarity to human TAFII100 and other WD-40 repeat containing proteins
+UBP9 ubiquitin carboxyl-terminal hydrolase
+YOL111c weak similarity to human ubiquitin-like protein GDX
+MSN5 multicopy supressor of SNF1 mutation
+YER182w similarity to hypothetical protein SPAC3A12.08 - S. pombe
+NPR2 nitrogen permease regulator
+POX1 acyl-CoA oxidase
+UBC6 E2 ubiquitin-conjugating enzyme
+CPA1 arginine-specific carbamoylphosphate synthase, small chain
+YIL028w hypothetical protein
+SOK1 high copy suppressor of a cyclic AMP-dependent protein kinase mutant
+SVL3 strong similarity to PAM1P
+CYK3 similarity to hypothetical S. pombe protein, protein possibly involved in cytokinesis
+YFR017c hypothetical protein
+Unknow protein !!!
+BNR1 regulator of budding
+MIG1 transcriptional repressor
+SSL2 DNA helicase
+YJL107c similarity to hypothetical S. pombe protein
+SMT3 ubiquitin-like protein
+DBF2 ser/thr protein kinase related to DBF20P
+YER066c-a hypothetical protein
+PPZ1 ser/thr phosphatase required for normal osmoregulation
+BUB3 cell cycle arrest protein
+Q0092 questionable ORF
+PCL9 cyclin like protein interacting with PHO85P
+MUS81 involved in the repair of UV and methylation induced DNA damage
+MMS4 putative transcriptional (co)activator for DNA damage
+RPC10 DNA-directed RNA polymerases I, II, III 7.7 KD subunit
+IST3 similarity to RNA-binding proteins
+YDR247w strong similarity to SKS1P
+SKT5 protoplast regeneration and killer toxin resistance protein
+SEF1 putative transcription factor
+MSG5 dual-specifity protein phosphatase
+YFR011c ochre suppressor tyr-tRNA
+YDR306c weak similarity to S.pombe hypothetical protein SPAC6F6
+YOL087c similarity to S.pombe hypothetical protein
+LEM3 similarity to Ycx1p
+YLR326w hypothetical protein
+YDR339c weak similarity to hypothetical protein YOR004w
+PMC1 Ca2+-transporting P-type ATPase
+ALD5 aldehyde dehydrogenase (NAD+), mitochondrial
+RAD26 DNA repair and recombination protein
+YDR326c strong similarity to YHR080c, similarity to YFL042c and YLR072w
+YMR318c strong similarity to alcohol-dehydrogenase
+RAD17 DNA damage checkpoint control protein
+YGR165w similarity to PIR:T39444 hypothetical protein SPBC14C8.16c S. pombe
+TPT1 tRNA 2'-phosphotransferase
+CKI1 choline kinase
+PMD1 negative regulator of early meiotic expression
+Unknow protein !!!
+GCR2 glycolytic genes transcriptional activator
+Unknow protein !!!
+Unknow protein !!!
+PRS2 ribose-phosphate pyrophosphokinase
+YPL170w similarity to C.elegans LIM homeobox protein
+SPO13 meiosis-specific protein
+RAD30 DNA repair protein
+APG5 involved in autophagy and nutrient starvation
+CDH1 substrate-specific activator of APC-dependent proteolysis
+YLR247c similarity to S.pombe rad8 protein and RDH54P
+EXO70 70 kDa exocyst component protein
+CIN5 transcriptional activator
+SQT1 suppresses dominant-negative mutants of the ribosomal protein QSR1
+GAL2 galactose (and glucose) permease
+YNR065c strong similarity to YJL222w, YIL173w and PEP1P
+RAD2 structure-specific nuclease of the nucleotide excision repairosome
+PEX15 required for peroxisome assembly - peroxin
+MGT1 O6-methylguanine DNA repair methyltransferase
+RIP1 ubiquinol--cytochrome-c reductase iron-sulfur protein precursor
+YBR063c hypothetical protein
+UBC4 E2 ubiquitin-conjugating enzyme
+QCR7 ubiquinol--cytochrome-c reductase subunit 7
+YJR110w similarity to human myotubularin
+POL4 DNA polymerase
+RAD28 protein involved in the same pathway as RAD26P, has beta-transducin (WD-40) repeats
+NTA1 amino-terminal amidase
+CDC7 protein kinase
+BIR1 member of the inhibitor of apoptosis family, participate in chromosome segregation events
+YLR231c strong similarity to rat kynureninase
+YLR331c questionable ORF
+Unknow protein !!!
+NUP133 nuclear pore protein
+YHL039w weak similarity to YPL208w
+PKH1 ser/thr protein kinases
+RED1 meiosis-specific protein
+PSO2 DNA repair protein
+YLR016c weak similarity to TRCDSEMBLNEW:AK022615_1 unnamed ORF;  Homo sapiens
+THP2 subunit of the THO complex, which appears to functionally connect transcription elongation with mitotic recombination
+YNL253w similarity to hypothetical protein C. elegans
+ARO9 aromatic amino acid aminotransferase II
+Q0032 questionable ORF
+YLR320w hypothetical protein
+GDH2 NAD-specific glutamate dehydrogenase (NAD)
+ESC4 Establishes Silent Chromatin
+DHR2 RNA helicase, involved in ribosomal RNA maturation
+YFR039c similarity to hypothetical protein YGL228w
+YGR052w similarity to ser/thr protein kinases
+RPL23B ribosomal protein L23.e
+AFG3 protease of the SEC18/CDC48/PAS1 family of ATPases (AAA)
+RPL5 60S large subunit ribosomal protein L5.e
+CLB5 cyclin, B-type
+YGR263c weak similarity to E.coli lipase like enzyme
+SIR3 silencing regulatory and DNA-repair protein
+TOM1 E3 ubiqitin ligase required for G2/M transition
+YNL260c weak similarity to hypothetical protein S. pombe
+ASI3 similarity to YMR119w
+YJR061w similarity to MNN4P
+KKQ8 ser/thr protein kinase
+TEP1 weak similarity to tensin and to the mammalian tumor suppressor gene product MMAC1/PTEN/TEP1
+SIR1 silencing regulatory protein
+VMA22 vacuolar ATPase assembly protein
+DOG2 2-deoxyglucose-6-phosphate phosphatase
+MSK1 lysyl-tRNA synthetase, mitochondrial
+RHO4 GTP-binding protein of the rho family
+ATP7 F1F0-ATPase complex, FO D subunit
+HMS1 weak similarity to DNA-binding proteins
+ATP5 F1F0-ATPase complex, OSCP subunit
+FUR1 uracil phosphoribosyltransferase
+MCR1 cytochrome-b5 reductase
+ADH5 alcohol dehydrogenase V
+STB3 SIN3 protein-binding protein
+Unknow protein !!!
+Unknow protein !!!
+IME2 ser/thr protein kinase
+YHR105w weak similarity to MVP1P
+URA3 orotidine-5'-phosphate decarboxylase
+YJL045w strong similarity to succinate dehydrogenase flavoprotein
+YOR042w weak similarity to YDR273w
+YLR422w similarity to human DOCK180 protein
+Unknow protein !!!

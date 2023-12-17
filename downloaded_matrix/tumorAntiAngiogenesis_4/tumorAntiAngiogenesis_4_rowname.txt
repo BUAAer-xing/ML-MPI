@@ -1,0 +1,455 @@
+Row 1 : Phase 1 State Component 1 Collocation Point 2 Interval 1
+Row 2 : Phase 1 State Component 1 Collocation Point 3 Interval 1
+Row 3 : Phase 1 State Component 1 Collocation Point 4 Interval 1
+Row 4 : Phase 1 State Component 1 Collocation Point 5 Interval 1
+Row 5 : Phase 1 State Component 1 Collocation Point 6 Interval 1
+Row 6 : Phase 1 State Component 1 Collocation Point 7 Interval 1
+Row 7 : Phase 1 State Component 1 Collocation Point 8 Interval 1
+Row 8 : Phase 1 State Component 1 Collocation Point 1 Interval 2
+Row 9 : Phase 1 State Component 1 Collocation Point 2 Interval 2
+Row 10 : Phase 1 State Component 1 Collocation Point 3 Interval 2
+Row 11 : Phase 1 State Component 1 Collocation Point 4 Interval 2
+Row 12 : Phase 1 State Component 1 Collocation Point 5 Interval 2
+Row 13 : Phase 1 State Component 1 Collocation Point 6 Interval 2
+Row 14 : Phase 1 State Component 1 Collocation Point 1 Interval 3
+Row 15 : Phase 1 State Component 1 Collocation Point 2 Interval 3
+Row 16 : Phase 1 State Component 1 Collocation Point 3 Interval 3
+Row 17 : Phase 1 State Component 1 Collocation Point 4 Interval 3
+Row 18 : Phase 1 State Component 1 Collocation Point 5 Interval 3
+Row 19 : Phase 1 State Component 1 Collocation Point 1 Interval 4
+Row 20 : Phase 1 State Component 1 Collocation Point 2 Interval 4
+Row 21 : Phase 1 State Component 1 Collocation Point 3 Interval 4
+Row 22 : Phase 1 State Component 1 Collocation Point 1 Interval 5
+Row 23 : Phase 1 State Component 1 Collocation Point 2 Interval 5
+Row 24 : Phase 1 State Component 1 Collocation Point 3 Interval 5
+Row 25 : Phase 1 State Component 1 Collocation Point 1 Interval 6
+Row 26 : Phase 1 State Component 1 Collocation Point 2 Interval 6
+Row 27 : Phase 1 State Component 1 Collocation Point 3 Interval 6
+Row 28 : Phase 1 State Component 1 Collocation Point 4 Interval 6
+Row 29 : Phase 1 State Component 1 Collocation Point 5 Interval 6
+Row 30 : Phase 1 State Component 1 Collocation Point 6 Interval 6
+Row 31 : Phase 1 State Component 1 Collocation Point 7 Interval 6
+Row 32 : Phase 1 State Component 1 Collocation Point 8 Interval 6
+Row 33 : Phase 1 State Component 1 Collocation Point 1 Interval 7
+Row 34 : Phase 1 State Component 1 Collocation Point 2 Interval 7
+Row 35 : Phase 1 State Component 1 Collocation Point 3 Interval 7
+Row 36 : Phase 1 State Component 1 Collocation Point 4 Interval 7
+Row 37 : Phase 1 State Component 1 Collocation Point 5 Interval 7
+Row 38 : Phase 1 State Component 1 Collocation Point 6 Interval 7
+Row 39 : Phase 1 State Component 1 Collocation Point 7 Interval 7
+Row 40 : Phase 1 State Component 1 Collocation Point 1 Interval 8
+Row 41 : Phase 1 State Component 1 Collocation Point 2 Interval 8
+Row 42 : Phase 1 State Component 1 Collocation Point 3 Interval 8
+Row 43 : Phase 1 State Component 1 Collocation Point 4 Interval 8
+Row 44 : Phase 1 State Component 1 Collocation Point 5 Interval 8
+Row 45 : Phase 1 State Component 1 Collocation Point 6 Interval 8
+Row 46 : Phase 1 State Component 1 Collocation Point 7 Interval 8
+Row 47 : Phase 1 State Component 1 Collocation Point 8 Interval 8
+Row 48 : Phase 1 State Component 1 Collocation Point 9 Interval 8
+Row 49 : Phase 1 State Component 1 Collocation Point 10 Interval 8
+Row 50 : Phase 1 State Component 1 Collocation Point 1 Interval 9
+Row 51 : Phase 1 State Component 1 Collocation Point 2 Interval 9
+Row 52 : Phase 1 State Component 1 Collocation Point 3 Interval 9
+Row 53 : Phase 1 State Component 1 Collocation Point 1 Interval 10
+Row 54 : Phase 1 State Component 1 Collocation Point 2 Interval 10
+Row 55 : Phase 1 State Component 1 Collocation Point 3 Interval 10
+Row 56 : Phase 1 State Component 1 Collocation Point 1 Interval 11
+Row 57 : Phase 1 State Component 1 Collocation Point 2 Interval 11
+Row 58 : Phase 1 State Component 1 Collocation Point 3 Interval 11
+Row 59 : Phase 1 State Component 1 Collocation Point 1 Interval 12
+Row 60 : Phase 1 State Component 1 Collocation Point 2 Interval 12
+Row 61 : Phase 1 State Component 1 Collocation Point 3 Interval 12
+Row 62 : Phase 1 State Component 1 Collocation Point 1 Interval 13
+Row 63 : Phase 1 State Component 1 Collocation Point 2 Interval 13
+Row 64 : Phase 1 State Component 1 Collocation Point 3 Interval 13
+Row 65 : Phase 1 State Component 1 Collocation Point 4 Interval 13
+Row 66 : Phase 1 State Component 1 Collocation Point 1 Interval 14
+Row 67 : Phase 1 State Component 1 Collocation Point 2 Interval 14
+Row 68 : Phase 1 State Component 1 Collocation Point 3 Interval 14
+Row 69 : Phase 1 State Component 1 Collocation Point 4 Interval 14
+Row 70 : Phase 1 State Component 1 Collocation Point 1 Interval 15
+Row 71 : Phase 1 State Component 1 Collocation Point 2 Interval 15
+Row 72 : Phase 1 State Component 1 Collocation Point 3 Interval 15
+Row 73 : Phase 1 State Component 1 Collocation Point 4 Interval 15
+Row 74 : Phase 1 State Component 1 Collocation Point 1 Interval 16
+Row 75 : Phase 1 State Component 1 Collocation Point 2 Interval 16
+Row 76 : Phase 1 State Component 1 Collocation Point 3 Interval 16
+Row 77 : Phase 1 State Component 1 Collocation Point 4 Interval 16
+Row 78 : Phase 1 State Component 1 Collocation Point 1 Interval 17
+Row 79 : Phase 1 State Component 1 Collocation Point 2 Interval 17
+Row 80 : Phase 1 State Component 1 Collocation Point 3 Interval 17
+Row 81 : Phase 1 State Component 1 Collocation Point 4 Interval 17
+Row 82 : Phase 1 State Component 1 Collocation Point 1 Interval 18
+Row 83 : Phase 1 State Component 1 Collocation Point 2 Interval 18
+Row 84 : Phase 1 State Component 1 Collocation Point 3 Interval 18
+Row 85 : Phase 1 State Component 1 Collocation Point 4 Interval 18
+Row 86 : Phase 1 State Component 1 Collocation Point 1 Interval 19
+Row 87 : Phase 1 State Component 1 Collocation Point 2 Interval 19
+Row 88 : Phase 1 State Component 1 Collocation Point 3 Interval 19
+Row 89 : Phase 1 State Component 1 Collocation Point 4 Interval 19
+Row 90 : Phase 1 State Component 1 Noncollocated point of interval 19
+Row 91 : Phase 1 State Component 2 Collocation Point 2 Interval 1
+Row 92 : Phase 1 State Component 2 Collocation Point 3 Interval 1
+Row 93 : Phase 1 State Component 2 Collocation Point 4 Interval 1
+Row 94 : Phase 1 State Component 2 Collocation Point 5 Interval 1
+Row 95 : Phase 1 State Component 2 Collocation Point 6 Interval 1
+Row 96 : Phase 1 State Component 2 Collocation Point 7 Interval 1
+Row 97 : Phase 1 State Component 2 Collocation Point 8 Interval 1
+Row 98 : Phase 1 State Component 2 Collocation Point 1 Interval 2
+Row 99 : Phase 1 State Component 2 Collocation Point 2 Interval 2
+Row 100 : Phase 1 State Component 2 Collocation Point 3 Interval 2
+Row 101 : Phase 1 State Component 2 Collocation Point 4 Interval 2
+Row 102 : Phase 1 State Component 2 Collocation Point 5 Interval 2
+Row 103 : Phase 1 State Component 2 Collocation Point 6 Interval 2
+Row 104 : Phase 1 State Component 2 Collocation Point 1 Interval 3
+Row 105 : Phase 1 State Component 2 Collocation Point 2 Interval 3
+Row 106 : Phase 1 State Component 2 Collocation Point 3 Interval 3
+Row 107 : Phase 1 State Component 2 Collocation Point 4 Interval 3
+Row 108 : Phase 1 State Component 2 Collocation Point 5 Interval 3
+Row 109 : Phase 1 State Component 2 Collocation Point 1 Interval 4
+Row 110 : Phase 1 State Component 2 Collocation Point 2 Interval 4
+Row 111 : Phase 1 State Component 2 Collocation Point 3 Interval 4
+Row 112 : Phase 1 State Component 2 Collocation Point 1 Interval 5
+Row 113 : Phase 1 State Component 2 Collocation Point 2 Interval 5
+Row 114 : Phase 1 State Component 2 Collocation Point 3 Interval 5
+Row 115 : Phase 1 State Component 2 Collocation Point 1 Interval 6
+Row 116 : Phase 1 State Component 2 Collocation Point 2 Interval 6
+Row 117 : Phase 1 State Component 2 Collocation Point 3 Interval 6
+Row 118 : Phase 1 State Component 2 Collocation Point 4 Interval 6
+Row 119 : Phase 1 State Component 2 Collocation Point 5 Interval 6
+Row 120 : Phase 1 State Component 2 Collocation Point 6 Interval 6
+Row 121 : Phase 1 State Component 2 Collocation Point 7 Interval 6
+Row 122 : Phase 1 State Component 2 Collocation Point 8 Interval 6
+Row 123 : Phase 1 State Component 2 Collocation Point 1 Interval 7
+Row 124 : Phase 1 State Component 2 Collocation Point 2 Interval 7
+Row 125 : Phase 1 State Component 2 Collocation Point 3 Interval 7
+Row 126 : Phase 1 State Component 2 Collocation Point 4 Interval 7
+Row 127 : Phase 1 State Component 2 Collocation Point 5 Interval 7
+Row 128 : Phase 1 State Component 2 Collocation Point 6 Interval 7
+Row 129 : Phase 1 State Component 2 Collocation Point 7 Interval 7
+Row 130 : Phase 1 State Component 2 Collocation Point 1 Interval 8
+Row 131 : Phase 1 State Component 2 Collocation Point 2 Interval 8
+Row 132 : Phase 1 State Component 2 Collocation Point 3 Interval 8
+Row 133 : Phase 1 State Component 2 Collocation Point 4 Interval 8
+Row 134 : Phase 1 State Component 2 Collocation Point 5 Interval 8
+Row 135 : Phase 1 State Component 2 Collocation Point 6 Interval 8
+Row 136 : Phase 1 State Component 2 Collocation Point 7 Interval 8
+Row 137 : Phase 1 State Component 2 Collocation Point 8 Interval 8
+Row 138 : Phase 1 State Component 2 Collocation Point 9 Interval 8
+Row 139 : Phase 1 State Component 2 Collocation Point 10 Interval 8
+Row 140 : Phase 1 State Component 2 Collocation Point 1 Interval 9
+Row 141 : Phase 1 State Component 2 Collocation Point 2 Interval 9
+Row 142 : Phase 1 State Component 2 Collocation Point 3 Interval 9
+Row 143 : Phase 1 State Component 2 Collocation Point 1 Interval 10
+Row 144 : Phase 1 State Component 2 Collocation Point 2 Interval 10
+Row 145 : Phase 1 State Component 2 Collocation Point 3 Interval 10
+Row 146 : Phase 1 State Component 2 Collocation Point 1 Interval 11
+Row 147 : Phase 1 State Component 2 Collocation Point 2 Interval 11
+Row 148 : Phase 1 State Component 2 Collocation Point 3 Interval 11
+Row 149 : Phase 1 State Component 2 Collocation Point 1 Interval 12
+Row 150 : Phase 1 State Component 2 Collocation Point 2 Interval 12
+Row 151 : Phase 1 State Component 2 Collocation Point 3 Interval 12
+Row 152 : Phase 1 State Component 2 Collocation Point 1 Interval 13
+Row 153 : Phase 1 State Component 2 Collocation Point 2 Interval 13
+Row 154 : Phase 1 State Component 2 Collocation Point 3 Interval 13
+Row 155 : Phase 1 State Component 2 Collocation Point 4 Interval 13
+Row 156 : Phase 1 State Component 2 Collocation Point 1 Interval 14
+Row 157 : Phase 1 State Component 2 Collocation Point 2 Interval 14
+Row 158 : Phase 1 State Component 2 Collocation Point 3 Interval 14
+Row 159 : Phase 1 State Component 2 Collocation Point 4 Interval 14
+Row 160 : Phase 1 State Component 2 Collocation Point 1 Interval 15
+Row 161 : Phase 1 State Component 2 Collocation Point 2 Interval 15
+Row 162 : Phase 1 State Component 2 Collocation Point 3 Interval 15
+Row 163 : Phase 1 State Component 2 Collocation Point 4 Interval 15
+Row 164 : Phase 1 State Component 2 Collocation Point 1 Interval 16
+Row 165 : Phase 1 State Component 2 Collocation Point 2 Interval 16
+Row 166 : Phase 1 State Component 2 Collocation Point 3 Interval 16
+Row 167 : Phase 1 State Component 2 Collocation Point 4 Interval 16
+Row 168 : Phase 1 State Component 2 Collocation Point 1 Interval 17
+Row 169 : Phase 1 State Component 2 Collocation Point 2 Interval 17
+Row 170 : Phase 1 State Component 2 Collocation Point 3 Interval 17
+Row 171 : Phase 1 State Component 2 Collocation Point 4 Interval 17
+Row 172 : Phase 1 State Component 2 Collocation Point 1 Interval 18
+Row 173 : Phase 1 State Component 2 Collocation Point 2 Interval 18
+Row 174 : Phase 1 State Component 2 Collocation Point 3 Interval 18
+Row 175 : Phase 1 State Component 2 Collocation Point 4 Interval 18
+Row 176 : Phase 1 State Component 2 Collocation Point 1 Interval 19
+Row 177 : Phase 1 State Component 2 Collocation Point 2 Interval 19
+Row 178 : Phase 1 State Component 2 Collocation Point 3 Interval 19
+Row 179 : Phase 1 State Component 2 Collocation Point 4 Interval 19
+Row 180 : Phase 1 State Component 2 Noncollocated point of interval 19
+Row 181 : Phase 1 Control Component 1 Collocation Point 1
+Row 182 : Phase 1 Control Component 1 Collocation Point 2
+Row 183 : Phase 1 Control Component 1 Collocation Point 3
+Row 184 : Phase 1 Control Component 1 Collocation Point 4
+Row 185 : Phase 1 Control Component 1 Collocation Point 5
+Row 186 : Phase 1 Control Component 1 Collocation Point 6
+Row 187 : Phase 1 Control Component 1 Collocation Point 7
+Row 188 : Phase 1 Control Component 1 Collocation Point 8
+Row 189 : Phase 1 Control Component 1 Collocation Point 9
+Row 190 : Phase 1 Control Component 1 Collocation Point 10
+Row 191 : Phase 1 Control Component 1 Collocation Point 11
+Row 192 : Phase 1 Control Component 1 Collocation Point 12
+Row 193 : Phase 1 Control Component 1 Collocation Point 13
+Row 194 : Phase 1 Control Component 1 Collocation Point 14
+Row 195 : Phase 1 Control Component 1 Collocation Point 15
+Row 196 : Phase 1 Control Component 1 Collocation Point 16
+Row 197 : Phase 1 Control Component 1 Collocation Point 17
+Row 198 : Phase 1 Control Component 1 Collocation Point 18
+Row 199 : Phase 1 Control Component 1 Collocation Point 19
+Row 200 : Phase 1 Control Component 1 Collocation Point 20
+Row 201 : Phase 1 Control Component 1 Collocation Point 21
+Row 202 : Phase 1 Control Component 1 Collocation Point 22
+Row 203 : Phase 1 Control Component 1 Collocation Point 23
+Row 204 : Phase 1 Control Component 1 Collocation Point 24
+Row 205 : Phase 1 Control Component 1 Collocation Point 25
+Row 206 : Phase 1 Control Component 1 Collocation Point 26
+Row 207 : Phase 1 Control Component 1 Collocation Point 27
+Row 208 : Phase 1 Control Component 1 Collocation Point 28
+Row 209 : Phase 1 Control Component 1 Collocation Point 29
+Row 210 : Phase 1 Control Component 1 Collocation Point 30
+Row 211 : Phase 1 Control Component 1 Collocation Point 31
+Row 212 : Phase 1 Control Component 1 Collocation Point 32
+Row 213 : Phase 1 Control Component 1 Collocation Point 33
+Row 214 : Phase 1 Control Component 1 Collocation Point 34
+Row 215 : Phase 1 Control Component 1 Collocation Point 35
+Row 216 : Phase 1 Control Component 1 Collocation Point 36
+Row 217 : Phase 1 Control Component 1 Collocation Point 37
+Row 218 : Phase 1 Control Component 1 Collocation Point 38
+Row 219 : Phase 1 Control Component 1 Collocation Point 39
+Row 220 : Phase 1 Control Component 1 Collocation Point 40
+Row 221 : Phase 1 Control Component 1 Collocation Point 41
+Row 222 : Phase 1 Control Component 1 Collocation Point 42
+Row 223 : Phase 1 Control Component 1 Collocation Point 43
+Row 224 : Phase 1 Control Component 1 Collocation Point 44
+Row 225 : Phase 1 Control Component 1 Collocation Point 45
+Row 226 : Phase 1 Control Component 1 Collocation Point 46
+Row 227 : Phase 1 Control Component 1 Collocation Point 47
+Row 228 : Phase 1 Control Component 1 Collocation Point 48
+Row 229 : Phase 1 Control Component 1 Collocation Point 49
+Row 230 : Phase 1 Control Component 1 Collocation Point 50
+Row 231 : Phase 1 Control Component 1 Collocation Point 51
+Row 232 : Phase 1 Control Component 1 Collocation Point 52
+Row 233 : Phase 1 Control Component 1 Collocation Point 53
+Row 234 : Phase 1 Control Component 1 Collocation Point 54
+Row 235 : Phase 1 Control Component 1 Collocation Point 55
+Row 236 : Phase 1 Control Component 1 Collocation Point 56
+Row 237 : Phase 1 Control Component 1 Collocation Point 57
+Row 238 : Phase 1 Control Component 1 Collocation Point 58
+Row 239 : Phase 1 Control Component 1 Collocation Point 59
+Row 240 : Phase 1 Control Component 1 Collocation Point 60
+Row 241 : Phase 1 Control Component 1 Collocation Point 61
+Row 242 : Phase 1 Control Component 1 Collocation Point 62
+Row 243 : Phase 1 Control Component 1 Collocation Point 63
+Row 244 : Phase 1 Control Component 1 Collocation Point 64
+Row 245 : Phase 1 Control Component 1 Collocation Point 65
+Row 246 : Phase 1 Control Component 1 Collocation Point 66
+Row 247 : Phase 1 Control Component 1 Collocation Point 67
+Row 248 : Phase 1 Control Component 1 Collocation Point 68
+Row 249 : Phase 1 Control Component 1 Collocation Point 69
+Row 250 : Phase 1 Control Component 1 Collocation Point 70
+Row 251 : Phase 1 Control Component 1 Collocation Point 71
+Row 252 : Phase 1 Control Component 1 Collocation Point 72
+Row 253 : Phase 1 Control Component 1 Collocation Point 73
+Row 254 : Phase 1 Control Component 1 Collocation Point 74
+Row 255 : Phase 1 Control Component 1 Collocation Point 75
+Row 256 : Phase 1 Control Component 1 Collocation Point 76
+Row 257 : Phase 1 Control Component 1 Collocation Point 77
+Row 258 : Phase 1 Control Component 1 Collocation Point 78
+Row 259 : Phase 1 Control Component 1 Collocation Point 79
+Row 260 : Phase 1 Control Component 1 Collocation Point 80
+Row 261 : Phase 1 Control Component 1 Collocation Point 81
+Row 262 : Phase 1 Control Component 1 Collocation Point 82
+Row 263 : Phase 1 Control Component 1 Collocation Point 83
+Row 264 : Phase 1 Control Component 1 Collocation Point 84
+Row 265 : Phase 1 Control Component 1 Collocation Point 85
+Row 266 : Phase 1 Control Component 1 Collocation Point 86
+Row 267 : Phase 1 Control Component 1 Collocation Point 87
+Row 268 : Phase 1 Control Component 1 Collocation Point 88
+Row 269 : Phase 1 Control Component 1 Collocation Point 89
+Row 270 : Phase 1 Control Component 1 Collocation Point 90
+Row 271 : Phase 1 tf
+Row 272 : Phase 1 Integral Number: 1
+Row 273 : Phase: 1 Slack Variable Corresponds to Duration Constraint
+Row 274 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 1
+Row 275 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 1
+Row 276 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 1
+Row 277 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 1
+Row 278 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 1
+Row 279 : Phase 1 Defect Constraint Component 1 Collocation Point 6 Interval 1
+Row 280 : Phase 1 Defect Constraint Component 1 Collocation Point 7 Interval 1
+Row 281 : Phase 1 Defect Constraint Component 1 Collocation Point 8 Interval 1
+Row 282 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 2
+Row 283 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 2
+Row 284 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 2
+Row 285 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 2
+Row 286 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 2
+Row 287 : Phase 1 Defect Constraint Component 1 Collocation Point 6 Interval 2
+Row 288 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 3
+Row 289 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 3
+Row 290 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 3
+Row 291 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 3
+Row 292 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 3
+Row 293 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 4
+Row 294 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 4
+Row 295 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 4
+Row 296 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 5
+Row 297 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 5
+Row 298 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 5
+Row 299 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 6
+Row 300 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 6
+Row 301 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 6
+Row 302 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 6
+Row 303 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 6
+Row 304 : Phase 1 Defect Constraint Component 1 Collocation Point 6 Interval 6
+Row 305 : Phase 1 Defect Constraint Component 1 Collocation Point 7 Interval 6
+Row 306 : Phase 1 Defect Constraint Component 1 Collocation Point 8 Interval 6
+Row 307 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 7
+Row 308 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 7
+Row 309 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 7
+Row 310 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 7
+Row 311 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 7
+Row 312 : Phase 1 Defect Constraint Component 1 Collocation Point 6 Interval 7
+Row 313 : Phase 1 Defect Constraint Component 1 Collocation Point 7 Interval 7
+Row 314 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 8
+Row 315 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 8
+Row 316 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 8
+Row 317 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 8
+Row 318 : Phase 1 Defect Constraint Component 1 Collocation Point 5 Interval 8
+Row 319 : Phase 1 Defect Constraint Component 1 Collocation Point 6 Interval 8
+Row 320 : Phase 1 Defect Constraint Component 1 Collocation Point 7 Interval 8
+Row 321 : Phase 1 Defect Constraint Component 1 Collocation Point 8 Interval 8
+Row 322 : Phase 1 Defect Constraint Component 1 Collocation Point 9 Interval 8
+Row 323 : Phase 1 Defect Constraint Component 1 Collocation Point 10 Interval 8
+Row 324 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 9
+Row 325 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 9
+Row 326 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 9
+Row 327 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 10
+Row 328 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 10
+Row 329 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 10
+Row 330 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 11
+Row 331 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 11
+Row 332 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 11
+Row 333 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 12
+Row 334 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 12
+Row 335 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 12
+Row 336 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 13
+Row 337 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 13
+Row 338 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 13
+Row 339 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 13
+Row 340 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 14
+Row 341 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 14
+Row 342 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 14
+Row 343 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 14
+Row 344 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 15
+Row 345 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 15
+Row 346 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 15
+Row 347 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 15
+Row 348 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 16
+Row 349 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 16
+Row 350 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 16
+Row 351 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 16
+Row 352 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 17
+Row 353 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 17
+Row 354 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 17
+Row 355 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 17
+Row 356 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 18
+Row 357 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 18
+Row 358 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 18
+Row 359 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 18
+Row 360 : Phase 1 Defect Constraint Component 1 Collocation Point 1 Interval 19
+Row 361 : Phase 1 Defect Constraint Component 1 Collocation Point 2 Interval 19
+Row 362 : Phase 1 Defect Constraint Component 1 Collocation Point 3 Interval 19
+Row 363 : Phase 1 Defect Constraint Component 1 Collocation Point 4 Interval 19
+Row 364 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 1
+Row 365 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 1
+Row 366 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 1
+Row 367 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 1
+Row 368 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 1
+Row 369 : Phase 1 Defect Constraint Component 2 Collocation Point 6 Interval 1
+Row 370 : Phase 1 Defect Constraint Component 2 Collocation Point 7 Interval 1
+Row 371 : Phase 1 Defect Constraint Component 2 Collocation Point 8 Interval 1
+Row 372 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 2
+Row 373 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 2
+Row 374 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 2
+Row 375 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 2
+Row 376 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 2
+Row 377 : Phase 1 Defect Constraint Component 2 Collocation Point 6 Interval 2
+Row 378 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 3
+Row 379 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 3
+Row 380 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 3
+Row 381 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 3
+Row 382 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 3
+Row 383 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 4
+Row 384 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 4
+Row 385 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 4
+Row 386 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 5
+Row 387 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 5
+Row 388 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 5
+Row 389 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 6
+Row 390 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 6
+Row 391 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 6
+Row 392 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 6
+Row 393 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 6
+Row 394 : Phase 1 Defect Constraint Component 2 Collocation Point 6 Interval 6
+Row 395 : Phase 1 Defect Constraint Component 2 Collocation Point 7 Interval 6
+Row 396 : Phase 1 Defect Constraint Component 2 Collocation Point 8 Interval 6
+Row 397 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 7
+Row 398 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 7
+Row 399 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 7
+Row 400 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 7
+Row 401 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 7
+Row 402 : Phase 1 Defect Constraint Component 2 Collocation Point 6 Interval 7
+Row 403 : Phase 1 Defect Constraint Component 2 Collocation Point 7 Interval 7
+Row 404 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 8
+Row 405 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 8
+Row 406 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 8
+Row 407 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 8
+Row 408 : Phase 1 Defect Constraint Component 2 Collocation Point 5 Interval 8
+Row 409 : Phase 1 Defect Constraint Component 2 Collocation Point 6 Interval 8
+Row 410 : Phase 1 Defect Constraint Component 2 Collocation Point 7 Interval 8
+Row 411 : Phase 1 Defect Constraint Component 2 Collocation Point 8 Interval 8
+Row 412 : Phase 1 Defect Constraint Component 2 Collocation Point 9 Interval 8
+Row 413 : Phase 1 Defect Constraint Component 2 Collocation Point 10 Interval 8
+Row 414 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 9
+Row 415 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 9
+Row 416 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 9
+Row 417 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 10
+Row 418 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 10
+Row 419 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 10
+Row 420 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 11
+Row 421 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 11
+Row 422 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 11
+Row 423 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 12
+Row 424 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 12
+Row 425 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 12
+Row 426 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 13
+Row 427 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 13
+Row 428 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 13
+Row 429 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 13
+Row 430 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 14
+Row 431 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 14
+Row 432 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 14
+Row 433 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 14
+Row 434 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 15
+Row 435 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 15
+Row 436 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 15
+Row 437 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 15
+Row 438 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 16
+Row 439 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 16
+Row 440 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 16
+Row 441 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 16
+Row 442 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 17
+Row 443 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 17
+Row 444 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 17
+Row 445 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 17
+Row 446 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 18
+Row 447 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 18
+Row 448 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 18
+Row 449 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 18
+Row 450 : Phase 1 Defect Constraint Component 2 Collocation Point 1 Interval 19
+Row 451 : Phase 1 Defect Constraint Component 2 Collocation Point 2 Interval 19
+Row 452 : Phase 1 Defect Constraint Component 2 Collocation Point 3 Interval 19
+Row 453 : Phase 1 Defect Constraint Component 2 Collocation Point 4 Interval 19
+Row 454 : Phase 1 Duration Constraint
+Row 455 : Integrand Number: 1

@@ -1,0 +1,17 @@
+%%MatrixMarket matrix coordinate pattern symmetric
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/AG-Monien/se
+% name: AG-Monien/se : G_01 matrix
+%-------------------------------------------------------------------------------
+8 8 10
+2 1
+3 2
+5 2
+4 3
+5 3
+6 4
+7 4
+6 5
+7 6
+8 7

@@ -1,0 +1,172 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/JGD_Margulies/wheel_4_1
+% name: JGD_Margulies/wheel_4_1
+% [Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis]
+% id: 2167
+% date: 2008
+% author: S. Margulies
+% ed: J.-G. Dumas
+% fields: name title A id date author ed kind notes
+% kind: combinatorial problem
+%-------------------------------------------------------------------------------
+% notes:
+% Combinatorial optimization as polynomial eqns, Susan Margulies, UC Davis
+% From Jean-Guillaume Dumas' Sparse Integer Matrix Collection,            
+% http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/simc.html               
+%                                                                         
+% http://arxiv.org/abs/0706.0578                                          
+%                                                                         
+% Expressing Combinatorial Optimization Problems by Systems of Polynomial 
+% Equations and the Nullstellensatz                                       
+%                                                                         
+% Authors: J.A. De Loera, J. Lee, Susan Margulies, S. Onn                 
+%                                                                         
+% (Submitted on 5 Jun 2007)                                               
+%                                                                         
+% Abstract: Systems of polynomial equations over the complex or real      
+% numbers can be used to model combinatorial problems. In this way, a     
+% combinatorial problem is feasible (e.g. a graph is 3-colorable,         
+% hamiltonian, etc.) if and only if a related system of polynomial        
+% equations has a solution. In the first part of this paper, we construct 
+% new polynomial encodings for the problems of finding in a graph its     
+% longest cycle, the largest planar subgraph, the edge-chromatic number,  
+% or the largest k-colorable subgraph.  For an infeasible polynomial      
+% system, the (complex) Hilbert Nullstellensatz gives a certificate that  
+% the associated combinatorial problem is infeasible. Thus, unless P =    
+% NP, there must exist an infinite sequence of infeasible instances of    
+% each hard combinatorial problem for which the minimum degree of a       
+% Hilbert Nullstellensatz certificate of the associated polynomial system 
+% grows.  We show that the minimum-degree of a Nullstellensatz            
+% certificate for the non-existence of a stable set of size greater than  
+% the stability number of the graph is the stability number of the graph. 
+% Moreover, such a certificate contains at least one term per stable set  
+% of G. In contrast, for non-3- colorability, we found only graphs with   
+% Nullstellensatz certificates of degree four.                            
+%                                                                         
+% Filename in JGD collection: Margulies/wheel_4_1.sms                     
+%-------------------------------------------------------------------------------
+36 41 122
+1 1
+2 1
+1 2
+3 2
+4 2
+3 3
+4 3
+15 3
+5 4
+16 4
+25 4
+9 5
+20 5
+32 5
+10 6
+12 6
+22 6
+4 7
+5 7
+6 7
+15 8
+16 8
+17 8
+16 9
+17 9
+26 9
+18 10
+27 10
+32 10
+22 11
+23 11
+30 11
+6 12
+7 12
+8 12
+17 13
+18 13
+19 13
+26 14
+27 14
+28 14
+27 15
+28 15
+33 15
+30 16
+31 16
+35 16
+1 17
+8 17
+9 17
+3 18
+19 18
+20 18
+7 19
+25 19
+28 19
+8 20
+9 20
+33 20
+10 21
+14 21
+35 21
+1 22
+10 22
+11 22
+3 23
+12 23
+21 23
+13 24
+25 24
+29 24
+9 25
+14 25
+34 25
+10 26
+11 26
+36 26
+4 27
+11 27
+12 27
+15 28
+21 28
+22 28
+16 29
+23 29
+29 29
+24 30
+32 30
+34 30
+21 31
+22 31
+36 31
+6 32
+11 32
+13 32
+17 33
+21 33
+23 33
+26 34
+29 34
+30 34
+27 35
+31 35
+34 35
+29 36
+30 36
+36 36
+8 37
+11 37
+14 37
+19 38
+21 38
+24 38
+28 39
+29 39
+31 39
+33 40
+34 40
+35 40
+34 41
+35 41
+36 41

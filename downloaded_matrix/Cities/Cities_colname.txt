@@ -1,0 +1,46 @@
+KP KPMG
+CL Coopers & Lybrand
+EY Ernst & Young International
+AA Arthur Andersen
+PW Price Waterhouse
+GR Grey Worldwide
+DM DMB&B (MacManus Group)
+LH Lowe Howard -Spink
+SS Saatchi and Saatchi
+TH JWT (Thompson)
+OM Ogilvy & Mather Direct Worldwide
+DE Dentsu
+YR Young & Rubicam
+TM TMP
+PU Publicis
+AM Abbott Mead Vickers (BBDO)
+HS HSBC
+BA Barclays
+NW NatWest Group
+SC Standard Chartered Group
+CR Creditanstalt-Bankverein
+DR Dresdner Bank Group
+MO J P Morgan
+PA Compagnie Financi�e de Paribas SA
+CS Credit Suisse
+BB BBV Group
+BT Banker's Trust
+UB UBS
+AB ABN-AMRO
+CB Citibank
+BM Baker & McKenzie
+WC White & Case
+LL Leboeuf, Lamb, Greene & MacRae
+CO Coudert Brothers
+SK Skadden Arps
+BC Bryan Cave
+DW Dorsey & Whitney
+GJ Graham & James
+HH Hogan & Hartson
+JD Jones, Day, Reavis & Pogue
+MC Miller, Canfield, Paddock & Stone
+SQ Squire, Sanders & Dempsey
+WE Wilson, Elser, Moskowitz, Edelman & Dicker
+AO Allen & Overy
+CC Clifford Chance
+FF Freshfields

@@ -1,0 +1,1 @@
+If the Information Systems (IS) field is to exist with other fields in some kind of balance of trade in a marketplace of ideas, the scheme is not working too well, at least when comparing IS with Computer Science (CS). The trade tends to be one-way, from CS to IS. This paper explores why that is the case, and what might be done to change things.

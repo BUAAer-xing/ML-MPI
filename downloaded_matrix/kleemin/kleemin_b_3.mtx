@@ -1,0 +1,12 @@
+%%MatrixMarket matrix array real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Meszaros/kleemin
+% name: Meszaros/kleemin : b_3 matrix
+%-------------------------------------------------------------------------------
+5 1
+1
+100
+10000
+1e6
+1e8

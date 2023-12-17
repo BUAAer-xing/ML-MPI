@@ -1,0 +1,55 @@
+Amsterdam
+Atlanta
+Bangkok
+Barcelona
+Beijing
+Berlin
+Boston
+Brussels
+Budapest
+Buenos Aires
+Caracas
+Chicago
+Copenhagen
+Dallas
+Dusseldorf
+Frankfurt
+Geneva
+Hamburg
+Hong Kong
+Houston
+Istanbul
+Jakarta
+Johannesburg
+Kuala Lumpur
+London
+Los Angeles
+Madrid
+Manila
+Melbourne
+Mexico City
+Miami
+Milan
+Minneapolis
+Montreal
+Moscow
+Munich
+New York
+Osaka
+Paris
+Prague
+Rome
+San Francisco
+Sao Paulo
+Santiago
+Seoul
+Shanghai
+Singapore
+Stockholm
+Sydney
+Taipei
+Tokyo
+Toronto
+Warsaw
+Washington,DC
+Zurich

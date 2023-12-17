@@ -1,0 +1,34 @@
+%%MatrixMarket matrix coordinate integer general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Meszaros/kleemin
+% name: Meszaros/kleemin : A_4 matrix
+%-------------------------------------------------------------------------------
+6 12 27
+1 1 1
+2 2 1
+3 3 1
+4 4 1
+5 5 1
+6 6 1
+1 7 1
+2 7 20
+3 7 200
+4 7 2000
+5 7 20000
+6 7 200000
+2 8 1
+3 8 20
+4 8 200
+5 8 2000
+6 8 20000
+3 9 1
+4 9 20
+5 9 200
+6 9 2000
+4 10 1
+5 10 20
+6 10 200
+5 11 1
+6 11 20
+6 12 1

@@ -1,0 +1,19 @@
+%%MatrixMarket matrix array real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Meszaros/problem
+% name: Meszaros/problem : b matrix
+%-------------------------------------------------------------------------------
+12 1
+1.0001e6
+200
+200
+400
+300
+600
+400
+800
+500
+1000
+600
+1200

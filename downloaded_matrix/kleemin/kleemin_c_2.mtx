@@ -1,0 +1,15 @@
+%%MatrixMarket matrix array real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Meszaros/kleemin
+% name: Meszaros/kleemin : c_2 matrix
+%-------------------------------------------------------------------------------
+8 1
+0
+0
+0
+0
+-1000
+-100
+-10
+-1

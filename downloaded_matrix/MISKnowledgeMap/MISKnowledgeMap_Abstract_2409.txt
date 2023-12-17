@@ -1,0 +1,1 @@
+This paper explores the nature of, and possibilities arising from, dynamic collaboration, where large numbers of people can collaborate on an evolving set of initiatives, without prior knowledge of each other. It references early examples of dynamic collaboration including Topcoder, Innocentive, Zopa, and Wikipedia. It then speculates about the future of dynamic collaboration.
